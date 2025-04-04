@@ -22,6 +22,6 @@ Diese Kampagne beschreibt die katastrophalen Auswirkungen der Passage des Große
 *   Das Ritual am Fokuspunkt durchführen, um einen Bereich (die Erde? eine Region? nur sich selbst?) vor den schlimmsten Auswirkungen von Ghroths Passage abzuschirmen.
 
 **Das Ende:**
-*   Ein "Sieg" bedeutet nicht, Ghroth zu stoppen, sondern das Ritual erfolgreich (wenn auch mit hohen Kosten) durchzuführen und die Konsequenzen zu tragen. Das Ergebnis ist nuanciert und hängt stark von den Spieleraktionen und dem Zustand der [[Uhrensystem|Uhren]] ab. Ein Überleben der Investigatoren ist nicht garantiert, ein Zurück zur "Normalität" ausgeschlossen.
+*   Ein "Sieg" bedeutet nicht, Ghroth zu stoppen, sondern das Ritual erfolgreich (wenn auch mit hohen Kosten) durchzuführen und die Konsequenzen zu tragen. Das Ergebnis ist nuanciert und hängt stark von den Spieleraktionen und dem Zustand der [[Das Uhrensystem|Uhren]] ab. Ein Überleben der Investigatoren ist nicht garantiert, ein Zurück zur "Normalität" ausgeschlossen.
 
 **Verknüpfungen:** [[Ghroth]], [[Die Asche]], [[Der Asche-Chor]], [[Der sterbende Widerstandskult]], [[Das Abschirmungsritual]], [[Die Komponente]], [[Der Fokuspunkt]], [[Uhrensystem]]

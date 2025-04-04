@@ -26,7 +26,7 @@ tags: #Phase2Goal #Investigation #Lore #Hope #RitualClue #ResistanceClue #ClockI
 
 **Mögliche Erfolge / Kleine Siege:**
 *   Ein wichtiges **Fragment** von [[Das Abschirmungsritual]] finden oder entschlüsseln.
-*   Den [[Der sterbende Widerstandskult]] lokalisieren, erfolgreich Kontakt aufnehmen und ihr Vertrauen (teilweise) gewinnen (-> + Punkte auf [[Clock_Widerstand/Hoffnung Uhr]]).
+*   Den [[Der sterbende Widerstandskult]] lokalisieren, erfolgreich Kontakt aufnehmen und ihr Vertrauen (teilweise) gewinnen (-> + Punkte auf [[Widerstand-Hoffnung Uhr]]).
 *   Einen wirksamen (vielleicht nur temporären oder lokalen) Schutzzauber oder ein Schutzartefakt finden/herstellen.
 *   Einen wichtigen Verbündeten ([[Dr. Aris Thorne]], Widerstandsmitglied, anderer Gelehrter) fest auf seine Seite ziehen.
 

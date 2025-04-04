@@ -25,8 +25,8 @@ tags: #Phase2Goal #Investigation #MemeticHazard #TechnoHorror #GhrothClue #Clock
 *   <!-- Clock Influence --> Hohe [[Clock_Öffentliche Panik Uhr]] kann zu Zensur, Fehlinformationen oder Paranoia bei Zeugen führen.
 
 **Mögliche Erfolge / Kleine Siege:**
-*   Das Signal/Medium neutralisieren oder dessen Verbreitung stoppen (-> verlangsamt evtl. psychische Effekte der Asche, evtl. -1 auf [[Clock_Ghroth/Asche Uhr]]?).
-*   Den [[Agent des Schreckens]] fassen/neutralisieren/verstehen (-> evtl. -1 auf [[Clock_Kult Aktivität Uhr]]?, wertvolle Infos über die Quelle).
+*   Das Signal/Medium neutralisieren oder dessen Verbreitung stoppen (-> verlangsamt evtl. psychische Effekte der Asche, evtl. -1 auf [[Asche Uhr]]?).
+*   Den [[Agent des Schreckens]] fassen/neutralisieren/verstehen (-> evtl. -1 auf [[Kult Aktivität Uhr]]?, wertvolle Infos über die Quelle).
 *   Die genaue Natur/Herkunft des Signals entschlüsseln.
 *   Einen (temporären) Schutz gegen den memetischen Effekt entwickeln/finden.
 

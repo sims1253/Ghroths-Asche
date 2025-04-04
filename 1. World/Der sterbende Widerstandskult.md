@@ -27,4 +27,4 @@ tags: #Faction #Ally #LoreSource #SecretSociety #Hope #ClockInfluenced
 *   Ihre Moralvorstellungen sind vielleicht nicht immer mit denen der Spieler vereinbar (Zweck heiligt die Mittel?).
 *   Können wichtige Verbündete sein, aber auch eine Bürde (müssen beschützt werden).
 
-**Verknüpfungen:** [[Das Abschirmungsritual]], [[Wissen]], [[Ghroth]], [[Die Komponente]], [[Der Fokuspunkt]], [[Ziel 3 - Lösung Finden]], [[Clock_Widerstand/Hoffnung Uhr]], [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]
+**Verknüpfungen:** [[Das Abschirmungsritual]], [[Wissen]], [[Ghroth]], [[Die Komponente]], [[Der Fokuspunkt]], [[Ziel 3 - Lösung Finden]], [[Widerstand-Hoffnung Uhr]], [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]

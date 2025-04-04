@@ -24,7 +24,7 @@ tags: #CampaignStructure #TurningPoint #Revelation #KeeperKnowledge #Phase2End #
 *   **Informationsaustausch & Analyse:** Die Spieler legen ihre gesammelten Hinweise auf den Tisch und versuchen (mit oder ohne NPC-Hilfe), die Verbindungen zu sehen.
 *   **Die große Erkenntnis:** Der Moment, in dem klar wird, dass die Bedrohung kosmisch ist und der [[Der Fokuspunkt]] der Schlüssel ist. Dies sollte ein bedeutsamer (und wahrscheinlich SAN-kostender) Moment sein.
 *   **Neue Dringlichkeit:** Mit der Erkenntnis der wahren Natur der Bedrohung und der Bedeutung des Fokuspunktes steigt die Dringlichkeit. Die Spieler wissen jetzt, *wohin* sie (letztendlich) müssen und *warum*.
-*   **Vorbote der Katastrophe:** Dieser Checkpoint fällt oft zeitlich mit einer spürbaren **Verschlimmerung der globalen Lage** zusammen (höherer Stand der [[Clock_Ghroth/Asche Uhr]]). Die Spieler erkennen, dass die Zeit knapp wird, was den Übergang zu [[07 - Der unumkehrbare Himmel]] vorbereitet.
+*   **Vorbote der Katastrophe:** Dieser Checkpoint fällt oft zeitlich mit einer spürbaren **Verschlimmerung der globalen Lage** zusammen (höherer Stand der [[Asche Uhr]]). Die Spieler erkennen, dass die Zeit knapp wird, was den Übergang zu [[07 - Der unumkehrbare Himmel]] vorbereitet.
 
 **Wichtigkeit für die Kampagne:**
 *   Stellt sicher, dass alle Spieler auf einem **gemeinsamen Wissensstand** über die Kernbedrohung und das nächste große Ziel (den Fokuspunkt) sind, bevor die Katastrophe die Regeln ändert.

@@ -33,4 +33,4 @@ tags: #Faction #Antagonist #Cult #HumanFollowers #ClockInfluenced
 *   Konfrontationen mit ihnen liefern Ressourcen, Informationen oder Rückschläge.
 *   Sind die Hauptgegner im Finale ([[12 - Träger der Asche]]).
 
-**Verknüpfungen:** [[Ghroth]], [[Die Asche]], [[Die Transformierten]], [[Ziel 4 - Kult Bekämpfen]], [[Clock_Kult Aktivität Uhr]], [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]
+**Verknüpfungen:** [[Ghroth]], [[Die Asche]], [[Die Transformierten]], [[Ziel 4 - Kult Bekämpfen]], [[Kult Aktivität Uhr]], [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]

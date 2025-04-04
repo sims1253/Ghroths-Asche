@@ -26,10 +26,10 @@ tags: #Phase2Goal #Action #Investigation #Cult #ResourceGain #ClockInfluenced
 *   <!-- Clock Influence --> Hohe [[Clock_Öffentliche Panik Uhr]] kann dazu führen, dass Aktionen gegen den Kult (besonders wenn laut oder ungeschickt) von Behörden als kriminell/terroristisch verfolgt werden, was die Spieler zwischen zwei Fronten bringt.
 
 **Mögliche Erfolge / Kleine Siege:**
-*   Eine wichtige Kult-Zelle zerschlagen oder einen lokalen Anführer ausschalten (-> -1 oder -2 auf [[Clock_Kult Aktivität Uhr]]).
-*   Ein großes Kult-Ritual verhindern, das die Asche gestärkt hätte (-> evtl. -1 auf [[Clock_Ghroth/Asche Uhr]]?).
+*   Eine wichtige Kult-Zelle zerschlagen oder einen lokalen Anführer ausschalten (-> -1 oder -2 auf [[Kult Aktivität Uhr]]).
+*   Ein großes Kult-Ritual verhindern, das die Asche gestärkt hätte (-> evtl. -1 auf [[Asche Uhr]]?).
 *   Wertvolle Ressourcen (Waffen, Geld, seltene Informationen) erbeuten.
-*   Gefangene befreien, die wichtige Informationen liefern oder zu Verbündeten werden (-> evtl. +1 auf [[Clock_Widerstand/Hoffnung Uhr]]?).
+*   Gefangene befreien, die wichtige Informationen liefern oder zu Verbündeten werden (-> evtl. +1 auf [[Widerstand-Hoffnung Uhr]]?).
 
 **Wichtige Kampagnen-Infos (Hooks), die hier gefunden werden KÖNNEN:**
 *   **KULT-PLÄNE & WISSEN (WICHTIG):** Einblicke in die **Hierarchie, kurzfristigen Ziele, Rituale** des Kults. Ihr Verständnis der Asche und [[Ghroth]]s. Sie könnten **selbst Fragmente von Ritualwissen** ([[Das Abschirmungsritual]]) besitzen (vielleicht fehlinterpretiert?) oder Hinweise auf [[Die Komponente]] haben (weil sie sie selbst suchen?). -> [[Wissen]].

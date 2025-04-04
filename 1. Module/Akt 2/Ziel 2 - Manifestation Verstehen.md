@@ -25,9 +25,9 @@ tags: #Phase2Goal #Investigation #EnvironmentalHorror #Exploration #NonEuclidean
 *   <!-- Clock Influence --> Hohe [[Clock_Kult Aktivität Uhr]] bedeutet, dass Kultisten diese Orte bereits erforschen, besetzt halten oder Fallen gestellt haben. Evtl. Konkurrenz um die Erkundung.
 
 **Mögliche Erfolge / Kleine Siege:**
-*   Eine Withering-Quelle temporär eindämmen/verlangsamen (-> evtl. -1 auf [[Clock_Ghroth/Asche Uhr]]?).
+*   Eine Withering-Quelle temporär eindämmen/verlangsamen (-> evtl. -1 auf [[Asche Uhr]]?).
 *   Einen Weg durch ein Labyrinth finden oder dessen Zentrum erreichen/verstehen.
-*   Die Eigenschaften eines resistenten Ortes entschlüsseln (-> +1 [[Clock_Widerstand/Hoffnung Uhr]]?, Hinweis für [[Ziel 3 - Lösung Finden]]).
+*   Die Eigenschaften eines resistenten Ortes entschlüsseln (-> +1 [[Widerstand-Hoffnung Uhr]]?, Hinweis für [[Ziel 3 - Lösung Finden]]).
 *   Präzise Messdaten über die energetischen/räumlichen Anomalien sammeln und dokumentieren.
 
 **Wichtige Kampagnen-Infos (Hooks), die hier gefunden werden KÖNNEN:**

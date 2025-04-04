@@ -1,63 +1,56 @@
 # 03 - Der Schattengefaltete Chor
 
-tags: #Adventure #Phase1 #Cult #BodyHorror #ClockActivation
+tags: #Adventure #Phase1 #Cult #BodyHorror #ClockActivation #SeedPhase2
 **Song/Thema:** Lifeless, Deathless (Übernahme von Körper/Geist, leblos/todeslos, Verstand gefaltet, Versklavung als Erfüllung)
 
-**Hook:** Untersuchung von Vermissten nahe [[Museum der Obskuritäten]], [[Galerie Mortis]], [[Flüsterhöhlen]] ODER Berichte über "lebende Statuen" / Personen mit völlig leerem Blick. [[Dr. Aris Thorne]] (falls kontaktiert in [[02 - Das Gewicht, das verweilt]]) bittet vielleicht um Hilfe oder liefert einen Hinweis auf verdächtige Aktivitäten in der Gegend.
+**Hook:** Untersuchung von Vermissten nahe [[Museum der Obskuritäten]], [[Galerie Mortis]], [[Flüsterhöhlen]] ODER Berichte über "lebende Statuen" / Personen mit völlig leerem Blick. [[Dr. Aris Thorne]] (falls kontaktiert in [[02 - Das Gewicht, das verweilt]]) bittet vielleicht um Hilfe oder liefert einen Hinweis auf verdächtige Aktivitäten einer neuartigen Gruppierung.
 
-**Situation:** Menschen wurden vollständig von [[Die Asche]] transformiert, ihre Individualität ausgelöscht. Sind jetzt Hüllen ([[Die Transformierten]]), gesteuert von einer fremden Intelligenz (frühe Manifestation des [[Der Asche-Chor]]-Willens? Ein erwecktes lokales Mythos-Wesen?). Der erste organisierte [[Der Asche-Chor]] (Kult) beschützt/verehrt sie und versucht, neue Mitglieder zu rekrutieren/transformieren. Dies ist die erste direkte Konfrontation mit einer organisierten menschlichen Fraktion, die der Asche dient.
+**Situation:** Menschen wurden vollständig von [[Die Asche]] transformiert, ihre Individualität ausgelöscht. Sind jetzt Hüllen ([[Die Transformierten]]), gesteuert von einer fremden Intelligenz (frühe Manifestation des [[Der Asche-Chor]]-Willens? Ein erwecktes lokales Mythos-Wesen?). Der erste organisierte [[Der Asche-Chor]] (Kult) beschützt/verehrt sie und versucht, neue Mitglieder zu rekrutieren/transformieren. Dies ist die erste direkte Konfrontation mit einer organisierten menschlichen Fraktion, die der Asche dient. *Fokus: Wer sind diese Kultisten? Wie funktioniert die Transformation? Welche Ziele verfolgen sie?*
 
 **Key Locations:**
-*   [[Ort der Transformation]] (Museumskeller mit seltsamen Artefakten, Höhle mit unnatürlicher Resonanz, Künstleratelier mit Asche-basierten "Skulpturen") - Hier geschieht/geschah die Verwandlung.
-*   [[Versteckter Kultisten-Schrein]] (In der Nähe des Transformationsortes oder separat; mit [[Asche-Chor Symbol (Früh)]], Opfergaben - evtl. persönliche Gegenstände der Transformierten?, fragmentarische Texte über "Die große Stille", "Asche-Werdung", "Dem Sänger dienen").
-*   [[Wohnungen der Vermissten]] (Hinweise auf Kontakt zum Kult, Persönlichkeitsveränderung, vielleicht Einladungen zu Treffen oder Tagebucheinträge über seltsame Erlebnisse/Überzeugungen).
-*   **(Optional)** Ein Ort, an dem der Kult versucht, eine neue Transformation durchzuführen (z.B. ein Hinterzimmer in einer Galerie während einer Vernissage, eine nächtliche Zeremonie in den Höhlen).
+*   [[Ort der Transformation]]: Museumskeller mit seltsamen Artefakten, die als Fokus dienen? Höhle mit unnatürlicher Resonanz, die den Prozess ermöglicht (Hinweis auf [[Ziel 2 - Manifestation Verstehen]])? Künstleratelier, wo mit Asche-basierten Materialien experimentiert wird (Hinweis auf [[Die Asche]]-Eigenschaften)?
+*   [[Versteckter Kultisten-Schrein]]: Enthält [[Asche-Chor Symbol (Früh)]], Opfergaben, **fragmentarische Texte**. Wichtig: Diese Texte sollten **mehrdeutige Hinweise** enthalten:
+    *   Verehrung des "Sängers" / der "Stille" / des "Sterns" (Hinweis auf [[Ziel 1 - Quelle Verstehen]]).
+    *   Erwähnung von "Orten der Macht" / "Heiliger Geometrie" / "Linien der Asche" (Hinweis auf [[Ziel 2 - Manifestation Verstehen]]).
+    *   Anleitungen für Rituale der Transformation oder zur "Stärkung der Präsenz" (Hinweis auf [[Ziel 4 - Kult Bekämpfen]]).
+    *   Verächtliche Bemerkungen über "die alten Wächter" / "jene, die sich der Reinigung widersetzen" (Hinweis auf [[Ziel 3 - Lösung Finden]]).
+*   [[Wohnungen der Vermissten]]: Hinweise auf Rekrutierung (Online? Persönlich?), Persönlichkeitsveränderung, Tagebücher über seltsame Träume, Geräusche oder den Wunsch nach "Erlösung". Evtl. Karten oder Notizen, die auf Kult-Treffpunkte oder andere relevante Orte deuten.
+*   **(Optional)** Ort einer geplanten Transformation (liefert direkten Einblick in Methoden).
 
 **Key NPCs/Factions:**
-*   [[Die Transformierten]] ("Schattengefaltete", unheimlich still, bewegen sich koordiniert und zweckgerichtet, wenn aktiviert; immun gg. Schmerz/Angst; besitzen evtl. rudimentäre Anweisungen oder strahlen Kälte/Unbehagen aus).
-*   [[Der Asche-Chor]] Kultisten (Erste Begegnung mit organisierten menschlichen Antagonisten; fanatisch überzeugt von ihrer Sache; können von manipulativen Anführern bis zu verängstigten Mitläufern reichen - *Möglichkeit für soziale Interaktion/Intrigen? Gibt es Zweifler?*).
-*   [[Potenzielle Rekruten/Opfer]] des Kults (Können gerettet werden? Sind sie schon zu weit beeinflusst?).
-*   [[Kurator Müller]] / [[Höhlenforscher Grau]] (Ahnungslos oder unwissentlicher Helfer? Könnten Informationen über den Ort oder die Vermissten haben).
+*   [[Die Transformierten]]: Unheimlich, koordiniert, immun gg. Schmerz/Angst. Ihre Untersuchung könnte Hinweise auf den Prozess oder die steuernde Intelligenz geben. Strahlen sie eine messbare Energie ab (Ziel 2)?
+*   [[Der Asche-Chor]] Kultisten: Erste Chance, direkt mit ihnen zu interagieren (Kampf, Verhör, Infiltration?). Zeigen unterschiedliche Grade an Fanatismus. Haben sie Wissen über andere Zellen oder höhere Ebenen (Ziel 4)? Kennen sie Rituale (Ziel 3)? Sprechen sie von der "Quelle" (Ziel 1)?
+*   [[Potenzielle Rekruten/Opfer]]: Können gerettet werden? Liefern Informationen über Rekrutierungsmethoden.
+*   [[Kurator Müller]] / [[Höhlenforscher Grau]]: Wissen sie mehr über die Anomalien des Ortes (Ziel 2) oder die Artefakte/Texte, die der Kult nutzt (Ziel 3)?
 
 **Threats/Obstacles:**
-*   [[Die Transformierten]] (Physische Bedrohung, evtl. überraschend widerstandsfähig oder mit Asche-basierten Fähigkeiten wie Staubwolken, Versteinerungsberührung?).
-*   [[Der Asche-Chor]] Kultisten (Hinterhalte, Fallen, soziale Manipulation, Nutzung von einfachen Waffen oder rituellen Gegenständen, evtl. Überzahl).
-*   **Body Horror:** Zeuge der Transformation werden (schwerer SAN-Verlust), Untersuchung der leblosen, aber nicht toten Körper der Transformierten.
-*   **Psychologischer Horror:** Die Ideologie des Kults verstehen (Nihilismus, Erlösung in der Leere), die völlige Auslöschung der Persönlichkeit bei den Transformierten erkennen.
-*   **Gefahr der eigenen Transformation?** (Bei intensivem Kontakt mit der Quelle oder den Transformierten? Erfordert evtl. CON/POW-Würfe?).
+*   [[Die Transformierten]] (Physische Bedrohung, evtl. Asche-Fähigkeiten?).
+*   [[Der Asche-Chor]] Kultisten (Organisierter Widerstand, Fallen, evtl. einfache Waffen).
+*   **Body Horror:** Zeuge/Untersuchung der Transformation.
+*   **Psychologischer Horror:** Kult-Ideologie, Auslöschung der Persönlichkeit.
+*   **Gefahr der eigenen Transformation?** (Bei intensivem Kontakt?).
 
 **Clues/Discoveries (Scenario):**
-*   Wie funktioniert die Transformation? (Ein spezifischer Ort? Ein Ritual? Ein Artefakt? Konzentrierte [[Die Asche]]?).
-*   Wer oder was kontrolliert [[Die Transformierten]]? (Hinweis auf einen kollektiven Willen oder einen lokalen "Priester" des Kults).
-*   Ziele/Glaube des [[Der Asche-Chor]] (Suche nach "Erlösung" in der Leere, Vorbereitung auf etwas Kommendes, Verehrung einer Entität - "Der Sänger"?).
-*   **Kleiner Sieg:** Eine geplante Transformation verhindern; einen wichtigen Kultisten lebend fassen und verhören (Informationen über Struktur/Pläne); potenzielle Opfer warnen/retten; den Transformationsprozess (teilweise) verstehen oder stören.
+*   Wie funktioniert die Transformation? (Ort? Ritual? Substanz?).
+*   Wer/Was kontrolliert [[Die Transformierten]]? (Hinweis auf kollektiven Willen/lokalen Anführer).
+*   Ziele/Glaube des [[Der Asche-Chor]].
+*   **Kleiner Sieg:** Transformation verhindern; Kultisten fassen/verhören; Opfer retten; Transformationsort unbrauchbar machen (-> evtl. -1 [[Clock_Kult Aktivität Uhr]]?).
 
-**Clues/Discoveries (Campaign - HOOK):**
-*   **ERSTE ANTAGONISTEN:** Der [[Der Asche-Chor]] ist eine organisierte, menschliche Bedrohung, die aktiv handelt.
-*   **NATUR DER TRANSFORMATION:** [[Die Asche]] löscht Individualität, schafft gesteuerte Hüllen -> [[Wissen]].
-*   **KULT-WISSEN (WICHTIG):** Sicherstellung von **fragmentarischen** Kult-Texten/Symbolen ([[Asche-Chor Symbol (Früh)]]). Diese sind **kryptisch**, müssen später interpretiert werden, könnten aber Schlüsselworte enthalten ("Sänger", "Former", "Stern", "Stille", Hinweise auf Geometrie/Energie). (Clue 1 für Ritual-Elemente / Ghroth).
-*   **VERZWEIGUNG DER ERMITTLUNG:** Die Funde hier (Kult-Ziele, Natur der Asche, evtl. Hinweise auf andere Aktivitäten des Kults) sollten den Spielern **mehrere mögliche nächste Schritte** aufzeigen und sie in die [[Phase 2 Hub - Offene Investigation]] führen. Leads könnten sein:
-    *   Woher beziehen die Kultisten ihr Wissen/ihre Macht? (-> [[Ziel 3 - Lösung Finden]])
-    *   Nutzen sie bestimmte Orte oder Energien? (-> [[Ziel 2 - Manifestation Verstehen]])
-    *   Gibt es eine zentrale Führung oder weitere Zellen? (-> [[Ziel 4 - Kult Bekämpfen]])
-    *   Hängen die seltsamen Symbole mit astronomischen/akustischen Phänomenen zusammen? (-> [[Ziel 1 - Quelle Verstehen]])
+**Clues/Discoveries (Campaign - HOOK - Seeds für Phase 2):**
+*   **KULT ETABLIERT:** [[Der Asche-Chor]] ist eine organisierte Bedrohung (-> [[Ziel 4 - Kult Bekämpfen]]).
+*   **TRANSFORMATION VERSTANDEN:** [[Die Asche]] löscht Individualität -> [[Wissen]].
+*   **KULT-WISSEN (FRAGMENTIERT):** Sicherstellung **kryptischer** Texte/Symbole mit Hinweisen auf **alle vier Ermittlungsziele** (Quelle, Manifestation, Lösung/Widerstand, Kult-Pläne). Diese Texte sind der Hauptauslöser für die offene Phase.
+*   **LEADS GENERIERT:** Basierend auf den Texten, Orten und NPC-Interaktionen sollten die Spieler nun **mehrere konkrete Spuren** haben, denen sie in Phase 2 nachgehen können (z.B. "Wir müssen diese seltsame Energiequelle untersuchen", "Wir müssen mehr über diesen 'Sänger' herausfinden", "Wir müssen diesen Widerstand finden, von dem sie sprachen", "Wir müssen die nächste Kult-Zelle finden").
 
-**Potential Escalations:**
-*   Der Kult schlägt zurück (Angriff auf die Investigatoren oder ihre Basis).
-*   Ein wichtiger Ort wird vollständig vom Kult übernommen/versiegelt.
-*   [[Die Transformierten]] werden als Terrorinstrument eingesetzt.
-*   Ein Investigator wird infiziert/beginnt sich zu verwandeln? -> [[Trauma & Narben Log]]
+**Potential Escalations:** Kult schlägt zurück, wichtiger Ort wird übernommen, Transformation wird öffentlich, SC wird infiziert.
 
 **Resolution/Outcome (Scenario):**
-*   Lokale Kult-Zelle (hoffentlich) gestört/gestoppt. [[Die Transformierten]] neutralisiert.
-*   Wichtige, aber **unvollständige und kryptische** Kult-Dokumente/Symbole sichergestellt. **Mehr Fragen als Antworten, aber klare nächste Ermittlungsrichtungen.**
-*   <!-- Clock Integration --> **Das [[Uhrensystem]] wird nun aktiviert.** Basierend auf dem Ausgang (wie laut/chaotisch war die Konfrontation? Wurden Kultisten gefasst/alarmiert? Konnten sie fliehen?):
-    *   Setze initialen Stand für [[Clock_Kult Aktivität Uhr]] (z.B. 1-2 Segmente, wenn sie alarmiert wurden).
-    *   Setze initialen Stand für [[Clock_Öffentliche Panik Uhr]] (z.B. 1 Segment, falls Aktionen sehr öffentlich waren oder Leichen gefunden werden).
-    *   Die [[Clock_Ghroth/Asche Uhr]] beginnt zu ticken (z.B. +1 Segment pro Woche Ingame-Zeit oder pro größerem Mythos-Ereignis, das unentdeckt bleibt).
-    *   Die [[Clock_Widerstand/Hoffnung Uhr]] startet bei 0.
+*   Lokale Kult-Zelle gestört. Transformation (teilweise) verstanden.
+*   **Entscheidend:** Spieler haben **multiple, konkrete, aber unvollständige Hinweise** gesammelt, die sie in die verschiedenen Richtungen der Phase 2 lenken. Sie müssen nun entscheiden, welche Spur(en) sie verfolgen.
+*   <!-- Clock Integration --> **Das [[Uhrensystem]] wird nun aktiviert.** Basierend auf dem Ausgang:
+    *   Setze initialen Stand für [[Clock_Kult Aktivität Uhr]] (z.B. 1-2 Segmente, wenn alarmiert/einige entkommen).
+    *   Setze initialen Stand für [[Clock_Öffentliche Panik Uhr]] (z.B. 1 Segment, wenn Aktionen öffentlich).
+    *   [[Clock_Ghroth/Asche Uhr]] beginnt zu ticken (z.B. +1 pro Woche/Monat).
+    *   [[Clock_Widerstand/Hoffnung Uhr]] startet bei 0.
 
-**(Optional) Keeper Notes:**
-*   Body Horror und das Unheimliche betonen.
-*   Den Kult als menschliche, wenn auch fehlgeleitete, Bedrohung darstellen. Raum für soziale Interaktion/Intrigen lassen.
-*   Sicherstellen, dass die Spieler am Ende mehrere klare, aber unterschiedliche Spuren haben, denen sie nachgehen können.
+**(Optional) Keeper Notes:** Dieses Abenteuer ist der wichtigste Startpunkt für Phase 2. Stelle sicher, dass die gefundenen Kult-Texte/Hinweise wirklich Anknüpfungspunkte für alle vier Ziele bieten, auch wenn sie kryptisch sind. Die Spieler sollen am Ende eine Wahl haben.

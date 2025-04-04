@@ -171,16 +171,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Module/Akt 2/Ort - Szenario - Die Withering Zone (Beispiel für Ziel 2).md",
+                "file": "1. Module/Akt 2/Ort - Szenario - Die Withering Zone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ort - Szenario - Die Withering Zone (Beispiel für Ziel 2)"
+              "title": "Ort - Szenario - Die Withering Zone"
             }
           },
           {
-            "id": "059811367e8a3b16",
+            "id": "eb6023d9bc131a0e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -190,128 +190,163 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "main",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"excalidraw/main.excalidraw\"},\"icon\":\"excalidraw-icon\",\"title\":\"main\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Der Fokuspunkt",
+                  "title": "Defektes Mythos-Wesen",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der Fokuspunkt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der Fokuspunkt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":29},\"to\":{\"line\":24,\"ch\":29}},\"scroll\":15.982708333333333}"
-                },
-                {
-                  "title": "Die Komponente",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Komponente.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Komponente\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":164},\"to\":{\"line\":33,\"ch\":164}},\"scroll\":6.196041666666667}"
-                },
-                {
-                  "title": "Das Abschirmungsritual",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Das Abschirmungsritual.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das Abschirmungsritual\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":158},\"to\":{\"line\":34,\"ch\":158}}}"
-                },
-                {
-                  "title": "Der Fokuspunkt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der Fokuspunkt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der Fokuspunkt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":87},\"to\":{\"line\":19,\"ch\":87}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ghroth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Ghroth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}},\"scroll\":9.532354797979798}"
-                },
-                {
-                  "title": "Der sterbende Widerstandskult",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der sterbende Widerstandskult.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der sterbende Widerstandskult\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":239},\"to\":{\"line\":29,\"ch\":239}},\"scroll\":0.8919333884492736}"
-                },
-                {
-                  "title": "Der Asche-Chor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der Asche-Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der Asche-Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":195},\"to\":{\"line\":35,\"ch\":195}},\"scroll\":0.4384079366954057}"
-                },
-                {
-                  "title": "Dr. Aris Thorne",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Dr. Aris Thorne.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Aris Thorne\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":116},\"to\":{\"line\":28,\"ch\":116}},\"scroll\":0}"
-                },
-                {
-                  "title": "Die Asche",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Asche\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":215},\"to\":{\"line\":34,\"ch\":215}},\"scroll\":6.316041666666667}"
-                },
-                {
-                  "title": "Dr. Aris Thorne",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Dr. Aris Thorne.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Aris Thorne\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Ghroth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Ghroth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":171},\"to\":{\"line\":25,\"ch\":171}},\"scroll\":0}"
-                },
-                {
-                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":31},\"to\":{\"line\":8,\"ch\":31}},\"scroll\":3.5794270833333335}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.2}"
-                },
-                {
-                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Defektes Mythos-Wesen.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Defektes Mythos-Wesen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":173},\"to\":{\"line\":39,\"ch\":173}},\"scroll\":5.671549479166667}"
                 },
                 {
                   "title": "Ghroths Asche Kampagnenübersicht",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":53},\"to\":{\"line\":73,\"ch\":53}},\"scroll\":70.50375}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":112},\"to\":{\"line\":87,\"ch\":112}},\"scroll\":63.05555555555556}"
                 },
                 {
-                  "title": "Ghroth",
+                  "title": "Transformierte Kreaturen & Opfer",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Ghroth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroth\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Transformierte Kreaturen & Opfer.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Transformierte Kreaturen & Opfer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":127},\"to\":{\"line\":36,\"ch\":127}},\"scroll\":9.766782407407408}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":72},\"to\":{\"line\":86,\"ch\":72}},\"scroll\":63.05555555555556}"
+                },
+                {
+                  "title": "Erwachte Schrecken",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Erwachte Schrecken.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Erwachte Schrecken\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":142},\"to\":{\"line\":36,\"ch\":142}},\"scroll\":5.430859375}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":43},\"to\":{\"line\":86,\"ch\":43}},\"scroll\":66.98148148148148}"
+                },
+                {
+                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. DM Screen/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":51},\"to\":{\"line\":10,\"ch\":51}},\"scroll\":0}"
+                },
+                {
+                  "title": "Widerstand-Hoffnung Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Widerstand-Hoffnung Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widerstand-Hoffnung Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":7}},\"scroll\":16.464767156862745}"
+                },
+                {
+                  "title": "Öffentliche Panik Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Öffentliche Panik Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Öffentliche Panik Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":7}}}"
+                },
+                {
+                  "title": "Kult Aktivität Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Kult Aktivität Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kult Aktivität Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Das Uhrensystem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Das Uhrensystem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das Uhrensystem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":165},\"to\":{\"line\":33,\"ch\":165}},\"scroll\":16.982708333333335}"
+                },
+                {
+                  "title": "Asche Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Asche Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Asche Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":283},\"to\":{\"line\":18,\"ch\":283}},\"scroll\":9.543198529411764}"
+                },
+                {
+                  "title": "Widerstand-Hoffnung Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Widerstand-Hoffnung Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widerstand-Hoffnung Uhr\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kult Aktivität Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Kult Aktivität Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kult Aktivität Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":25},\"to\":{\"line\":16,\"ch\":25}}}"
+                },
+                {
+                  "title": "Öffentliche Panik Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Öffentliche Panik Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Öffentliche Panik Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":24},\"to\":{\"line\":10,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "Widerstand-Hoffnung Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Widerstand-Hoffnung Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widerstand-Hoffnung Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Kult Aktivität Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Kult Aktivität Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Clock_Kult Aktivität Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":87},\"to\":{\"line\":27,\"ch\":87}},\"scroll\":0}"
+                },
+                {
+                  "title": "Asche Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Asche Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Asche Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":99},\"to\":{\"line\":27,\"ch\":99}},\"scroll\":0.05291130270461793}"
+                },
+                {
+                  "title": "Öffentliche Panik Uhr",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Öffentliche Panik Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Clock_Öffentliche Panik Uhr\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Das Uhrensystem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Das Uhrensystem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das Uhrensystem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":18},\"to\":{\"line\":39,\"ch\":18}},\"scroll\":18.956041666666668}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghroths Asche Kampagnenübersicht.md",
+                "file": "1. Module/Akt 2/Ziel 1 - Quelle Verstehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghroths Asche Kampagnenübersicht"
+              "title": "Ziel 1 - Quelle Verstehen"
             }
           },
           {
-            "id": "2fe1578c9479fa9c",
+            "id": "894ec6d03e18ffe9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ort - Szenario - Der Flüsternde Sender"
+            }
+          },
+          {
+            "id": "8f0a87ac7c74569c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -321,104 +356,62 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "08_09 - Wettlauf um die Komponente",
+                  "title": "02 - Das Gewicht, das verweilt",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 3/08_09 - Wettlauf um die Komponente.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"08_09 - Wettlauf um die Komponente\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":49},\"to\":{\"line\":31,\"ch\":49}},\"scroll\":10.987630208333334}"
-                },
-                {
-                  "title": "03 - Der Schattengefaltete Chor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":222},\"to\":{\"line\":45,\"ch\":222}},\"scroll\":14.654296875}"
                 },
                 {
                   "title": "01 - Der Asche-Zorn von Black Creek",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":200},\"to\":{\"line\":50,\"ch\":200}},\"scroll\":20.36672794117647}"
                 },
                 {
-                  "title": "03 - Der Schattengefaltete Chor",
+                  "title": "Ort - Szenario - Das sich windende Herz",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Das sich windende Herz\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":38},\"to\":{\"line\":0,\"ch\":38}},\"scroll\":18.027304292929294}"
                 },
                 {
-                  "title": "02 - Das Gewicht, das verweilt",
+                  "title": "Ort - Szenario - Der Flüsternde Sender",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Der Flüsternde Sender\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":37},\"to\":{\"line\":0,\"ch\":37}},\"scroll\":0}"
                 },
                 {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "title": "Ort - Szenario - Die Withering Zone",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Die Withering Zone.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Die Withering Zone\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":34},\"to\":{\"line\":0,\"ch\":34}},\"scroll\":0}"
                 },
                 {
-                  "title": "02 - Das Gewicht, das verweilt",
+                  "title": "Ort - Szenario - Der Flüsternde Sender",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Der Flüsternde Sender\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":37},\"to\":{\"line\":0,\"ch\":37}}}"
                 },
                 {
-                  "title": "03 - Der Schattengefaltete Chor",
+                  "title": "Ort - Szenario - Das sich windende Herz",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "02 - Das Gewicht, das verweilt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Checkpoint - Muster erkannt & Fokuspunkt lokalisiert",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Checkpoint - Muster erkannt & Fokuspunkt lokalisiert\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.778125}"
-                },
-                {
-                  "title": "Die Komponente",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Komponente.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Komponente\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":36},\"to\":{\"line\":66,\"ch\":36}},\"scroll\":57.489583333333336}"
-                },
-                {
-                  "title": "Checkpoint - Muster erkannt & Fokuspunkt lokalisiert",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Checkpoint - Muster erkannt & Fokuspunkt lokalisiert\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Das sich windende Herz\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":38},\"to\":{\"line\":0,\"ch\":38}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trauma & Narben Log.md",
+                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trauma & Narben Log"
+              "title": "03 - Der Schattengefaltete Chor"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -527,7 +520,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trauma & Narben Log.md",
+                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -537,7 +530,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trauma & Narben Log"
+              "title": "Backlinks for 03 - Der Schattengefaltete Chor"
             }
           },
           {
@@ -555,12 +548,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trauma & Narben Log.md",
+                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trauma & Narben Log"
+              "title": "Outgoing links from 03 - Der Schattengefaltete Chor"
             }
           },
           {
@@ -602,13 +595,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trauma & Narben Log.md",
+                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trauma & Narben Log"
+              "title": "Outline of 03 - Der Schattengefaltete Chor"
             }
           }
         ]
@@ -632,50 +625,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fe1578c9479fa9c",
+  "active": "8f0a87ac7c74569c",
   "lastOpenFiles": [
+    "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
+    "1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md",
+    "1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md",
+    "1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md",
+    "1. Module/Akt 2/Ort - Szenario - Die Withering Zone.md",
+    "1. Module/Akt 2/Ziel 1 - Quelle Verstehen.md",
+    "1. World/Defektes Mythos-Wesen.md",
+    "Ghroths Asche Kampagnenübersicht.md",
+    "1. World/Transformierte Kreaturen & Opfer.md",
+    "1. World/Erwachte Schrecken.md",
+    "0. DM Screen/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md",
+    "2. mechanics/Widerstand-Hoffnung Uhr.md",
+    "2. mechanics/Öffentliche Panik Uhr.md",
+    "2. mechanics/Kult Aktivität Uhr.md",
+    "2. mechanics/Das Uhrensystem.md",
+    "2. mechanics/Asche Uhr.md",
+    "Clock_Widerstand",
+    "Clock_Ghroth",
+    "Kampagnen-Pitch (Spielerversion).md",
+    "Kampagnen-Vorbereitung.md",
+    "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.webp",
+    "z_assets/1200x1200bf-60-2299071460.webp",
+    "z_assets/600x600-000000-80-0-0.webp",
+    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.webp",
+    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.webp",
+    "1. Module/Akt 3/10_11 - Weg und Bürde zum Finale.md",
+    "1. Die Spieler/Trauma & Narben Log.md",
     "1. Module/Akt 3/08_09 - Wettlauf um die Komponente.md",
-    "Trauma & Narben Log.md",
     "z_assets/~200x1200bf-60-2299071460.tmp",
     "z_assets/1200x1200bf-60-2299071460.jpg.~tmp",
     "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.jpg.~tmp",
-    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.webp",
     "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.jpg.~tmp",
-    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.webp",
     "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.jpg.~tmp",
-    "z_assets/1200x1200bf-60-2299071460.webp",
-    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.webp",
-    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.webp",
-    "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.webp",
-    "z_assets/600x600-000000-80-0-0.webp",
     "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
-    "1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md",
-    "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
     "1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md",
     "1. World/Die Komponente.md",
-    "Ghroths Asche Kampagnenübersicht.md",
     "excalidraw/main.excalidraw",
     "1. World/Der Fokuspunkt.md",
     "1. World/Das Abschirmungsritual.md",
-    "0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md",
-    "1. World/Ghroth.md",
-    "1. World/Der sterbende Widerstandskult.md",
-    "1. World/Der Asche-Chor.md",
-    "1. World/Dr. Aris Thorne.md",
-    "1. World/Die Asche.md",
-    "excalidraw/main.excalidraw.md",
     "excalidraw/structure.excalidraw",
-    "excalidraw/structure.excalidraw.md",
-    "excalidraw",
-    "2. mechanics",
-    "2. session journals",
-    "1. Module/Akt 3/12 - Träger der Asche.md",
-    "1. Module/Akt 2/Phase 2 Hub - Offene Investigation.md",
-    "1. Module/Akt 3/10_11 - Weg und Bürde zum Finale.md",
-    "1. Module/Akt 3/07 - Der unumkehrbare Himmel.md",
-    "1. Module/Akt 2/Ort - Szenario - Die Withering Zone (Beispiel für Ziel 2).md",
-    "2. Abenteuer/7 - Phase 4a Weg und Bürde zum Finale.md",
-    "2. Abenteuer/6 - Wettlauf um die Komponente.md",
-    "1. Module/Akt 2/Ziel 4 - Kult Bekämpfen.md"
+    "excalidraw"
   ]
 }

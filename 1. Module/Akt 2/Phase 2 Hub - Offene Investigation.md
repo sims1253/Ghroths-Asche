@@ -18,10 +18,10 @@ tags: #Phase2 #Hub #Investigation #ClockManagement #PlayerChoice
 **Funktionsweise der Phase:**
 *   Spieler wählen ein Ziel oder einen konkreten Hinweis (Lead), dem sie nachgehen wollen.
 *   Dies führt sie zu **modularen Szenarien/Orten**, die mit diesem Ziel verbunden sind. Der SL platziert diese oder macht sie verfügbar, wenn die Spieler einen entsprechenden Lead verfolgen. Mehrere Leads können zu demselben Ort führen, aber mit unterschiedlichem Fokus.
-*   **Aktionen und Zeit beeinflussen die [[Uhrensystem|Uhren]].** Erfolge können Uhren verlangsamen oder positive Uhren füllen, Fehlschläge oder auffällige Aktionen beschleunigen negative Uhren. Das Ticken der Zeit selbst treibt die [[Clock_Ghroth/Asche Uhr]] voran.
+*   **Aktionen und Zeit beeinflussen die [[Uhrensystem|Uhren]].** Erfolge können Uhren verlangsamen oder positive Uhren füllen, Fehlschläge oder auffällige Aktionen beschleunigen negative Uhren. Das Ticken der Zeit selbst treibt die [[Asche Uhr]] voran.
 *   **Die Uhren beeinflussen die Szenarien:** Hohe Kult-Uhr = mehr Gegner/besser vorbereitet; hohe Panik-Uhr = Schwierigkeiten mit Behörden/Reisen; hohe Ghroth-Uhr = stärkere Asche-Effekte/gefährlichere Umgebungen; hohe Widerstands-Uhr = mehr potenzielle Hilfe/Infos.
 *   Informationen aus einem Ziel können helfen, ein anderes Ziel zu verfolgen oder zu verstehen (z.B. Kult-Aufzeichnungen aus Ziel 4 enthüllen einen Ort der Macht aus Ziel 2).
-*   Diese Phase endet **abrupt**, wenn die [[Clock_Ghroth/Asche Uhr]] voll ist und die Katastrophe ([[07 - Der unumkehrbare Himmel]]) auslöst. Der Zustand der anderen Uhren und das bis dahin gesammelte Wissen bestimmen die Ausgangslage für Phase 3.
+*   Diese Phase endet **abrupt**, wenn die [[Asche Uhr]] voll ist und die Katastrophe ([[07 - Der unumkehrbare Himmel]]) auslöst. Der Zustand der anderen Uhren und das bis dahin gesammelte Wissen bestimmen die Ausgangslage für Phase 3.
 
 **Keeper-Aufgaben in dieser Phase:**
 *   Den Spielern klare, aber vielfältige Hinweise und Leads für die verschiedenen Ziele geben (aus A1-A3 und durch NPCs wie Thorne).

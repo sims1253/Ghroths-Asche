@@ -2,16 +2,16 @@
 
 > Eine Call of Cthulhu 7e Kampagne, inspiriert vom Album [**Ashen**](https://humanityslastbreathofficial.bandcamp.com/album/ashen) von Humanity's Last Breath. Die Kampagne folgt dem langsamen, unaufhaltsamen Einsickern einer kosmischen Dissonanz - der "Asche" - in die Realität, ausgelöst durch die Annäherung von [[Ghroth]]. Es ist eine Geschichte über Verfall, psychologischen Horror und den verzweifelten Versuch, dem Unvermeidlichen etwas entgegenzusetzen, wobei **Spieleraktionen und das unaufhaltsame Ticken kosmischer Uhren** den Ausgang maßgeblich prägen.
 
-**Status:** [[Kampagnen-Vorbereitung]]
-**Aktuelles Datum im Spiel:** [Hier eintragen, wenn es losgeht]
-**Nächste Session:** [Datum]
+**Status:** Kampagnen-Vorbereitung
+**Aktuelles Datum im Spiel:** 
+**Nächste Session:** 
 
 ---
 
 ## Kernkonzept & Atmosphäre
 
 *   **Ton:** Düster, erdrückend, dissonant. Schwerpunkt auf kosmischem Horror, Body Horror, psychologischem Verfall und einer Atmosphäre der Hoffnungslosigkeit, die durch Momente bedeutsamen Widerstands und die Entscheidungen der Charaktere durchbrochen wird. **Die tickenden Uhren erzeugen zusätzliche Spannung und Dringlichkeit.**
-*   **Inspiration:** [[Humanitys Last Breath - Ashen (Album)]]
+*   **Inspiration:** [**Humanity's Last Breath - Ashen**](https://humanityslastbreathofficial.bandcamp.com/album/ashen) (Album)
 *   **Pitch (Non-Spoiler):** [[Kampagnen-Pitch (Spielerversion)]]
 *   **Das große Ganze (Keeper-Wissen):** [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]
 
@@ -51,7 +51,7 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 *   [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]] (Konsolidierung des Wissens, klares Ziel wird greifbar)
 
 **Wendepunkt: Die Katastrophe (Abenteuer 7)**
-*Fokus: Eskalation. **Ausgelöst durch die [[Clock_Ghroth/Asche Uhr]].** Beendet oder verändert Phase 2 radikal.*
+*Fokus: Eskalation. **Ausgelöst durch die [[Asche Uhr]].** Beendet oder verändert Phase 2 radikal.*
 *   [[07 - Der unumkehrbare Himmel]] (Katastrophe)
 
 **Phase 3: Wettlauf gegen die Zeit (Fokussierte Handlung)**
@@ -74,10 +74,10 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 ## Das Uhrensystem
 
 *Diese Uhren laufen parallel und beeinflussen sich gegenseitig sowie die Ereignisse.*
-*   [[Clock_Ghroth/Asche Uhr]] (Weltuntergangsuhr - Löst A7 aus, beeinflusst Intensität)
-*   [[Clock_Kult Aktivität Uhr]] (Stärke & Organisation des [[Der Asche-Chor]])
-*   [[Clock_Widerstand/Hoffnung Uhr]] (Verfügbarkeit von Hilfe & Wissen durch [[Der sterbende Widerstandskult]])
-*   [[Clock_Öffentliche Panik Uhr]] (Erschwert soziale Interaktion, Reisen, Behörden)
+*   [[Asche Uhr]] (Weltuntergangsuhr - Löst A7 aus, beeinflusst Intensität)
+*   [[Kult Aktivität Uhr]] (Stärke & Organisation des [[Der Asche-Chor]])
+*   [[Widerstand-Hoffnung Uhr]] (Verfügbarkeit von Hilfe & Wissen durch [[Der sterbende Widerstandskult]])
+*   [[Öffentliche Panik Uhr]] (Erschwert soziale Interaktion, Reisen, Behörden)
 
 ---
 

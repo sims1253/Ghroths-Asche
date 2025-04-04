@@ -3,9 +3,9 @@
 tags: #Adventure #TriggerEvent #Catastrophe #Survival #TurningPoint #ClockTriggered
 **Song/Thema:** Catastrophize (Apokalypse, Chaos, Unumkehrbarkeit, volles Ausmaß des Leidens, mit der Welt sterben)
 
-**Hook:** <!-- Clock Integration --> **Dieses Ereignis wird ausgelöst, wenn die [[Clock_Ghroth/Asche Uhr]] ihren Maximalwert erreicht.** Der genaue Ort ist, wo immer sich die Investigatoren gerade befinden oder ein Ort von signifikanter Bedeutung (z.B. die Stadt, die sie als Hub nutzen wie [[Arkham]], oder ein Ort, den sie gerade untersuchen). Es ist unausweichlich.
+**Hook:** <!-- Clock Integration --> **Dieses Ereignis wird ausgelöst, wenn die [[Asche Uhr]] ihren Maximalwert erreicht.** Der genaue Ort ist, wo immer sich die Investigatoren gerade befinden oder ein Ort von signifikanter Bedeutung (z.B. die Stadt, die sie als Hub nutzen wie [[Arkham]], oder ein Ort, den sie gerade untersuchen). Es ist unausweichlich.
 
-**Situation:** Ein massives katastrophales Ereignis ([[Die Katastrophe]]) bricht los, ein direkter Höhepunkt des Einflusses von [[Ghroth]]. Art und Ausmaß hängen vom finalen Stand der [[Clock_Ghroth/Asche Uhr]] und evtl. den Erkenntnissen der Spieler ab (z.B. Mega-Erdbeben mit Asche-Ausbrüchen, plötzliche massive Realitätsverzerrungen, ein gigantischer [[Asche-Sturm]], ein schockierendes Himmelsphänomen, bei dem [[Ghroth]] als dunkler Riss oder Nemesis-Stern sichtbar wird). Die Infrastruktur kollabiert augenblicklich, es herrscht Massenpanik. Große, mächtige [[Erwachte Schrecken]] manifestieren sich offen und wüten in den Ruinen. Dies ist der Wendepunkt, der die offene Investigation beendet und die Kampagne in eine neue, verzweifelte Phase zwingt.
+**Situation:** Ein massives katastrophales Ereignis ([[Die Katastrophe]]) bricht los, ein direkter Höhepunkt des Einflusses von [[Ghroth]]. Art und Ausmaß hängen vom finalen Stand der [[Asche Uhr]] und evtl. den Erkenntnissen der Spieler ab (z.B. Mega-Erdbeben mit Asche-Ausbrüchen, plötzliche massive Realitätsverzerrungen, ein gigantischer [[Asche-Sturm]], ein schockierendes Himmelsphänomen, bei dem [[Ghroth]] als dunkler Riss oder Nemesis-Stern sichtbar wird). Die Infrastruktur kollabiert augenblicklich, es herrscht Massenpanik. Große, mächtige [[Erwachte Schrecken]] manifestieren sich offen und wüten in den Ruinen. Dies ist der Wendepunkt, der die offene Investigation beendet und die Kampagne in eine neue, verzweifelte Phase zwingt.
 *   <!-- Clock Influence --> **Intensität/Art der Katastrophe:** Bestimmt durch finalen Stand der [[Clock_Ghroth/Asche Uhr]].
 *   <!-- Clock Influence --> **Chaos-Level:** Beeinflusst durch [[Clock_Öffentliche Panik Uhr]]. Hohe Panik = mehr Gewalt, Plünderungen, weniger organisierte Hilfe.
 *   <!-- Clock Influence --> **Kult-Aktivität:** [[Der Asche-Chor]] nutzt das Chaos (abhängig von [[Clock_Kult Aktivität Uhr]]). Sie könnten versuchen, die Spieler zu jagen, Schlüsselorte zu besetzen oder eigene Rituale im Schutz der Katastrophe durchzuführen.
@@ -17,11 +17,11 @@ tags: #Adventure #TriggerEvent #Catastrophe #Survival #TurningPoint #ClockTrigge
 *   **(Potenziell)** [[Versteckte Routen/Orte des Widerstands]]: Im Chaos könnten sich Wege auftun, die vom [[Der sterbende Widerstandskult]] genutzt werden, oder ihre Verstecke werden (ironischerweise) zugänglicher, wenn man weiß, wo man suchen muss.
 
 **Key NPCs/Factions:**
-*   **Panische/hilflose Zivilisten:** Eine Masse aus Angst und Verzweiflung. Können Hindernisse sein, aber auch gerettet werden (-> Einfluss auf [[Clock_Widerstand/Hoffnung Uhr]]?).
+*   **Panische/hilflose Zivilisten:** Eine Masse aus Angst und Verzweiflung. Können Hindernisse sein, aber auch gerettet werden (-> Einfluss auf [[Widerstand-Hoffnung Uhr]]?).
 *   **Überforderte/zerfallende Behörden:** Militär, Polizei, Rettungsdienste sind entweder nicht existent, völlig überfordert oder agieren irrational/brutal.
 *   **[[Der Asche-Chor]]:** Nutzen das Chaos für ihre Zwecke. Können als organisierte Jäger der Investigatoren auftreten oder versuchen, die Kontrolle über Ressourcen/Orte zu erlangen. Ihre Stärke hängt von der Uhr ab.
 *   **[[Erwachte Schrecken]]:** Direkte, oft übermächtige Bedrohungen (z.B. [[Großer Alter Vorbote]], [[Sternengezücht von Cthulhu]], [[Fliegender Polyp]], [[Shoggoth Lord]]? – Je nach Eskalation). Kampf ist oft nicht die beste Option.
-*   **Potenzieller Kontakt:** Mitglieder des [[Der sterbende Widerstandskult]]. Ihre Überlebenschancen und ihre Fähigkeit, den Spielern zu helfen (oder von ihnen gefunden zu werden), hängen stark vom Stand der [[Clock_Widerstand/Hoffnung Uhr]] ab. Sie sind jetzt wahrscheinlich die einzige Quelle für das vollständige Ritualwissen.
+*   **Potenzieller Kontakt:** Mitglieder des [[Der sterbende Widerstandskult]]. Ihre Überlebenschancen und ihre Fähigkeit, den Spielern zu helfen (oder von ihnen gefunden zu werden), hängen stark vom Stand der [[Widerstand-Hoffnung Uhr]] ab. Sie sind jetzt wahrscheinlich die einzige Quelle für das vollständige Ritualwissen.
 
 **Threats/Obstacles:**
 *   **Die Katastrophe selbst:** Ständige, unvorhersehbare Umweltgefahren. Überleben ist die erste Priorität.
@@ -44,7 +44,7 @@ tags: #Adventure #TriggerEvent #Catastrophe #Survival #TurningPoint #ClockTrigge
 *   **NOTWENDIGKEIT DES RITUALS:** Die Katastrophe beweist, dass nur eine übernatürliche Lösung eine (geringe) Chance bietet.
 
 **Clock Adjustments:**
-*   Die Katastrophe selbst ist das Ergebnis der vollen [[Clock_Ghroth/Asche Uhr]].
+*   Die Katastrophe selbst ist das Ergebnis der vollen [[Asche Uhr]].
 *   Nach der Katastrophe wird der **Zustand aller Uhren neu bewertet** und bildet die Baseline für Phase 3. Die Ghroth-Uhr könnte aufhören zu ticken oder ihren Fokus ändern (z.B. auf lokale Manifestationen statt globaler Annäherung). Die Kult- und Panik-Uhren sind wahrscheinlich hoch. Die Widerstands-Uhr hängt davon ab, ob die Spieler sie in Phase 2 füllen konnten und ob der Kult überlebt hat.
 
 **Potential Escalations:**
