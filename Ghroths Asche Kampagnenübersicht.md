@@ -39,16 +39,13 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 *   [[03 - Der Schattengefaltete Chor]] --> Startet [[Das Uhrensystem]]
 
 **Phase 2: Offene Investigation & Zielverfolgung (Hub & Ziele)**
-*Fokus: Das *Wie*. Spieler verfolgen Ziele in beliebiger Reihenfolge. **Aktionen beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Sammeln von Hinweisen auf [[Ghroth]], [[Der Fokuspunkt]], [[Das Abschirmungsritual]].
-
+*Fokus: Das *Wie*. Spieler verfolgen Ziele in beliebiger Reihenfolge. **Aktionen beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Sammeln von Hinweisen auf [[Ghroth]], [[Der Fokuspunkt]], [[Das Abschirmungsritual]]. **Erreicht einen Höhepunkt der Erkenntnis, wenn genügend Wissen gesammelt wurde.**
 *   [[Phase 2 Hub - Offene Investigation]] (Basis der Operationen)
 *   [[Ziel 1 - Quelle Verstehen]] (-> [[Ghroth]] Info)
 *   [[Ziel 2 - Manifestation Verstehen]] (-> [[Der Fokuspunkt]] Info)
 *   [[Ziel 3 - Lösung Finden]] (-> [[Das Abschirmungsritual]] Info / [[Der sterbende Widerstandskult]])
 *   [[Ziel 4 - Kult Bekämpfen]] (-> Ressourcen / Kult Info)
-
-**Checkpoint (Tritt ein, wenn genug Wissen aus Phase 2 gesammelt wurde):**
-*   [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]] (Konsolidierung des Wissens, klares Ziel wird greifbar)
+*   **(Narrativer Meilenstein innerhalb/gegen Ende von Phase 2):** [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]] (Konsolidierung des Wissens, klares Ziel wird greifbar)
 
 **Wendepunkt: Die Katastrophe (Abenteuer 7)**
 *Fokus: Eskalation. **Ausgelöst durch die [[Asche Uhr]].** Beendet oder verändert Phase 2 radikal.*

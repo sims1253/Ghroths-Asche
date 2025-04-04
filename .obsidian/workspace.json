@@ -356,6 +356,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":102},\"to\":{\"line\":16,\"ch\":102}},\"scroll\":3.4104817708333335}"
+                },
+                {
                   "title": "02 - Das Gewicht, das verweilt",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
@@ -402,12 +408,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
+                "file": "Ghroths Asche Kampagnenübersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Der Schattengefaltete Chor"
+              "title": "Ghroths Asche Kampagnenübersicht"
             }
           }
         ],
@@ -520,7 +526,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
+                "file": "Ghroths Asche Kampagnenübersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -530,7 +536,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 - Der Schattengefaltete Chor"
+              "title": "Backlinks for Ghroths Asche Kampagnenübersicht"
             }
           },
           {
@@ -548,12 +554,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
+                "file": "Ghroths Asche Kampagnenübersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 - Der Schattengefaltete Chor"
+              "title": "Outgoing links from Ghroths Asche Kampagnenübersicht"
             }
           },
           {
@@ -595,13 +601,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
+                "file": "Ghroths Asche Kampagnenübersicht.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - Der Schattengefaltete Chor"
+              "title": "Outline of Ghroths Asche Kampagnenübersicht"
             }
           }
         ]
@@ -627,6 +633,7 @@
   },
   "active": "8f0a87ac7c74569c",
   "lastOpenFiles": [
+    "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
     "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
     "1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md",
     "1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md",
@@ -660,7 +667,6 @@
     "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.jpg.~tmp",
     "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.jpg.~tmp",
     "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.jpg.~tmp",
-    "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
     "1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md",
     "1. World/Die Komponente.md",
     "excalidraw/main.excalidraw",
