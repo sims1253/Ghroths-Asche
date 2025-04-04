@@ -1,0 +1,681 @@
+{
+  "main": {
+    "id": "e91d99b7ee942a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "21e431cc6bace8ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a8ac5ee47ffc14e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Die Asche",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Asche\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":42},\"to\":{\"line\":35,\"ch\":42}},\"scroll\":13.266782407407407}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":110,\"ch\":0},\"to\":{\"line\":110,\"ch\":0}},\"scroll\":45.38235294117647}"
+                },
+                {
+                  "title": "12 - Träger der Asche",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 3/12 - Träger der Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"12 - Träger der Asche\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ghroths Asche Kampagnenübersicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Ghroths Asche Kampagnenübersicht"
+            }
+          },
+          {
+            "id": "9c55fdea3324370d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":32},\"to\":{\"line\":7,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":0},\"to\":{\"line\":109,\"ch\":0}},\"scroll\":80.74826388888889}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Das Gewicht, das verweilt"
+            }
+          },
+          {
+            "id": "dbae96110389e661",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Der Schattengefaltete Chor"
+            }
+          },
+          {
+            "id": "6d5664f3d6dee0fe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Module/Akt 2/Ort - Szenario - Die Withering Zone (Beispiel für Ziel 2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ort - Szenario - Die Withering Zone (Beispiel für Ziel 2)"
+            }
+          },
+          {
+            "id": "059811367e8a3b16",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "main",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"excalidraw/main.excalidraw\"},\"icon\":\"excalidraw-icon\",\"title\":\"main\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Der Fokuspunkt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der Fokuspunkt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der Fokuspunkt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":29},\"to\":{\"line\":24,\"ch\":29}},\"scroll\":15.982708333333333}"
+                },
+                {
+                  "title": "Die Komponente",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Komponente.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Komponente\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":164},\"to\":{\"line\":33,\"ch\":164}},\"scroll\":6.196041666666667}"
+                },
+                {
+                  "title": "Das Abschirmungsritual",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Das Abschirmungsritual.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das Abschirmungsritual\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":158},\"to\":{\"line\":34,\"ch\":158}}}"
+                },
+                {
+                  "title": "Der Fokuspunkt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der Fokuspunkt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der Fokuspunkt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":87},\"to\":{\"line\":19,\"ch\":87}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ghroth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Ghroth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}},\"scroll\":9.532354797979798}"
+                },
+                {
+                  "title": "Der sterbende Widerstandskult",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der sterbende Widerstandskult.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der sterbende Widerstandskult\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":239},\"to\":{\"line\":29,\"ch\":239}},\"scroll\":0.8919333884492736}"
+                },
+                {
+                  "title": "Der Asche-Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Der Asche-Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Der Asche-Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":195},\"to\":{\"line\":35,\"ch\":195}},\"scroll\":0.4384079366954057}"
+                },
+                {
+                  "title": "Dr. Aris Thorne",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Dr. Aris Thorne.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Aris Thorne\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":116},\"to\":{\"line\":28,\"ch\":116}},\"scroll\":0}"
+                },
+                {
+                  "title": "Die Asche",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Asche\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":215},\"to\":{\"line\":34,\"ch\":215}},\"scroll\":6.316041666666667}"
+                },
+                {
+                  "title": "Dr. Aris Thorne",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Dr. Aris Thorne.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Aris Thorne\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ghroth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Ghroth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":171},\"to\":{\"line\":25,\"ch\":171}},\"scroll\":0}"
+                },
+                {
+                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":31},\"to\":{\"line\":8,\"ch\":31}},\"scroll\":3.5794270833333335}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.2}"
+                },
+                {
+                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":53},\"to\":{\"line\":73,\"ch\":53}},\"scroll\":70.50375}"
+                },
+                {
+                  "title": "Ghroth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Ghroth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ghroths Asche Kampagnenübersicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghroths Asche Kampagnenübersicht"
+            }
+          },
+          {
+            "id": "2fe1578c9479fa9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "08_09 - Wettlauf um die Komponente",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 3/08_09 - Wettlauf um die Komponente.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"08_09 - Wettlauf um die Komponente\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":49},\"to\":{\"line\":31,\"ch\":49}},\"scroll\":10.987630208333334}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Checkpoint - Muster erkannt & Fokuspunkt lokalisiert",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Checkpoint - Muster erkannt & Fokuspunkt lokalisiert\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.778125}"
+                },
+                {
+                  "title": "Die Komponente",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Komponente.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Komponente\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Ghroths Asche Kampagnenübersicht",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":36},\"to\":{\"line\":66,\"ch\":36}},\"scroll\":57.489583333333336}"
+                },
+                {
+                  "title": "Checkpoint - Muster erkannt & Fokuspunkt lokalisiert",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Checkpoint - Muster erkannt & Fokuspunkt lokalisiert\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trauma & Narben Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trauma & Narben Log"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92c824292ff91df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c6ff168f11f3d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83d78ed451162a0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97879de3fd13b58c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd6a1da6719cf7cc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb2fcc86842e1fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac0155146edcde24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e668b6f76289550",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trauma & Narben Log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Trauma & Narben Log"
+            }
+          },
+          {
+            "id": "190290dc0d3eef44",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trauma & Narben Log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Trauma & Narben Log"
+            }
+          },
+          {
+            "id": "747ecc1ebbe7d6a1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1000e17ee339d2e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trauma & Narben Log.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Trauma & Narben Log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2fe1578c9479fa9c",
+  "lastOpenFiles": [
+    "1. Module/Akt 3/08_09 - Wettlauf um die Komponente.md",
+    "Trauma & Narben Log.md",
+    "z_assets/~200x1200bf-60-2299071460.tmp",
+    "z_assets/1200x1200bf-60-2299071460.jpg.~tmp",
+    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.jpg.~tmp",
+    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.webp",
+    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.jpg.~tmp",
+    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.webp",
+    "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.jpg.~tmp",
+    "z_assets/1200x1200bf-60-2299071460.webp",
+    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.webp",
+    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.webp",
+    "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.webp",
+    "z_assets/600x600-000000-80-0-0.webp",
+    "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
+    "1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md",
+    "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
+    "1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md",
+    "1. World/Die Komponente.md",
+    "Ghroths Asche Kampagnenübersicht.md",
+    "excalidraw/main.excalidraw",
+    "1. World/Der Fokuspunkt.md",
+    "1. World/Das Abschirmungsritual.md",
+    "0. GM Eyes Only/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md",
+    "1. World/Ghroth.md",
+    "1. World/Der sterbende Widerstandskult.md",
+    "1. World/Der Asche-Chor.md",
+    "1. World/Dr. Aris Thorne.md",
+    "1. World/Die Asche.md",
+    "excalidraw/main.excalidraw.md",
+    "excalidraw/structure.excalidraw",
+    "excalidraw/structure.excalidraw.md",
+    "excalidraw",
+    "2. mechanics",
+    "2. session journals",
+    "1. Module/Akt 3/12 - Träger der Asche.md",
+    "1. Module/Akt 2/Phase 2 Hub - Offene Investigation.md",
+    "1. Module/Akt 3/10_11 - Weg und Bürde zum Finale.md",
+    "1. Module/Akt 3/07 - Der unumkehrbare Himmel.md",
+    "1. Module/Akt 2/Ort - Szenario - Die Withering Zone (Beispiel für Ziel 2).md",
+    "2. Abenteuer/7 - Phase 4a Weg und Bürde zum Finale.md",
+    "2. Abenteuer/6 - Wettlauf um die Komponente.md",
+    "1. Module/Akt 2/Ziel 4 - Kult Bekämpfen.md"
+  ]
+}
