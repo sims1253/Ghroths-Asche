@@ -3,12 +3,13 @@
 tags: #Adventure #Phase4 #Finale #Ritual #Confrontation #Climax #PlayerChoiceMatters #ClockInfluenced
 **Song/Thema:** Bearer (Unerträgliches Gewicht tragen, Gefängniswelt, alles tragen, scheitern, Last teilen)
 
-**Hook:** Nach [[10_11 - Weg und Bürde zum Finale]] wird [[Das Abschirmungsritual]] am [[Der Fokuspunkt]] eingeleitet, unter Nutzung von [[Die Komponente]] (oder Alternative) und dem gesammelten [[Wissen]].
+**Hook:** Nach Abschluss der Vorbereitungen in Phase 3 ([[08 - Death Spiral]], [[09 - Shell]], [[10 - Passage]], [[11 - Burden]]) wird [[Das Abschirmungsritual]] am [[Der Fokuspunkt]] eingeleitet, unter Nutzung von [[Die Komponente]] (oder Alternative) und dem gesammelten [[Wissen]]. Der Zustand der Gruppe und die Schwierigkeit des Rituals spiegeln ihre Erfolge und Misserfolge in Phase 3 wider.
 
 **Situation:** Der Klimax. Die Investigatoren führen das komplexe, mehrstufige [[Das Abschirmungsritual]] durch, während sie sich gegen einen letzten, verzweifelten Angriff des [[Der Asche-Chor]] und mächtiger [[Erwachte Schrecken]] wehren müssen. Spieleraktionen im Ritual und Kampf beeinflussen direkt den Ausgang. Sie sind die **Träger** ("Bearer") der Konsequenzen. [[Ghroth]]s Präsenz ist überwältigend und beeinflusst das Ritual direkt.
-*   <!-- Clock Influence --> **Die Stärke und Anzahl der Angreifer** ([[Der Asche-Chor]], [[Erwachte Schrecken]]) wird maßgeblich vom finalen Stand der [[Clock_Kult Aktivität Uhr]] und evtl. der [[Clock_Ghroth/Asche Uhr]] bestimmt.
-*   <!-- Clock Influence --> **Die Stabilität des Fokuspunktes und die Grundschwierigkeit des Rituals** werden durch den finalen Stand der [[Clock_Ghroth/Asche Uhr]] beeinflusst.
-*   <!-- Clock Influence --> **Verfügbare Hilfe (falls vorhanden)** durch den [[Der sterbende Widerstandskult]] hängt von der [[Clock_Widerstand/Hoffnung Uhr]] ab.
+*   <!-- Clock/Phase 3 Influence --> **Die Stärke und Anzahl der Angreifer** ([[Der Asche-Chor]], [[Erwachte Schrecken]]) wird maßgeblich vom finalen Stand der [[Clock_Kult Aktivität Uhr]] (beeinflusst durch A08, A09) und evtl. der [[Clock_Ghroth/Asche Uhr]] bestimmt.
+*   <!-- Clock/Phase 3 Influence --> **Die Stabilität des Fokuspunktes und die Grundschwierigkeit des Rituals** werden durch den finalen Stand der [[Clock_Ghroth/Asche Uhr]] sowie durch Erfolge/Misserfolge bei der Wissensbeschaffung in A11 beeinflusst.
+*   <!-- Clock/Phase 3 Influence --> **Verfügbare Hilfe (falls vorhanden)** durch den [[Der sterbende Widerstandskult]] oder andere Verbündete hängt von der [[Clock_Widerstand/Hoffnung Uhr]] und Aktionen in A08/A11 ab.
+*   <!-- Phase 3 Influence --> **Zustand der Ermittler (Ressourcen, HP, SAN, Trauma)** wird durch die Ereignisse in A08, A09, A10, A11 bestimmt.
 
 **Key Locations:**
 *   [[Der Fokuspunkt]] während des Rituals (Hoch energetisch, Realität flackert, Gravitation/Zeit gestört, Portale öffnen sich evtl., psionischer Druck ist extrem).
@@ -33,7 +34,7 @@ tags: #Adventure #Phase4 #Finale #Ritual #Confrontation #Climax #PlayerChoiceMat
 *   **Kleiner Sieg (während des Finales):** Eine Ritualphase meistern, einen mächtigen Gegner überlisten, einen Kameraden retten, einen Moment der Klarheit/Hoffnung finden.
 
 **Clues/Discoveries (Campaign - HOOK):**
-*   **DAS ERGEBNIS (ENTSCHEIDEND - Nuanciert!):** Basierend auf dem Erfolg der Ritualphasen, Spieleraktionen *während* des Finales und dem Zustand der Uhren/Vorbereitung:
+*   **DAS ERGEBNIS (ENTSCHEIDEND - Nuanciert!):** Basierend auf dem Erfolg der Ritualphasen, Spieleraktionen *während* des Finales und dem **kumulativen Ergebnis von Phase 3** (Uhrenstand, gesicherte Vorteile/Nachteile):
     *   *Voller Erfolg (Sehr unwahrscheinlich/Hoher Preis):* Starke Abschirmung, immense Kosten.
     *   *Teilerfolg (Wahrscheinlicher):* Teilweise Abschirmung, Verlangsamung, Horror bleibt. SCs gezeichnet.
     *   *Veränderter Erfolg:* Ritual verändert Asche/zieht anderes an.
@@ -54,6 +55,13 @@ tags: #Adventure #Phase4 #Finale #Ritual #Confrontation #Climax #PlayerChoiceMat
 *   Das Schicksal der Investigatoren und der Welt wird besiegelt. Das Ende reflektiert die Summe ihrer Entscheidungen, Erfolge, Fehlschläge und Opfer während der gesamten Kampagne, symbolisiert durch den Zustand der Uhren und ihre Aktionen im Finale.
 
 **(Optional) Keeper Notes:**
-*   Mache das Ritual mechanisch greifbar und interaktiv.
-*   Dies ist der Höhepunkt – volle Eskalation bei Musik, Beschreibung und Druck.
-*   Das Ende gehört den Spielern und ihren Taten – sei bereit, das Ergebnis entsprechend anzupassen. Es gibt kein "richtiges" Ende.
+*   **Phase 3 Konsequenzen:** Vor Beginn des Finales, werte die Erfolge/Misserfolge der Spieler in A08-A11 aus und bestimme die Startbedingungen:
+    *   *Ressourcen (A08):* Haben sie genug Vorräte, oder starten sie geschwächt/mit Mali?
+    *   *Komponente (A09):* Haben sie die Komponente? Welchen Preis haben sie gezahlt (beeinflusst SAN/Moral)? Haben sie eine riskante Alternative? Fehlt sie ganz (Ritual extrem schwer/unmöglich)?
+    *   *Passage (A10):* War die Reise relativ sicher oder ein Desaster? Beeinflusst Start-HP/SAN/Ausrüstung.
+    *   *Ritualwissen (A11):* Ist das Wissen komplett? Beeinflusst Schwierigkeit/Zuverlässigkeit der Ritual-Checks.
+    *   *Mentaler Zustand (A11):* Ist die Gruppe entschlossen oder gebrochen? Beeinflusst Willenskraft/SAN-Proben während des Rituals.
+    *   *Uhrenstände:* Bestimmen die Stärke der Angreifer (Kult Uhr), die Stabilität des Ortes (Asche Uhr) und verfügbare Hilfe (Widerstand Uhr).
+*   **Ritual Mechanik:** Mache das Ritual mechanisch greifbar (z.B. mehrere Runden, Skill-Checks pro Phase, Konsequenzen bei Fehlern).
+*   **Eskalation:** Dies ist der Höhepunkt – volle Eskalation bei Musik, Beschreibung und Druck.
+*   **Spieler-Ende:** Das Ende gehört den Spielern und ihren Taten – sei bereit, das Ergebnis entsprechend anzupassen. Es gibt kein "richtiges" Ende.

@@ -25,6 +25,7 @@
 *   [[Charaktere im Zentrum]] - Backstories, Bonds, Input und Trauma aktiv nutzen.
 *   [[Drei-Clue-Regel für kritische Informationen]] - Robuste Informationsfindung ermöglichen.
 *   **[[Uhren als Motor für Eskalation & Konsequenz]]** - Dynamische Entwicklung der Bedrohung.
+*   **[[Spieler-Input aktiv einholen (PbtA-Stil)]]** - Zwischen Sessions gezielt Fragen stellen, um Details zu Orten, NPCs oder Gerüchten basierend auf Spieleraktionen/-interessen zu konkretisieren und ihre Ideen zu integrieren (z.B. "Ihr habt gehört, dass der alte Leuchtturm unheimlich ist. Was genau erzählen sich die Leute darüber?").
 
 ---
 
@@ -38,27 +39,30 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 *   [[02 - Das Gewicht, das verweilt]]
 *   [[03 - Der Schattengefaltete Chor]] --> Startet [[Das Uhrensystem]]
 
-**Phase 2: Offene Investigation & Zielverfolgung (Hub & Ziele)**
-*Fokus: Das *Wie*. Spieler verfolgen Ziele in beliebiger Reihenfolge. **Aktionen beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Sammeln von Hinweisen auf [[Ghroth]], [[Der Fokuspunkt]], [[Das Abschirmungsritual]]. **Erreicht einen Höhepunkt der Erkenntnis, wenn genügend Wissen gesammelt wurde.**
-*   [[Phase 2 Hub - Offene Investigation]] (Basis der Operationen)
-*   [[Ziel 1 - Quelle Verstehen]] (-> [[Ghroth]] Info)
-*   [[Ziel 2 - Manifestation Verstehen]] (-> [[Der Fokuspunkt]] Info)
-*   [[Ziel 3 - Lösung Finden]] (-> [[Das Abschirmungsritual]] Info / [[Der sterbende Widerstandskult]])
-*   [[Ziel 4 - Kult Bekämpfen]] (-> Ressourcen / Kult Info)
-*   **(Narrativer Meilenstein innerhalb/gegen Ende von Phase 2):** [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]] (Konsolidierung des Wissens, klares Ziel wird greifbar)
+**Phase 2: Offene Investigation (Kern-Szenarien)**
+*Fokus: Das *Wie*. Nach Aktivierung der [[Uhrensystem|Uhren]] können Spieler Hinweisen nachgehen, die zu verschiedenen Kern-Szenarien führen. Die Reihenfolge ist flexibel. **Aktionen und Zeit beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Ziel ist das Sammeln von Hinweisen auf [[Ghroth]] (Quelle), [[Der Fokuspunkt]] (Manifestation), [[Das Abschirmungsritual]] (Lösung) und den [[Der Asche-Chor]] (Kult). Zwischen den Szenarien kehren die Spieler zu ihrem "Hub" zurück (narrativer Zustand/sicherer Ort) um zu planen und sich zu erholen.*
+*   **Kern-Szenario 1:** [[04 - Der Flüsternde Sender]] (Fokus: Quelle Verstehen - Signal, Ghroth-Daten)
+*   **Kern-Szenario 2:** [[05 - Das sich windende Herz]] (Fokus: Manifestation Verstehen - Fokuspunkt-Ort, Raumverzerrung)
+*   **Kern-Szenario 3:** [[06 - Die Withering Zone]] (Fokus: Manifestation Verstehen - Verfall & Lösung Finden - Widerstand, Schutz)
+*   *(Hinweise auf den Kult (Ziel 4) und weitere Aspekte der Lösung (Ziel 3) sind in diese Szenarien integriert oder können durch separate Aktionen/Recherchen verfolgt werden).*
 
 **Wendepunkt: Die Katastrophe (Abenteuer 7)**
-*Fokus: Eskalation. **Ausgelöst durch die [[Asche Uhr]].** Beendet oder verändert Phase 2 radikal.*
+*Fokus: Eskalation. **Ausgelöst durch die [[Asche Uhr]].** Beendet Phase 2 radikal.*
 *   [[07 - Der unumkehrbare Himmel]] (Katastrophe)
 
-**Phase 3: Wettlauf gegen die Zeit (Fokussierte Handlung)**
-*Fokus: Das *Warum* & *Was nun*. Konsolidierung des Wissens, Jagd nach [[Die Komponente]]. **Startbedingungen beeinflusst durch Uhrenstand nach A7.**
-*   [[08_09 - Wettlauf um die Komponente]] (Kombinierte Herausforderungen aus alten A8 & A9)
+**(Narrativer Meilenstein nach dem Wendepunkt):** [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]]
+*   *Nach der Katastrophe zwingt die Situation die Überlebenden (evtl. mit [[Dr. Aris Thorne]]), ihr gesammeltes Wissen zu synthetisieren. Hier wird der [[Der Fokuspunkt]] klar identifiziert und die Notwendigkeit des [[Das Abschirmungsritual]]s und der [[Die Komponente]] erkannt.*
+
+**Phase 3: Verzweifelte Vorbereitungen (Kern-Szenarien)**
+*Fokus: Das *Warum* & *Was nun*. Mit klarem Ziel ([[Der Fokuspunkt]]) und Wissen über das Ritual/die Komponente müssen die Spieler die notwendigen Schritte unternehmen, um das Finale vorzubereiten. Die Reihenfolge der Abenteuer 08-11 kann, je nach Leads und Prioritäten, flexibel sein. **Startbedingungen und Schwierigkeit stark beeinflusst durch Uhrenstand nach A7.** Erfolg/Misserfolg in jedem Abenteuer beeinflusst die Ausgangslage für das Finale.*
+*   **Abenteuer 08:** [[08 - Death Spiral]] (Fokus: Gesellschaftlicher Zerfall, Ressourcenknappheit, Überleben in der neuen Welt)
+*   **Abenteuer 09:** [[09 - Shell]] (Fokus: Suche nach [[Die Komponente]], Konfrontation mit Wächter/Preis)
+*   **Abenteuer 10:** [[10 - Passage]] (Fokus: Sicherung des Wegs/Transports zum [[Der Fokuspunkt]])
+*   **Abenteuer 11:** [[11 - Burden]] (Fokus: Finale Vorbereitungen, Vervollständigung Ritualwissen, psychologische Last)
 
 **Phase 4: Finale Konsequenzen (Finale)**
-*Fokus: Das *Handeln*. Reise, Vorbereitung, Ritual. **Schwierigkeit und Optionen beeinflusst durch Uhrenstand und frühere Entscheidungen.**
-*   [[10_11 - Weg und Bürde zum Finale]] (Kombinierte Herausforderungen aus alten A10 & A11)
-*   [[12 - Träger der Asche]] (Ritual & Finale)
+*Fokus: Das *Handeln*. Durchführung des [[Das Abschirmungsritual]]s am [[Der Fokuspunkt]]. **Schwierigkeit und Optionen stark beeinflusst durch Erfolg/Misserfolg in Phase 3 (A08-A11) und den finalen Uhrenstand.**
+*   [[12 - Träger der Asche]] (Ritual & Finale).
 
 **(Optional):**
 *   [[Intro - Anthracite (Teaser)]]?
@@ -97,7 +101,8 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 ## Kampagnen-Management
 
 *   [[Session Log]]
-*   [[Kampagnen-Handouts]] (z.B. [[Die Ashfall Gazette]])
+*   **[[Die Ashfall Gazette (Newspaper Handouts)]]:** Regelmäßige Zeitungsausgaben als Handouts für Spieler. Können aktuelle Ereignisse widerspiegeln, Gerüchte streuen, subtile Hinweise auf laufende oder zukünftige Untersuchungen enthalten oder als Red Herrings dienen. (Inspiriert von Blade Runner RPG).
+*   [[Kampagnen-Handouts]] (Andere spezifische Handouts)
 *   [[Houserules & Spielmechaniken]] (Uhrenregeln hier definieren!)
 *   [[Welt-Details & Spieler-Input]]
 *   [[NPC-Register]], [[Orts-Register]]
@@ -109,4 +114,3 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 *   **Uhrenstand regelmäßig aktualisieren!**
 *   Auswirkungen von Uhrenständen auf nächste Sessions planen.
 *   [Weitere aktuelle Notizen]
-

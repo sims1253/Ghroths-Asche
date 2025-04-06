@@ -356,6 +356,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Campaign_Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Campaign_Info/Campaign_Overview.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign_Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Campaign_Pitch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Campaign_Info/Campaign_Pitch.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign_Pitch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":206},\"to\":{\"line\":8,\"ch\":206}},\"scroll\":0}"
+                },
+                {
                   "title": "03 - Der Schattengefaltete Chor",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
@@ -408,12 +426,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghroths Asche Kampagnenübersicht.md",
+                "file": "00_Campaign_Info/Campaign_Flow_Visualized.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghroths Asche Kampagnenübersicht"
+              "title": "Campaign_Flow_Visualized"
             }
           }
         ],
@@ -633,6 +651,10 @@
   },
   "active": "8f0a87ac7c74569c",
   "lastOpenFiles": [
+    "00_Campaign_Info/Campaign_Flow_Visualized.png",
+    "00_Campaign_Info/Campaign_Overview.md",
+    "00_Campaign_Info/Campaign_Pitch.md",
+    "README.md",
     "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
     "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
     "1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md",
@@ -667,11 +689,7 @@
     "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.jpg.~tmp",
     "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.jpg.~tmp",
     "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.jpg.~tmp",
-    "1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md",
-    "1. World/Die Komponente.md",
     "excalidraw/main.excalidraw",
-    "1. World/Der Fokuspunkt.md",
-    "1. World/Das Abschirmungsritual.md",
     "excalidraw/structure.excalidraw",
     "excalidraw"
   ]
