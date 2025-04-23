@@ -1,0 +1,116 @@
+\documentclass[a4paper,10pt]{article} % A4-Papier, etwas kleinere Schrift
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx} % Für Bilder
+\usepackage{multicol} % Für mehrspaltigen Satz
+\usepackage{geometry} % Für Seitenränder
+%\usepackage{ebgaramond}
+%\usepackage{newpxtext}
+\usepackage{newtxtext} % Klassische Serifenschrift (oder z.B. times, palatino)
+%\usepackage{lipsum} % Nur für Fülltext/Platzhalter, kann später entfernt werden
+\usepackage[german]{babel} % Für deutsche Trennregeln
+\usepackage{caption} % Für Bildunterschriften ohne figure
+
+% Seitenränder anpassen (typisch für Zeitungen: eher schmal)
+\geometry{left=1.5cm, right=1.5cm, top=1.5cm, bottom=1.5cm}
+
+% Kein Einzug bei neuen Absätzen
+\setlength{\parindent}{0pt}
+% Abstand zwischen Absätzen
+\setlength{\parskip}{0.5em}
+
+% Definition für große Schlagzeilen
+\newcommand{\headline}[1]{{\centering\Large\bfseries\MakeUppercase{#1}}\par\vspace{0.5em}}
+\newcommand{\subheadline}[1]{{\centering\bfseries #1}\par\vspace{1em}}
+\newcommand{\sectiontitle}[1]{{\bfseries\MakeUppercase{#1}}\par\vspace{0.5em}}
+
+\begin{document}
+\pagestyle{empty} % Keine Seitenzahlen
+
+% Titel der Zeitung
+\begin{center}
+    \Huge\bfseries The Pine County Chronicle \\
+    %\large \today \qquad -- \qquad Preis: 5 Cents \\ % \today für aktuelles Datum oder manuell ersetzen
+    \large 27. Oktober 19XX \qquad -- \qquad Preis: 5 Cents \\ % Alternative mit festem Datum
+\end{center}
+\vspace{-2em}
+\hrulefill % Erste Trennlinie
+
+\begin{multicols}{2} % Beginne den zweispaltigen Satz
+
+    % --- Linke Spalte Oben ---
+    \headline{Grausige Funde erschüttern abgelegenes Black Creek}
+    \vspace{-0.5em}
+    \subheadline{Sheriff Brody gelobt gründliche Untersuchung inmitten wachsender Angst}
+    \vspace{-0.5em}
+    \textbf{BLACK CREEK –} Die sonst so beschauliche Gemeinde Black Creek im Herzen der Pine County Wälder wird seit zwei Wochen von einer Serie bizarrer und brutaler Vorfälle heimgesucht. Berichten zufolge wurden mindestens drei Einwohner tot aufgefunden, während zwei weitere als vermisst gelten. Die Isolation der tief in den Wäldern gelegenen Holzfällersiedlung erschwert die Ermittlungen zusätzlich.
+    Quellen aus dem Sheriff's Department beschreiben die Fundorte der Opfer als "zutiefst verstörend". Details werden zurückgehalten, doch es heißt, die Umstände seien "ungewöhnlich", und es seien "feine, grau-aschige Rückstände" an den Tatorten festgestellt worden. Auch von "seltsamen Markierungen" in der Nähe ist die Rede, die zunächst für Tierspuren gehalten wurden, aber nicht zu bekannten Wildtieren passen. Sheriff Dale Brody trat gestern vor die Presse und versicherte: "Wir prüfen alle Möglichkeiten, von aus dem Ruder gelaufenen Streitigkeiten bis hin zu Angriffen durch Wildtiere. Ich fordere die Bewohner dringend auf, Ruhe zu bewahren, ihr Eigentum zu sichern und jede verdächtige Aktivität sofort zu melden. Wir werden herausfinden, wer oder was dafür verantwortlich ist." Beobachter beschrieben den Sheriff als sichtlich angespannt. Aufgrund der Schwere und der rätselhaften Umstände wurden inzwischen Ermittler der County-Behörden zur Unterstützung angefordert. Die Angst unter den verbliebenen Einwohnern wächst täglich.
+
+    \vspace{-0.5em}
+    \hrulefill % Trennlinie#
+
+    % --- Linke Spalte Unten ---
+    \sectiontitle{Leserbriefe \& Polizeibericht} % & escaped
+
+    \vspace{-0.5em}
+    
+    \textbf{Leserbrief:} \\
+    \textit{Betreff: Etwas stimmt nicht} \\
+    Sehr geehrte Redaktion,
+    es sind nicht nur die Morde, die uns Angst machen. Seit einiger Zeit fühlen sich die Dinge hier falsch an. Manche Nächte hört man seltsame Geräusche, so ein tiefes Brummen, als würden die Stromleitungen falsch singen. Mein Hund will nicht mehr in die Nähe des Holzschuppens, winselt nur noch. Mein Großvater hat immer gesagt, diese Wälder haben ihre Launen... man solle besser drinnen bleiben, wenn die Sterne komisch aussehen. Was geht hier vor? \\
+    \textit{-- Eine besorgte Anwohnerin, Black Creek}
+
+    \textbf{Aus dem Polizeibericht:}
+    \begin{itemize} \itemsep0em % Kein Abstand zwischen list items
+        \item \textit{24. Okt.:} Meldung über Ruhestörung durch Betrunkenen, Main Street. Person nach Hause begleitet.
+        \item \textit{25. Okt.:} Vermisstenanzeige für Thomas Miller aufgegeben. Zuletzt gesehen nahe dem Pfad zum alten Miller-Anwesen.
+        \item \textit{26. Okt.:} Deputy meldet ungewöhnliche Funkstörungen und Gerätefehlfunktion während Patrouille nahe der Abzweigung zum alten Miller-Anwesen. Als wetterbedingt eingestuft.
+        \item \textit{26. Okt.:} Meldung über möglichen Vandalismus an verfallenem Zaun, Nord-Trail. Ungewöhnliche Kratzspuren festgestellt. Vermutlich Tiere oder Jugendliche.
+    \end{itemize}
+
+
+    \columnbreak % Manueller Spaltenumbruch
+
+    % --- Rechte Spalte Oben ---
+    % Bild direkt einfügen, ohne figure-Umgebung
+    \begin{center} % Zentriert das Bild und die Caption
+        \includegraphics[width=0.9\linewidth]{museums-victoria-rcES3Cqw6z8-unsplash.jpg} % Passe Dateinamen und Breite an
+        %\includegraphics[width=0.9\linewidth]{platzhalter_wald.jpg} % Alternative
+        \captionsetup{labelformat=empty}
+        \captionof{figure}{Sheriff Dale Brody sprach gestern zu besorgten Bürgern. Von museumsvictoria auf unsplash} % Captionof aus caption package
+        \vspace{-2em}
+    \end{center}
+    \hrulefill
+
+    % --- Rechte Spalte Mitte ---
+    \sectiontitle{Wirtschaft \& Lokales} % & escaped
+
+    \textbf{Holzpreise fallen weiter: Black Creeks Zukunft ungewiss} \\
+    Die anhaltende Krise im Holzsektor trifft Gemeinden wie Black Creek besonders hart. Sinkende Preise und geringe Nachfrage zwingen viele zur Aufgabe alteingesessener Betriebe. "Die Stimmung ist am Boden", so ein langjähriger Bewohner, der anonym bleiben möchte. Gerüchte über eine mögliche, wenn auch umstrittene Wiedereröffnung des alten "Widow's Peak"-Minenschachts als letzte Hoffnung auf Arbeitsplätze machen die Runde, stoßen aber wegen Sicherheitsbedenken und "alter Geschichten" auf Widerstand.
+
+    \textbf{Kurz Notiert:}
+    \begin{itemize} \itemsep0em
+        \item Die geplante Sitzung des Stadtrats wurde kurzfristig verschoben. Ein neuer Termin wurde nicht genannt.
+        \item Die Kirchengemeinde lädt am kommenden Sonntag zum traditionellen Kuchenbasar ein.
+    \end{itemize}
+    \vspace{-1.5em}
+    \hrulefill
+
+
+    % --- Rechte Spalte Unten ---
+    \sectiontitle{Anzeigen \& Wetter} % & escaped
+
+    \textbf{Anzeigen:} \\
+    \textit{Johnson's General Store} - Ihr verlässlicher Partner in harten Zeiten. Alles für den täglichen Bedarf. \\
+    \textit{FALLENSTELLER-BEDARF \& MUNITION} - Beste Preise! Bereiten Sie sich auf den Winter vor. Brody's Outfitters. % & escaped
+    \vspace{1em}
+
+    \textbf{GESUCHT:} Alte Karten, Aufzeichnungen oder lokale Geschichten über 'Stille Orte', 'Steinkreise' oder ungewöhnliche geologische Formationen in den Wäldern von Pine County. Gute Bezahlung für brauchbare Informationen. Streng vertraulich. Antwort an Chiffre 1138, Pine County Chronicle.
+    \vspace{1em}
+
+    \textbf{Wetter:} \\
+    Vorhersage: Weiterhin bedeckt, zeitweise starker Regen, zum Wochenende hin Übergang zu Schneeregen möglich. Reisewarnung für Nebenstraßen nicht ausgeschlossen.
+
+\end{multicols} % Ende des zweispaltigen Satzes
+
+\end{document}

@@ -1,0 +1,71 @@
+\documentclass[11pt, a4paper]{article} % 11pt is usually fine with 1in margins
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[german]{babel}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in} % Standard 1-inch margins - crucial for space
+\usepackage{helvet}
+\usepackage{array} % For better tabular control
+\usepackage{amsmath} % For \fbox setup potentially
+
+\linespread{1.15} % Slightly reduced line spacing
+
+\setlength{\parindent}{0pt} % No paragraph indentation globally
+
+\begin{document}
+
+\pagestyle{empty} % No page numbers
+
+\begin{center}
+    {\large PINE COUNTY SHERIFF'S DEPARTMENT} \\
+    \vspace{0.3cm} % Reduced space
+    \rule{\linewidth}{0.4pt} \\
+    \vspace{0.1cm}
+    \textbf{BEWEISMITTELBERICHT - VORLAEUFIG} \\
+    \vspace{0.1cm}
+    \rule{\linewidth}{0.4pt}
+\end{center}
+\vspace{0.6cm} % Reduced space
+
+% Using tabular for better alignment
+\begin{tabular}{@{} >{\bfseries}l @{\hspace{1em}} l}
+    Fall-Nr.: & PCC-BC-001 \\
+    Datum d. Berichts: & 26. Oktober 19XX \\
+    Asservat-Nr.: & BC-A1 \\
+    Bearbeiter: & Deputy C. Miller \\ % Example Name
+\end{tabular}
+\vspace{0.6cm} % Reduced space
+
+\textbf{Fundort(e):} \\
+Tatort Anwesen Miller / Diverse weitere Tatorte, Black Creek Gemeindegebiet.
+\vspace{0.4cm} % Reduced space
+
+\textbf{Beschreibung des Asservats (BC-A1):} \\
+Feines, fast puderartiges Material von grau-aschiger Farbe. Konsistenz trocken. Ungewoehnlich stark haftend an diversen Oberflaechen (Kleidung, Holz, Haut). Signifikante Ansammlungen in unmittelbarer Naehe der aufgefundenen Leichen festgestellt. Probe(n) gesichert in Standard-Beweismittelbeutel.
+\vspace{0.4cm} % Reduced space
+
+\textbf{Erste Einschaetzung / Feldanalyse:} \\
+\begin{itemize}
+    \item[- ] Makroskopisch keine uebereinstimmende Quelle identifizierbar.
+    \item[- ] Optisch/haptisch (durch Schutzhandschuh) abweichend von normalem Staub/Russ/Erde.
+    \item[- ] Chem. Zusammensetzung vor Ort nicht bestimmbar: \textit{UNBEKANNT}.
+    \item[- ] Thermische Eigenschaft: Fuehlt sich bei Beruehrung (durch Schutzhandschuh) subjektiv \textit{ungewoehnlich kalt} an.
+    \item[- ] EMF-Messungen (Feldgeraet Mod. X): Zeigten \textit{sporadische, nicht klassifizierbare Schwankungen} im Nahbereich. Verlaesslichkeit des Geraets unter Feld-Bedingungen fraglich. Laborverif. noetig.
+\end{itemize}
+\vspace{0.4cm} % Reduced space
+
+\textbf{Veranlasste Massnahmen:} \\
+Probe(n) gesichert. Weiterleitung an County Forensik Labor empfohlen. (Hinweis: Labor aktuell stark ueberlastet. Analyse wird sich verzoegern.)
+\vspace{0.4cm} % Reduced space
+
+\textbf{Vermerk / Anweisung Sheriff Brody:} \\
+\fbox{\parbox{0.95\linewidth}{% Add a box around the note
+Sheriff Brody informiert. Weisung erteilt, Substanz bis auf Weiteres STRENG INTERN als "unident. Staub/Verschmutzung" zu klassifizieren. Externe Kommunikation auf Minimum beschraenken! KEINE SPEKULATIONEN! Konzentration auf konventionelle Ermittlung. - D.B. (Init.)
+}}
+\vspace{1cm} % Keep enough space for signature
+
+% Signature Line
+\noindent\rule{8cm}{0.4pt} \\
+\textit{Unterschrift d. Bearbeiters (Deputy C. Miller)}
+
+\end{document}
