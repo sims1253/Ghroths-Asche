@@ -19,10 +19,10 @@ Dies ist keine spezifische Kreatur, sondern ein **Konzept für einen einzigartig
 
 **Beispiele für Integration:**
 
-*   **Im Labyrinth ([[06 - Die Adern des Wahnsinns]]):** Ein Wesen, das durch die Realitätsverzerrungen hier gefangen ist und einen Ausweg sucht. Bietet Wissen im Austausch für Hilfe bei der Flucht.
-*   **Als Quelle für [[Die Komponente]] ([[08_09 - Wettlauf um die Komponente]]):** Das Wesen *ist* die Komponente oder bewacht sie, weil sie für es selbst wichtig ist.
-*   **Während der Reise ([[10_11 - Weg und Bürde zum Finale]]):** Ein Wesen, das die seltsamen Pfade kennt, aber einen hohen Preis für seine Führung verlangt.
-*   **Vom Kult gefangen:** Spieler könnten es befreien, um Informationen zu erhalten oder Chaos zu stiften.
+*   **Im Labyrinth ([[05 - Das sich windende Herz]]):** Ein Wesen, das durch die Realitätsverzerrungen hier gefangen ist und einen Ausweg sucht. Bietet Wissen im Austausch für Hilfe bei der Flucht.
+*   **Als Quelle für [[Die Komponente]] ([[09 - Shell]]):** Das Wesen *ist* die Komponente oder bewacht sie ([[Die Shell Entität]]), weil sie für es selbst wichtig ist.
+*   **Während der Reise ([[10 - Passage]]):** Ein Wesen, das die seltsamen Pfade kennt, aber einen hohen Preis für seine Führung verlangt.
+*   **Vom Kult gefangen:** Spieler könnten es befreien, um Informationen zu erhalten oder Chaos zu stiften (z.B. in A08).
 
 **Interaktion mit Spielern:**
 *   Die Kommunikation kann schwierig sein (fremde Sprache, fremde Logik, telepathisch?).
@@ -37,4 +37,4 @@ Dies ist keine spezifische Kreatur, sondern ein **Konzept für einen einzigartig
 *   **Welchen Preis verlangt es?**
 *   **Wie reagiert es auf Verrat (durch Spieler oder umgekehrt)?**
 
-**Verknüpfungen:** [[NPC-Register]], [[Bestiary]], [[06 - Die Adern des Wahnsinns]], [[08_09 - Wettlauf um die Komponente]], [[10_11 - Weg und Bürde zum Finale]], [[Wissen]]
+**Verknüpfungen:** [[NPC-Register]], [[Bestiary]], [[05 - Das sich windende Herz]], [[09 - Shell]], [[10 - Passage]], [[Wissen]]

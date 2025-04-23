@@ -19,13 +19,13 @@ tags: #Phenomenon #Hazard #GhrothEffect #CoreMechanic
     *   Kann Hunger und Gier verursachen ([[Die hohle Gier]]).
 3.  **Psychisch (Wahnsinn & Emotion):**
     *   Verstärkt negative Emotionen (Angst, Wut, Verzweiflung) -> Auslöser für Gewalt ([[01 - Der Asche-Zorn von Black Creek]]).
-    *   Verursacht Apathie, Hoffnungslosigkeit, Depression ([[02 - Das Gewicht, das verweilt]], [[Die Withering Zone]]).
-    *   Kann gezielt genutzt werden, um Wahnsinn oder spezifische Wahnvorstellungen zu induzieren ([[05 - Das Lied des Schreckens]]).
+    *   Verursacht Apathie, Hoffnungslosigkeit, Depression ([[02 - Das Gewicht, das verweilt]], [[06 - Die Withering Zone]]).
+    *   Kann gezielt genutzt werden, um Wahnsinn oder spezifische Wahnvorstellungen zu induzieren (siehe [[04 - Der Flüsternde Sender]]).
     *   Hinterlässt bleibende psychische Narben an Orten und Personen.
 4.  **Realitätsebene (Verzerrung):**
     *   Schwächt die Grenzen der Realität.
-    *   Kann zu nicht-euklidischer Geometrie führen ([[06 - Die Adern des Wahnsinns]]).
-    *   Kann Zeit-Anomalien oder Dimensionsrisse verursachen (besonders am [[Der Fokuspunkt]] oder während [[10_11 - Weg und Bürde zum Finale]]).
+    *   Kann zu nicht-euklidischer Geometrie führen (siehe [[05 - Das sich windende Herz]]).
+    *   Kann Zeit-Anomalien oder Dimensionsrisse verursachen (besonders am [[Der Fokuspunkt]] oder während [[10 - Passage]]).
 
 **Mechaniken (Vorschläge für Houserules):**
 *   **Asche-Kontamination:** Orte/Personen können Kontaminationslevel ansammeln. Höhere Level bedeuten stärkere negative Effekte (SAN-Verlust-Mali, Attributs-Mali, Risiko für Transformation/Wahnsinn).

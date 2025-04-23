@@ -4,7 +4,49 @@ aliases: [Das Gewicht, Lingering Weight]
 # Original Song/Thema: Linger (Anhaltendes Unbehagen, Realitätsverlust, Schmerz wird Teil des Selbst, erzwungene Wahrheit)
 ---
 
-# Investigation: Das Gewicht, das verweilt
+# Investigation: Das Gewicht, das nachhallt
+
+> [!info]- Lyrics: Linger
+> I don't want to hear
+> I don't want to see
+> All truths forgotten
+> Replaced by confusion
+> What is this feeling
+> Lingering in me?
+> I don't want to feel
+> I don't know what's real
+> What is this feeling
+> Lingering in me?
+>
+> It sets in, it hangs heavy
+> There is no light here
+> It's setting in
+> I feel the pain become me
+>
+> The burden instilled in us all (Instilled in us all)
+> Consumed by tainted truths (Tainted truths)
+> The burden instilled in us all
+> Consumed by tainted truths
+> What do you require of me?
+> I feel the pain become me
+>
+> It's setting in, it hangs heavy
+> What is this feeling
+> Lingering in mе?
+> It sets in, it hangs heavy
+> Therе is no light here
+> It's setting in
+> I feel the pain become me
+>
+> It sets in, it hangs heavy
+> There is no light here
+> It's setting in
+> I feel the pain become me
+>
+> Eyes forced open (Eyes forced open)
+> And I ache (And I ache)
+> Starved of hope (Starved of hope)
+> Await to surrender
 
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
@@ -34,8 +76,8 @@ aliases: [Das Gewicht, Lingering Weight]
 *Wichtige Orte, die die Ermittler besuchen könnten. Verlinke zu Hauptnotizen der Orte und füge untersuchungsspezifische Details hinzu.*
 
 *   **[[Kontaminierter Ort]]** (z.B. [[Verlassene Anstalt Elmwood]], [[Altes Fabrikgelände Greyhaven]]):
-    *   **Atmosphäre & Beschreibung:** Erdrückende Schwere, Gefühl des Beobachtetwerdens, "graues Rauschen" (visuell/auditiv), Schatten huschen im Augenwinkel, Hoffnungslosigkeit. **Wichtig:** Häufung **technologischer Störungen** (Handyempfang, flackernde Lichter, seltsame EMF-Messungen -> Hinweis Ziel 1/2). Gibt es **architektonische Anomalien** (unmögliche Winkel, seltsame Echos, Türen, die woanders hinführen sollten?), die auf frühere Raumverzerrungen hindeuten (-> Hinweis Ziel 2)?
-    *   **Schlüsselinformationen/Hinweise:** Persistenz des Phänomens, Wirkung auf Psyche und Technologie, mögliche architektonische Hinweise. (Psychologie, Physik, Elektrotechnik, Spot Hidden/Spurensuche).
+    *   **Atmosphäre & Beschreibung:** Erdrückende Schwere, Gefühl des Beobachtetwerdens, "graues Rauschen" (visuell/auditiv), Schatten huschen im Augenwinkel, Hoffnungslosigkeit. **Wichtig:** Häufung **technologischer Störungen** (Handyempfang, flackernde Lichter, seltsame EMF-Messungen -> Hinweis Ziel 1/2). Gibt es **architektonische Anomalien** (unmögliche Winkel, seltsame Echos, Türen, die woanders hinführen sollten?), die auf frühere Raumverzerrungen hindeuten (-> Hinweis Ziel 2)? An Wänden, in Staubmustern oder Verfall taucht immer wieder ein bestimmtes Symbol auf (**Symbol: Nachhallen** - siehe [[Ritual-Symbole Leitfaden]]).
+    *   **Schlüsselinformationen/Hinweise:** Persistenz des Phänomens, Wirkung auf Psyche und Technologie, mögliche architektonische Hinweise, das wiederkehrende Symbol. (Psychologie, Physik, Elektrotechnik, Spot Hidden/Spurensuche, Okkultismus).
     *   **Mögliche Begegnungen/Gefahren:** Ständiger SAN-Verlust (z.B. 0/1 pro Stunde), psychische Fallen/Illusionen, technologische Unzuverlässigkeit.
 *   **[[Lokale Bibliothek/Archiv]]**:
     *   **Atmosphäre & Beschreibung:** (Kontrast zum kontaminierten Ort - normal oder ebenfalls leicht bedrückend?)
@@ -60,7 +102,7 @@ aliases: [Das Gewicht, Lingering Weight]
     *   **Mögliche Auswirkungen auf geistige Stabilität:** Konfrontation mit schwerem psychischem Leid (0/1 SAN).
 *   **Psychische Echos/Manifestationen**:
     *   **Rolle in der Untersuchung:** Atmosphärische Elemente, potenzielle Hinweisgeber.
-    *   **Schlüsselwissen/Geheimnisse:** Keine bewussten Geheimnisse, aber Sinneseindrücke/Visionen könnten auf frühere Ereignisse hindeuten (Rituale? -> Hinweis Ziel 3/4).
+    *   **Schlüsselwissen/Geheimnisse:** Keine bewussten Geheimnisse, aber Sinneseindrücke/Visionen könnten auf frühere Ereignisse hindeuten (Rituale? -> Hinweis Ziel 3/4). Das **Symbol des Nachhalls** (**Symbol: Nachhallen**) könnte in diesen Visionen prominent auftauchen, verbunden mit Gefühlen von Schwere und Hoffnungslosigkeit.
     *   **Auftreten & Ziele:** Flüchtige Schatten, Geräusche, plötzliche Kälte, kurze, verstörende Visionen. Kein eigenes Ziel.
     *   **Mögliche Auswirkungen auf geistige Stabilität:** Direkte SAN-Verluste je nach Intensität der Manifestation (z.B. 0/1d3).
 *   **[[Dr. Aris Thorne]]** ([[Geächteter Gelehrter]]):
@@ -102,6 +144,11 @@ aliases: [Das Gewicht, Lingering Weight]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Interview-Fertigkeiten.
     *   **Enthüllte Information:** Vage Hinweise auf organisierte Gruppen, die die Situation ausnutzen (-> Spur zu Ziel 4).
     *   **Mögliche SAN-Kosten:** 0.
+*   **Hinweis 7:** Das Symbol des Nachhalls
+    *   **Ort/Quelle:** [[Kontaminierter Ort]] (als Muster/Graffiti), Psychische Echos/Manifestationen (in Visionen).
+    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus, Psychologie.
+    *   **Enthüllte Information:** Das wiederkehrende **Symbol des Nachhalls** (**Symbol: Nachhallen**) scheint untrennbar mit der anhaltenden, schweren psychischen Kontamination des Ortes verbunden zu sein. Es repräsentiert **Ghroths Aspekt des psychischen Nachhalls** und des anhaltenden Leids ("What is this feeling lingering in me?"), das wie ein Echo vergangener Ereignisse oder Ghroths "Gesang" nachhallt. (Die konternde Bedeutung für das Ritual wird erst später klar).
+    *   **Mögliche SAN-Kosten:** 0/1 SAN für die Erkenntnis seiner Bedeutung im Kontext des Ortes.
 *
 *   **Clue Flowchart:** [[Clue_Flow_Act1.canvas]] (Muss vom Keeper erstellt werden, dieser Teil fügt Verbindungen hinzu)
 *

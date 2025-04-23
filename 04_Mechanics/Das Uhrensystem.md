@@ -16,7 +16,7 @@ Das Uhrensystem dient dazu, den Fortschritt von übergreifenden Bedrohungen, den
 *   Die Uhren werden am **Ende von Phase 1** ([[03 - Der Schattengefaltete Chor]]) aktiviert.
 *   Sie laufen **parallel während Phase 2** ([[Phase 2 Hub - Offene Investigation]]) und beeinflussen die Schwierigkeit und Ereignisse der verfolgten Ziele. Spieleraktionen in dieser Phase beeinflussen die Uhren maßgeblich.
 *   Die [[Asche Uhr]] löst bei vollem Stand die **Katastrophe ([[07 - Der unumkehrbare Himmel]])** aus und beendet Phase 2.
-*   Der **Zustand aller Uhren nach der Katastrophe** beeinflusst die Startbedingungen und die Herausforderungen von **Phase 3 ([[08_09 - Wettlauf um die Komponente]])** und **Phase 4 ([[10_11 - Weg und Bürde zum Finale]], [[12 - Träger der Asche]])**.
+*   Der **Zustand aller Uhren nach der Katastrophe** beeinflusst die Startbedingungen und die Herausforderungen von **Phase 3 ([[08 - Death Spiral]], [[09 - Shell]], [[10 - Passage]], [[11 - Burden]])** und **Phase 4 ([[12 - Träger der Asche]])**.
 
 **Sichtbarkeit für Spieler (Optionen):**
 1.  **Sichtbar:** Der SL zeigt den Spielern die Uhren (z.B. auf einem Whiteboard, in Excalidraw, VTT).

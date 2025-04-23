@@ -6,6 +6,47 @@ aliases: [Unumkehrbarer Himmel, The Irreversible Sky, Wendepunkt]
 
 # Investigation: Der unumkehrbare Himmel (Wendepunkt)
 
+> [!info]- Lyrics: Catastrophize
+> Through artificial means
+> The human animal robbed of purpose
+> Through artificial means
+> Continue living in misery
+> The inescapable now ever present
+> The permanence of our future
+> Irreversibility
+>
+> See your own humanity
+> Reflected back at you (Reflected back at you)
+> The horrible truth
+> Unfulfillable longing (Unfulfillable longing)
+> There's a hole inside of you
+> You cannot fill
+> A constant reminder
+> Irreversibility
+> Alleviate me
+> From this human experience
+>
+> Through artificial means
+> We owe what we can't repay
+> Through artificial means
+> Continue living in misery
+>
+> The pain of knowing
+> Take it in; the full extent of the suffering
+> Take it in; the full extent of the suffering
+> Let it in; everything has led up to this
+> I die with the world
+> I die with the world
+>
+> Catastrophize
+> Take it in
+> Catastrophize
+> Let it in
+> The pain of knowing
+> Take it in
+> Catastrophize
+> Let it in
+
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 
@@ -50,8 +91,8 @@ aliases: [Unumkehrbarer Himmel, The Irreversible Sky, Wendepunkt]
 *Wichtige Orte, die die Ermittler besuchen könnten. Verlinke zu Hauptnotizen der Orte und füge untersuchungsspezifische Details hinzu.*
 
 *   **[[Stadt im Chaos]]** (Der Ort der Katastrophe):
-    *   **Atmosphäre & Beschreibung:** Dynamisches Labyrinth aus Trümmern, Feuer, Asche-Stürmen, Fluten. Ständige Gefahr durch einstürzende Gebäude, Nachbeben, Umweltgifte. Schreie, Chaos, unheimliche Stille.
-    *   **Schlüsselinformationen/Hinweise:** Überlebenswichtig: sichere Routen, Wasser-/Nahrungsquellen, Zustand anderer Überlebender. Spuren des Widerstands? Kult-Aktivitäten?
+    *   **Atmosphäre & Beschreibung:** Dynamisches Labyrinth aus Trümmern, Feuer, Asche-Stürmen, Fluten. Ständige Gefahr durch einstürzende Gebäude, Nachbeben, Umweltgifte. Schreie, Chaos, unheimliche Stille. Während des Höhepunkts der Katastrophe könnte das **Symbol der Katastrophe** (**Symbol: Katastrophe** - siehe [[Ritual-Symbole Leitfaden]]) am Himmel erscheinen, in Energieentladungen aufleuchten oder sich in die Trümmer einbrennen.
+    *   **Schlüsselinformationen/Hinweise:** Überlebenswichtig: sichere Routen, Wasser-/Nahrungsquellen, Zustand anderer Überlebender. Spuren des Widerstands? Kult-Aktivitäten? Die Erscheinung des Symbols als Zeichen des Wendepunkts.
     *   **Mögliche Begegnungen/Gefahren:** Umweltgefahren, panische Menschen, Plünderer, [[Erwachte Schrecken]], Kultisten.
 *   **[[Überfüllte Notunterkünfte]]**:
     *   **Atmosphäre & Beschreibung:** Chaotisch, laut, verzweifelt, krankheitsanfällig. Gerüchte, Angst, Paranoia. Können temporäre Sicherheit bieten, aber auch gefährlich sein.
@@ -118,6 +159,11 @@ aliases: [Unumkehrbarer Himmel, The Irreversible Sky, Wendepunkt]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Cthulhu Mythos, Biologie/Zoologie (um zu erkennen, wie *falsch* sie sind), Beobachtung.
     *   **Enthüllte Information:** Bestätigung, dass mächtige Wesen aktiv sind. Evtl. Hinweise auf ihre Schwächen/Verhaltensmuster (falls vorhanden).
     *   **Mögliche SAN-Kosten:** Massiv (siehe NPCs).
+*   **Hinweis 5:** Das Symbol der Katastrophe
+    *   **Ort/Quelle:** Direkte Beobachtung während der Katastrophe (Himmel, Energie, Zerstörungsmuster), evtl. in letzten Aufzeichnungen des Widerstands als Warnung/Vorhersage.
+    *   **Fertigkeit(en) zum Finden/Verstehen:** Beobachtung, Okkultismus, Cthulhu Mythos.
+    *   **Enthüllte Information:** Das **Symbol der Katastrophe** (**Symbol: Katastrophe**) manifestiert sich während des Höhepunktes des Ereignisses. Es repräsentiert den unumkehrbaren Wendepunkt, das kosmische Ereignis selbst und den Beginn der neuen, zerstörten Realität. Es könnte auch mit dem Timing oder der Natur des Rituals zusammenhängen.
+    *   **Mögliche SAN-Kosten:** 1/1d6 SAN für die Erkenntnis seiner Bedeutung als Zeichen der Apokalypse.
 *
 *   **Clue Flowchart:** Nicht anwendbar im selben Sinne; Fokus liegt auf Überleben und Finden des Widerstands/Wissens.
 *

@@ -6,6 +6,42 @@ aliases: [Schattenchor, Shadowfold Choir]
 
 # Investigation: Der Schattengefaltete Chor
 
+> [!info]- Lyrics: Lifeless, Deathless
+> You alone, hear my words
+> To others, I remain unknown
+> You'll give yourself to me (Yourself to me)
+> In time
+>
+> Present, all encompassing
+> Your flesh and bone succumb
+> Lifeless, deathless
+> Your mind, shadow folded (Shadow folded)
+> Lifeless, deathless
+>
+> Your flesh and bone succumb (Succumb)
+> Your mind, shadow folded (Shadow folded)
+> Lifeless
+> Death
+>
+> Inner thoughts, subject to control
+> Wants, needs, dissipating
+> Not man nor god
+> Reverie or parasite
+> A shapeless shape
+>
+> My will, a tongue's caress
+> Language beyond words
+> My will, your ultimate truth
+> Your powerlessness, eternal
+> The light inside you will fade in time (In time)
+> As you succumb
+> Revealing a world of fulfillment
+> And purpose
+> Enslavement (Enslavement)
+> A living shadow (A living shadow)
+> To others, I remain unknown
+> Inside you, I remain forever
+
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 
@@ -34,12 +70,20 @@ aliases: [Schattenchor, Shadowfold Choir]
 *Wichtige Orte, die die Ermittler besuchen könnten. Verlinke zu Hauptnotizen der Orte und füge untersuchungsspezifische Details hinzu.*
 
 *   **[[Ort der Transformation]]** (z.B. Museumskeller, Höhle, Atelier):
-    *   **Atmosphäre & Beschreibung:** Unheimlich, steril oder chaotisch (je nach Ort). Gefühl von falscher Ruhe oder unterdrückter Energie. Möglicherweise Spuren von [[Die Asche]], seltsame Resonanzen oder Artefakte, die als Fokus dienen.
-    *   **Schlüsselinformationen/Hinweise:** Hinweise auf den Transformationsprozess (benötigte Bedingungen, Substanzen?). Hinweise auf die steuernde Intelligenz? Messbare Energie? (-> Hinweis Ziel 2). (Okkultismus, Physik, Chemie, Spot Hidden/Spurensuche).
+    *   **Atmosphäre & Beschreibung:** Unheimlich, steril oder chaotisch (je nach Ort). Gefühl von falscher Ruhe oder unterdrückter Energie. Möglicherweise Spuren von [[Die Asche]], seltsame Resonanzen oder Artefakte, die als Fokus dienen. Das **Symbol des Leblos/Unsterblich** (**Symbol: Leblos/Unsterblich** - siehe [[Ritual-Symbole Leitfaden]]) ist hier prominent angebracht (eingeritzt, gemalt, als Teil eines Fokusobjekts) und scheint mit dem Prozess verbunden zu sein.
+    *   **Schlüsselinformationen/Hinweise:** Hinweise auf den Transformationsprozess (benötigte Bedingungen, Substanzen?), Präsenz des Symbols als Zeichen der Transformation, Hinweise auf die steuernde Intelligenz? Messbare Energie? (-> Hinweis Ziel 2). (Okkultismus, Physik, Chemie, Spot Hidden/Spurensuche).
     *   **Mögliche Begegnungen/Gefahren:** Konfrontation mit [[Die Transformierten]] oder Kultisten, psychische Fallen, Gefahr der Kontamination/Transformation.
 *   **[[Versteckter Kultisten-Schrein]]**:
-    *   **Atmosphäre & Beschreibung:** Behelfsmäßig oder aufwendig, je nach Kultistenzelle. Enthält [[Asche-Chor Symbol (Früh)]], Opfergaben (vielleicht persönliche Gegenstände der Transformierten?).
-    *   **Schlüsselinformationen/Hinweise:** **Entscheidend:** Fragmentarische, **kryptische Texte** mit Hinweisen auf: "Sänger"/"Stille"/"Stern" (-> Ziel 1), "Orte der Macht"/"Heilige Geometrie"/"Linien der Asche" (-> Ziel 2), "alte Wächter"/"jene, die sich widersetzen" (-> Ziel 3), Ritualanleitungen/Pläne (-> Ziel 4). (Okkultismus, Library Use/Bibliotheksnutzung, Cthulhu Mythos).
+    *   **Atmosphäre & Beschreibung:** Behelfsmäßig oder aufwendig, je nach Kultistenzelle. Das **Symbol des Leblos/Unsterblich** (**Symbol: Leblos/Unsterblich**) ist zentral präsent, oft verehrt. Enthält Opfergaben (vielleicht persönliche Gegenstände der Transformierten?).
+    *   **Schlüsselinformationen/Hinweise:** **Entscheidend:** Fragmentarische, **kryptische Texte** mit Hinweisen auf: "Sänger"/"Stille"/"Stern" (-> Ziel 1), "Orte der Macht"/"Heilige Geometrie"/"Linien der Asche" (-> Ziel 2), "alte Wächter"/"jene, die sich widersetzen" (-> Ziel 3), Ritualanleitungen/Pläne (-> Ziel 4). Das Symbol selbst ist ein wichtiger Hinweis (-> Hinweis 1). Die Texte hier beschreiben die Transformation als erstrebenswertes Ziel der "Befreiung" vom Fleisch und preisen den Zustand des "Leblos/Unsterblich". (Okkultismus, Library Use/Bibliotheksnutzung, Cthulhu Mythos).
+        *   *Beispielhafter Fund (aus ihren "Gebeten" oder Schriften, inspiriert von "Anthracite"):*
+            > Kriechend aus den Spalten
+            > Aus endlosen Tiefen
+            > Im Herzen des Anthrazit
+            > Der lange Weg aus dem Abgrund endet hier
+            >
+            > Mein Aufstieg
+            > Mein Aufstieg...
     *   **Mögliche Begegnungen/Gefahren:** Kultisten, Fallen, verstörende Funde (SAN-Verlust).
 *   **[[Wohnungen der Vermissten]]**:
     *   **Atmosphäre & Beschreibung:** Alltägliche Orte, die nun von Abwesenheit und vielleicht subtilen Zeichen der Veränderung geprägt sind.
@@ -77,11 +121,11 @@ aliases: [Schattenchor, Shadowfold Choir]
 ## 6. Hinweise & Untersuchungsfluss
 *Die Spur der Beweise. Wie hängen Hinweise zusammen? Welche Fertigkeiten werden benötigt? Verlinke zum Clue Flowchart.*
 
-*   **Hinweis 1:** Existenz des [[Der Asche-Chor]] & [[Asche-Chor Symbol (Früh)]]
-    *   **Ort/Quelle:** [[Versteckter Kultisten-Schrein]], Konfrontation mit Kultisten.
+*   **Hinweis 1:** Existenz des [[Der Asche-Chor]] & Das Symbol des Leblos/Unsterblich
+    *   **Ort/Quelle:** [[Versteckter Kultisten-Schrein]], [[Ort der Transformation]], Konfrontation mit Kultisten.
     *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus.
-    *   **Enthüllte Information:** Bestätigt organisierte menschliche Bedrohung (-> Spur zu Ziel 4).
-    *   **Mögliche SAN-Kosten:** 0/1 SAN bei Fund verstörender Rituale/Opfergaben.
+    *   **Enthüllte Information:** Bestätigt organisierte menschliche Bedrohung (-> Spur zu Ziel 4). Das **Symbol des Leblos/Unsterblich** (**Symbol: Leblos/Unsterblich**) repräsentiert **Ghroths Aspekt des Verlusts der Individualität** und die vom Kult angestrebte falsche Transzendenz ("Lifeless, deathless"). Es ist das Zeichen ihres Ziels und der schrecklichen Transformation. (Die konternde Bedeutung für das Ritual wird erst später klar).
+    *   **Mögliche SAN-Kosten:** 0/1 SAN bei Fund verstörender Rituale/Opfergaben oder der Erkenntnis der Symbolbedeutung im Kontext der Transformation.
 *   **Hinweis 2:** Fragmentarische Kult-Texte (Haupt-Seed für Phase 2)
     *   **Ort/Quelle:** [[Versteckter Kultisten-Schrein]].
     *   **Fertigkeit(en) zum Finden/Verstehen:** Library Use/Bibliotheksnutzung, Okkultismus, Cthulhu Mythos (für tiefere Deutung).
@@ -107,7 +151,7 @@ aliases: [Schattenchor, Shadowfold Choir]
 *
 *   **Zeitungs-Handout ([[Die Ashfall Gazette]]) Hinweise:**
     *   *Relevante Artikel/Schlagzeilen für diese Untersuchung:* "Serie von Vermisstenfällen gibt Rätsel auf", "Gerüchte über seltsame 'leere' Menschen am Stadtrand", "Museumsdirektor Müller dementiert Gerüchte über 'unheimliche Funde' im Keller".
-    *   *Subtile Hinweise oder Vorahnungen darin versteckt:* Artikel über Zunahme von Selbsthilfegruppen oder neuen spirituellen Zirkeln; Bericht über Vandalismus mit seltsamen Symbolen ([[Asche-Chor Symbol (Früh)]]?); Interview mit [[Dr. Aris Thorne]] über "kosmische Zyklen und ihre psychologischen Auswirkungen" (falls er öffentlich spricht); Kurzmeldung über ungewöhnliche Wetterphänomene oder eine Serie kleiner, unerklärlicher Erdstöße in der Region.
+    *   *Subtile Hinweise oder Vorahnungen darin versteckt:* Artikel über Zunahme von Selbsthilfegruppen oder neuen spirituellen Zirkeln; Bericht über Vandalismus mit seltsamen Symbolen (könnte das **Symbol des Leblos/Unsterblich** sein?); Interview mit [[Dr. Aris Thorne]] über "kosmische Zyklen und ihre psychologischen Auswirkungen" (falls er öffentlich spricht); Kurzmeldung über ungewöhnliche Wetterphänomene oder eine Serie kleiner, unerklärlicher Erdstöße in der Region.
     *   *Falsche Fährten oder irreführende Informationen:* Polizei vermutet eine Entführungsserie durch organisierte Kriminalität; Psychologen erklären die "leeren" Menschen als Folge von Drogenmissbrauch.
 
 ## 7. Mögliche Begegnungen & Schlüsselszenen

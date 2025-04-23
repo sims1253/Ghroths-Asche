@@ -10,8 +10,8 @@
 
 ## Kernkonzept & Atmosphäre
 
-*   **Ton:** Düster, erdrückend, dissonant. Schwerpunkt auf kosmischem Horror, Body Horror, psychologischem Verfall und einer Atmosphäre der Hoffnungslosigkeit, die durch Momente bedeutsamen Widerstands und die Entscheidungen der Charaktere durchbrochen wird. **Die tickenden Uhren erzeugen zusätzliche Spannung und Dringlichkeit.**
-*   **Inspiration:** [**Humanity's Last Breath - Ashen**](https://humanityslastbreathofficial.bandcamp.com/album/ashen) (Album)
+*   **Ton:** Düster, erdrückend, dissonant. Schwerpunkt auf kosmischem Horror, Body Horror, psychologischem Verfall und einer Atmosphäre der Hoffnungslosigkeit, die durch Momente bedeutsamen Widerstands und die Entscheidungen der Charaktere durchbrochen wird. **Die tickenden Uhren erzeugen zusätzliche Spannung und Dringlichkeit.** Wiederkehrende, verstörende **Symbole** (inspiriert von HLB) repräsentieren die verschiedenen Aspekte von Ghroths Einfluss.
+*   **Inspiration:** [**Humanity's Last Breath - Ashen**](https://humanityslastbreathofficial.bandcamp.com/album/ashen) (Album & Symbolik)
 *   **Pitch (Non-Spoiler):** [[Kampagnen-Pitch (Spielerversion)]]
 *   **Das große Ganze (Keeper-Wissen):** [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]
 
@@ -40,9 +40,10 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 *   [[03 - Der Schattengefaltete Chor]] --> Startet [[Das Uhrensystem]]
 
 **Phase 2: Offene Investigation (Kern-Szenarien)**
-*Fokus: Das *Wie*. Nach Aktivierung der [[Uhrensystem|Uhren]] können Spieler Hinweisen nachgehen, die zu verschiedenen Kern-Szenarien führen. Die Reihenfolge ist flexibel. **Aktionen und Zeit beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Ziel ist das Sammeln von Hinweisen auf [[Ghroth]] (Quelle), [[Der Fokuspunkt]] (Manifestation), [[Das Abschirmungsritual]] (Lösung) und den [[Der Asche-Chor]] (Kult). Zwischen den Szenarien kehren die Spieler zu ihrem "Hub" zurück (narrativer Zustand/sicherer Ort) um zu planen und sich zu erholen.*
-*   **Kern-Szenario 1:** [[04 - Der Flüsternde Sender]] (Fokus: Quelle Verstehen - Signal, Ghroth-Daten)
-*   **Kern-Szenario 2:** [[05 - Das sich windende Herz]] (Fokus: Manifestation Verstehen - Fokuspunkt-Ort, Raumverzerrung)
+*Fokus: Das *Wie*. Nach Aktivierung der [[Uhrensystem|Uhren]] können Spieler Hinweisen nachgehen, die zu verschiedenen Kern-Szenarien führen. Die Reihenfolge ist flexibel. **Aktionen und Zeit beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Ziel ist das Sammeln von Hinweisen auf [[Ghroth]] (Quelle), [[Der Fokuspunkt]] (Manifestation), [[Das Abschirmungsritual]] (Lösung) und den [[Der Asche-Chor]] (Kult). **Ein zentrales Element ist das Finden und Verstehen der 11 [[Ritual-Symbole Leitfaden|Ritual-Symbole]], die verschiedene Aspekte von Ghroths Einfluss repräsentieren und für das finale Ritual entschlüsselt werden müssen.** Zwischen den Szenarien kehren die Spieler zu ihrem "Hub" zurück (narrativer Zustand/sicherer Ort) um zu planen und sich zu erholen.*
+*   **Kern-Szenario 1:** [[04 - Die Withering Zone]] (Fokus: Manifestation Verstehen - Verfall & Lösung Finden - Widerstand, Schutz) - Enthält Symbol: Welken
+*   **Kern-Szenario 2:** [[05 - Der Flüsternde Sender]] (Fokus: Quelle Verstehen - Signal, Ghroth-Daten) - Enthält Symbol: Einflößen
+*   **Kern-Szenario 3:** [[06 - Das sich windende Herz]] (Fokus: Manifestation Verstehen - Fokuspunkt-Ort, Raumverzerrung) - Enthält Symbol: Labyrinth
 *   **Kern-Szenario 3:** [[06 - Die Withering Zone]] (Fokus: Manifestation Verstehen - Verfall & Lösung Finden - Widerstand, Schutz)
 *   *(Hinweise auf den Kult (Ziel 4) und weitere Aspekte der Lösung (Ziel 3) sind in diese Szenarien integriert oder können durch separate Aktionen/Recherchen verfolgt werden).*
 
@@ -67,9 +68,6 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 **(Optional):**
 *   [[Intro - Anthracite (Teaser)]]?
 *   [[Epilog - Anthracite (Konsequenzen)]]?
-
-![[main.excalidraw]]
-
 ---
 
 ## Das Uhrensystem
@@ -87,6 +85,7 @@ Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequ
 *   *Wie zuvor, aber die Dynamik der Fraktionen ([[Der Asche-Chor]], [[Der sterbende Widerstandskult]]) wird nun auch durch die Uhren beeinflusst.*
 *   [[Ghroth]], [[Die Asche]], [[Erwachte Schrecken]], [[Transformierte Kreaturen & Opfer]]
 *   [[Dr. Aris Thorne]], [[Das Abschirmungsritual]], [[Die Komponente]], [[Der Fokuspunkt]], [[Defektes Mythos-Wesen]]?
+*   **[[Ritual-Symbole Leitfaden|Die 11 Ritual-Symbole]]:** Repräsentieren Aspekte von Ghroths Einfluss und sind Schlüssel zum Verständnis und zur Durchführung des Abschirmungsrituals.
 
 ---
 

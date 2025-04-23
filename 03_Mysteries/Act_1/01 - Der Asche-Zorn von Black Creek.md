@@ -1,10 +1,60 @@
 ---
-tags: coc-mystery, investigation, Adventure, Phase1, BlackCreek, Intro, SeedPhase2
-aliases: [Asche-Zorn, Black Creek Morde]
-# Original Song/Thema: Blood Spilled (Brutale Gewalt, Rache, Leiden, Asche einatmen, Psychologischer Druck)
+tags:
+  - coc-mystery
+  - investigation
+  - Adventure
+  - Phase1
+  - BlackCreek
+  - Intro
+  - SeedPhase2
+aliases:
+  - Asche-Zorn
+  - Black Creek Morde
 ---
 
 # Investigation: Der Asche-Zorn von Black Creek
+
+> [!info]- Lyrics: Blood Spilled
+> I just need to see some blood spilled
+> A guilty man's head on the ground
+> Someone to pay, to suffer like we have (We have)
+> This disfigured world is what I want you to see
+> 
+> See
+> This life has nothing to offer
+> The human experience is to suffer
+> When will you take the blame?
+> Take the blame
+> 
+> I've seen enough
+> There is darkness here
+> Unknown to you
+> A losing battle is raging
+> We're nearing the end of the decline
+> I've seen enough (I've seen enough)
+> There's nothing beyond survival
+> Only emptiness
+> 
+> Breathe it in
+> The smoke, the ash, the embers
+> Breathe it in
+> 
+> Breathe it in
+> The smoke, the ash, the embers
+> Breathe it in
+> Breathe
+> I just need to see some blood spilled (Blood spilled)
+> A guilty man's head on the ground
+> Someone to pay, to suffer like we have
+> 
+> Suffer like we have
+> Take the blame (Take the blame)
+> I've seen enough
+> 
+> Losses suffered
+> Human systems unravel
+> There's nothing beyond survival (Beyond survival)
+> Only emptiness (Emptiness)
 
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
@@ -38,12 +88,12 @@ aliases: [Asche-Zorn, Black Creek Morde]
     *   **Schlüsselinformationen/Hinweise:** Allgemeine Stimmung in der Gemeinde, Gerüchte, potenzielle Zeugen (aber wahrscheinlich unzuverlässig/ängstlich).
     *   **Mögliche Begegnungen/Gefahren:** Feindselige Einheimische, Fehlinformationen, Umweltgefahren (Wetter, Abgelegenheit), unheimliches Tierverhalten.
 *   **[[Tatorte Black Creek]]** (Spezifische Orte wie Hütten, Mineneingänge, Waldlichtungen):
-    *   **Atmosphäre & Beschreibung:** Orte extremer Gewalt. Brutal verstümmelte Leichen, überraschend wenig Blut, stattdessen feiner, grauer [[Die Asche]]-Staub. Seltsame, scheinbar zufällige geometrische Kratzer/Muster. Luft fühlt sich kalt, "leer", bedrückend an.
-    *   **Schlüsselinformationen/Hinweise:** Art der Gewalt, Anwesenheit und Eigenschaften von [[Die Asche]], geometrische Muster. (Spot Hidden/Spurensuche, Forensik, Okkultismus).
+    *   **Atmosphäre & Beschreibung:** Orte extremer Gewalt. Brutal verstümmelte Leichen, überraschend wenig Blut, stattdessen feiner, grauer [[Die Asche]]-Staub. Seltsame geometrische Kratzer/Muster, darunter wiederholt ein spezifisches, verstörendes Symbol (**Symbol: Blut Vergosssen** - siehe [[Ritual-Symbole Leitfaden]]). Luft fühlt sich kalt, "leer", bedrückend an.
+    *   **Schlüsselinformationen/Hinweise:** Art der Gewalt, Anwesenheit und Eigenschaften von [[Die Asche]], das wiederkehrende Symbol und andere Muster. (Spot Hidden/Spurensuche, Forensik, Okkultismus).
     *   **Mögliche Begegnungen/Gefahren:** Verbleibende psychische Rückstände (SAN-Verlust), Entdeckung durch Mörder/Einheimische, Umweltgefahren.
 *   **[[Versteck Täter Black Creek]]** (Verlassene Hütte, alter Stollen, etc.):
-    *   **Atmosphäre & Beschreibung:** Spiegelt Wut und Verzweiflung des Mörders wider. Möglicherweise verwahrlost, gefüllt mit obsessiven Gegenständen.
-    *   **Schlüsselinformationen/Hinweise:** Beweise, die den Mörder mit Opfern verbinden, persönliche Gegenstände, die Motive zeigen (Verlust, Verrat), **entscheidend:** unbewusste Kritzeleien/Manifeste, die "Druck", "Gesang", seltsame **geometrische Muster** (-> Ziel 2), falsche/obsessive **astronomische Symbole** (-> Ziel 1), möglicherweise frühes [[Asche-Chor Symbol (Früh)]] (-> Ziel 4) erwähnen. (Investigate/Untersuchen, Psychoanalyse, Okkultismus).
+    *   **Atmosphäre & Beschreibung:** Spiegelt Wut und Verzweiflung des Mörders wider. Möglicherweise verwahrlost, gefüllt mit obsessiven Gegenständen. Wände könnten mit Kritzeleien bedeckt sein.
+    *   **Schlüsselinformationen/Hinweise:** Beweise, die den Mörder mit Opfern verbinden, persönliche Gegenstände, die Motive zeigen (Verlust, Verrat), **entscheidend:** unbewusste Kritzeleien/Manifeste, die "Druck", "Gesang", seltsame **geometrische Muster** und obsessive Wiederholungen des **Symbols des Blutvergießens** (**Symbol: Blutvergießen**) zeigen (-> Hinweis auf Bedeutung: Gewalt/Opfer/Auslöser & Ziel 2), falsche/obsessive **astronomische Symbole** (-> Ziel 1). (Investigate/Untersuchen, Psychoanalyse, Okkultismus).
     *   **Mögliche Begegnungen/Gefahren:** Sprengfallen, Rückkehr des Mörders, Entdeckung durch Einheimische.
 *   **[[Sheriff-Posten Black Creek]]**:
     *   **Atmosphäre & Beschreibung:** Kleines, unterbesetztes Büro. [[Sheriff Brody]] ist überfordert, möglicherweise inkompetent oder behindernd.
@@ -81,11 +131,11 @@ aliases: [Asche-Zorn, Black Creek Morde]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Evidence Collection/Beweissicherung, Chemie/Naturwissenschaft für Analyse.
     *   **Enthüllte Information:** Physischer Beweis für etwas Unnatürliches. Analyse ergibt unbekannte Elemente & **anomale Energiesignaturen** (-> Spur zu Ziel 2). Recherche zu Signaturen könnte zu [[Dr. Aris Thorne]] führen (-> Spur zu Kontakt Thorne).
     *   **Mögliche SAN-Kosten:** 0/1 SAN für das unnatürliche Gefühl/Implikation.
-*   **Hinweis 2:** Seltsame geometrische Muster
+*   **Hinweis 2:** Das Symbol des Blutvergießens & Muster
     *   **Ort/Quelle:** [[Tatorte Black Creek]] (Kratzer), [[Versteck Täter Black Creek]] (Kritzeleien).
     *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus, Archäologie/Kunstgeschichte (um unnatürliche/nicht-standardisierte Muster zu erkennen).
-    *   **Enthüllte Information:** Deutet auf nicht-zufälligen Einfluss, rituelles Element, mögliche Verbindung zu räumlichen Anomalien oder Orten der Macht hin (-> Spur zu Ziel 2).
-    *   **Mögliche SAN-Kosten:** 0/1 SAN für ihr beunruhigendes, unnatürliches Aussehen.
+    *   **Enthüllte Information:** Das wiederkehrende **Symbol des Blutvergießens** (**Symbol: Blutvergießen**) scheint untrennbar mit der extremen Gewalt verbunden zu sein. Es repräsentiert **Ghroths Aspekt der Gewalt als Katalysator** – wie Leid und Blutvergießen seinen Einfluss verstärken und als Kanal dienen. Die begleitenden Muster könnten auf nicht-zufälligen Einfluss oder Verbindung zu Orten der Macht hindeuten (-> Spur zu Ziel 2). (Die positive/konternde Bedeutung für das Ritual wird erst später klar).
+    *   **Mögliche SAN-Kosten:** 0/1 SAN für ihr beunruhigendes Aussehen und die Verbindung zur Gewalt.
 *   **Hinweis 3:** Obsessive/falsche astronomische Symbole
     *   **Ort/Quelle:** [[Versteck Täter Black Creek]] (Kritzeleien).
     *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Astronomie, Okkultismus.
@@ -101,11 +151,6 @@ aliases: [Asche-Zorn, Black Creek Morde]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Library Use/Bibliotheksnutzung, History/Geschichte.
     *   **Enthüllte Information:** Hinweise auf wiederkehrende Natur seltsamer Ereignisse, potenzielle historische Gegenmaßnahmen oder sichere Orte (-> Spur zu Ziel 3).
     *   **Mögliche SAN-Kosten:** 0
-*   **Hinweis 6:** (Optional) Frühes Kult-Symbol?
-    *   **Ort/Quelle:** [[Versteck Täter Black Creek]] (Kritzeleien).
-    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus.
-    *   **Enthüllte Information:** Vager Hinweis auf ein wiederkehrendes Symbol, das mit dem Phänomen verbunden ist (-> Spur zu Ziel 4).
-    *   **Mögliche SAN-Kosten:** 0/1 SAN.
 *
 *   **Clue Flowchart:** [[Clue_Flow_Act1.canvas]] (Muss vom Keeper erstellt werden)
 *

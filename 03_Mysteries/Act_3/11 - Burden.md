@@ -6,6 +6,9 @@ aliases: [Burden, Die Bürde]
 
 # Investigation: Burden
 
+> [!info]- Lyrics: Burden
+> Instrumentalsong
+
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 

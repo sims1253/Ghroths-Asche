@@ -51,19 +51,15 @@
             },
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ghroths Asche Kampagnenübersicht.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Ghroths Asche Kampagnenübersicht"
+              "title": "New tab"
             }
           },
           {
-            "id": "9c55fdea3324370d",
+            "id": "1295bf1151538865",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -73,369 +69,242 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "killers_notes_handout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "museums-victoria-rcES3Cqw6z8-unsplash",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg\"},\"icon\":\"lucide-image\",\"title\":\"museums-victoria-rcES3Cqw6z8-unsplash\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "symbol_scene.png",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/symbol_scene.png.png\"},\"icon\":\"lucide-image\",\"title\":\"symbol_scene.png\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "museums-victoria-rcES3Cqw6z8-unsplash",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg\"},\"icon\":\"lucide-image\",\"title\":\"museums-victoria-rcES3Cqw6z8-unsplash\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":23},\"to\":{\"line\":13,\"ch\":23}},\"scroll\":53.064670138888886}"
+                },
+                {
+                  "title": "asche_sample_report",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"asche_sample_report\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
                   "title": "01 - Der Asche-Zorn von Black Creek",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Screenshot 2025-04-08 212723",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/Screenshot 2025-04-08 212723.png\"},\"icon\":\"lucide-image\",\"title\":\"Screenshot 2025-04-08 212723\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "lifeless_deathless_handout",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/lifeless_deathless_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"lifeless_deathless_handout\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ChatGPT Image 8. Apr. 2025, 21_25_14",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/ChatGPT Image 8. Apr. 2025, 21_25_14.png\"},\"icon\":\"lucide-image\",\"title\":\"ChatGPT Image 8. Apr. 2025, 21_25_14\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ChatGPT Image 8. Apr. 2025, 21_00_06",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/ChatGPT Image 8. Apr. 2025, 21_00_06.png\"},\"icon\":\"lucide-image\",\"title\":\"ChatGPT Image 8. Apr. 2025, 21_00_06\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "linger_handout",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - handouts/linger_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"linger_handout\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "killers_notes_handout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
-                  "title": "02 - Das Gewicht, das verweilt",
+                  "title": "Generated Image April 06, 2025 - 10_42PM",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Generated Image April 06, 2025 - 10_42PM.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"Generated Image April 06, 2025 - 10_42PM\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "blood_spilled_handout",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/blood_spilled_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"blood_spilled_handout\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "asche_sample_report",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"asche_sample_report\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "blood_spilled_handout",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/blood_spilled_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"blood_spilled_handout\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "killers_notes_handout",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":18.356770833333332}"
+                },
+                {
+                  "title": "killers_notes_handout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "symbol_scene.png",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/symbol_scene.png.png\"},\"icon\":\"lucide-image\",\"title\":\"symbol_scene.png\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "killers_notes_handout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "asche_sample_report",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"asche_sample_report\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session_Log_Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05_Session_Logs/Session_Log_Template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session_Log_Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Pine_County_Chronicle_Issue_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "killers_notes_handout",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "01 - Der Asche-Zorn von Black Creek",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
                 },
                 {
-                  "title": "02 - Das Gewicht, das verweilt",
+                  "title": "Clue_Flow_Act1_Description",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "02 - Das Gewicht, das verweilt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":32},\"to\":{\"line\":7,\"ch\":32}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":109,\"ch\":0},\"to\":{\"line\":109,\"ch\":0}},\"scroll\":80.74826388888889}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/Clue_Flow_Act1_Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Clue_Flow_Act1_Description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
+                "file": "03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "02 - Das Gewicht, das verweilt"
             }
-          },
-          {
-            "id": "dbae96110389e661",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Der Schattengefaltete Chor"
-            }
-          },
-          {
-            "id": "6d5664f3d6dee0fe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Module/Akt 2/Ort - Szenario - Die Withering Zone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ort - Szenario - Die Withering Zone"
-            }
-          },
-          {
-            "id": "eb6023d9bc131a0e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Defektes Mythos-Wesen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Defektes Mythos-Wesen.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Defektes Mythos-Wesen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":173},\"to\":{\"line\":39,\"ch\":173}},\"scroll\":5.671549479166667}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":112},\"to\":{\"line\":87,\"ch\":112}},\"scroll\":63.05555555555556}"
-                },
-                {
-                  "title": "Transformierte Kreaturen & Opfer",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Transformierte Kreaturen & Opfer.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Transformierte Kreaturen & Opfer\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":127},\"to\":{\"line\":36,\"ch\":127}},\"scroll\":9.766782407407408}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":72},\"to\":{\"line\":86,\"ch\":72}},\"scroll\":63.05555555555556}"
-                },
-                {
-                  "title": "Erwachte Schrecken",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Erwachte Schrecken.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Erwachte Schrecken\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":142},\"to\":{\"line\":36,\"ch\":142}},\"scroll\":5.430859375}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":43},\"to\":{\"line\":86,\"ch\":43}},\"scroll\":66.98148148148148}"
-                },
-                {
-                  "title": "Das große Ganze - Ghroths Passage und der verzweifelte Schild",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. DM Screen/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Ghroths Passage und der verzweifelte Schild\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":51},\"to\":{\"line\":10,\"ch\":51}},\"scroll\":0}"
-                },
-                {
-                  "title": "Widerstand-Hoffnung Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Widerstand-Hoffnung Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widerstand-Hoffnung Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":7}},\"scroll\":16.464767156862745}"
-                },
-                {
-                  "title": "Öffentliche Panik Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Öffentliche Panik Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Öffentliche Panik Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":7}}}"
-                },
-                {
-                  "title": "Kult Aktivität Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Kult Aktivität Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kult Aktivität Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Das Uhrensystem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Das Uhrensystem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das Uhrensystem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":165},\"to\":{\"line\":33,\"ch\":165}},\"scroll\":16.982708333333335}"
-                },
-                {
-                  "title": "Asche Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Asche Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Asche Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":283},\"to\":{\"line\":18,\"ch\":283}},\"scroll\":9.543198529411764}"
-                },
-                {
-                  "title": "Widerstand-Hoffnung Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Widerstand-Hoffnung Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widerstand-Hoffnung Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Kult Aktivität Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Kult Aktivität Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kult Aktivität Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":25},\"to\":{\"line\":16,\"ch\":25}}}"
-                },
-                {
-                  "title": "Öffentliche Panik Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Öffentliche Panik Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Öffentliche Panik Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":24},\"to\":{\"line\":10,\"ch\":24}},\"scroll\":0}"
-                },
-                {
-                  "title": "Widerstand-Hoffnung Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Widerstand-Hoffnung Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widerstand-Hoffnung Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Kult Aktivität Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Kult Aktivität Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Clock_Kult Aktivität Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":87},\"to\":{\"line\":27,\"ch\":87}},\"scroll\":0}"
-                },
-                {
-                  "title": "Asche Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Asche Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Asche Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":99},\"to\":{\"line\":27,\"ch\":99}},\"scroll\":0.05291130270461793}"
-                },
-                {
-                  "title": "Öffentliche Panik Uhr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Öffentliche Panik Uhr.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Clock_Öffentliche Panik Uhr\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Das Uhrensystem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. mechanics/Das Uhrensystem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das Uhrensystem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":18},\"to\":{\"line\":39,\"ch\":18}},\"scroll\":18.956041666666668}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Module/Akt 2/Ziel 1 - Quelle Verstehen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ziel 1 - Quelle Verstehen"
-            }
-          },
-          {
-            "id": "894ec6d03e18ffe9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ort - Szenario - Der Flüsternde Sender"
-            }
-          },
-          {
-            "id": "8f0a87ac7c74569c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Campaign_Overview",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Campaign_Info/Campaign_Overview.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign_Overview\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Campaign_Pitch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Campaign_Info/Campaign_Pitch.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign_Pitch\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":206},\"to\":{\"line\":8,\"ch\":206}},\"scroll\":0}"
-                },
-                {
-                  "title": "03 - Der Schattengefaltete Chor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":102},\"to\":{\"line\":16,\"ch\":102}},\"scroll\":3.4104817708333335}"
-                },
-                {
-                  "title": "02 - Das Gewicht, das verweilt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":222},\"to\":{\"line\":45,\"ch\":222}},\"scroll\":14.654296875}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":200},\"to\":{\"line\":50,\"ch\":200}},\"scroll\":20.36672794117647}"
-                },
-                {
-                  "title": "Ort - Szenario - Das sich windende Herz",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Das sich windende Herz\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":38},\"to\":{\"line\":0,\"ch\":38}},\"scroll\":18.027304292929294}"
-                },
-                {
-                  "title": "Ort - Szenario - Der Flüsternde Sender",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Der Flüsternde Sender\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":37},\"to\":{\"line\":0,\"ch\":37}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ort - Szenario - Die Withering Zone",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Die Withering Zone.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Die Withering Zone\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":34},\"to\":{\"line\":0,\"ch\":34}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ort - Szenario - Der Flüsternde Sender",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Der Flüsternde Sender\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":37},\"to\":{\"line\":0,\"ch\":37}}}"
-                },
-                {
-                  "title": "Ort - Szenario - Das sich windende Herz",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ort - Szenario - Das sich windende Herz\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":38},\"to\":{\"line\":0,\"ch\":38}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Campaign_Info/Campaign_Flow_Visualized.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Campaign_Flow_Visualized"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -649,48 +518,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f0a87ac7c74569c",
+  "active": "1295bf1151538865",
   "lastOpenFiles": [
-    "00_Campaign_Info/Campaign_Flow_Visualized.png",
-    "00_Campaign_Info/Campaign_Overview.md",
-    "00_Campaign_Info/Campaign_Pitch.md",
-    "README.md",
-    "1. Module/Akt 1/03 - Der Schattengefaltete Chor.md",
-    "1. Module/Akt 1/02 - Das Gewicht, das verweilt.md",
-    "1. Module/Akt 1/01 - Der Asche-Zorn von Black Creek.md",
-    "1. Module/Akt 2/Ort - Szenario - Das sich windende Herz.md",
-    "1. Module/Akt 2/Ort - Szenario - Der Flüsternde Sender.md",
-    "1. Module/Akt 2/Ort - Szenario - Die Withering Zone.md",
-    "1. Module/Akt 2/Ziel 1 - Quelle Verstehen.md",
-    "1. World/Defektes Mythos-Wesen.md",
-    "Ghroths Asche Kampagnenübersicht.md",
-    "1. World/Transformierte Kreaturen & Opfer.md",
-    "1. World/Erwachte Schrecken.md",
-    "0. DM Screen/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md",
-    "2. mechanics/Widerstand-Hoffnung Uhr.md",
-    "2. mechanics/Öffentliche Panik Uhr.md",
-    "2. mechanics/Kult Aktivität Uhr.md",
-    "2. mechanics/Das Uhrensystem.md",
-    "2. mechanics/Asche Uhr.md",
-    "Clock_Widerstand",
-    "Clock_Ghroth",
-    "Kampagnen-Pitch (Spielerversion).md",
-    "Kampagnen-Vorbereitung.md",
-    "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.webp",
-    "z_assets/1200x1200bf-60-2299071460.webp",
-    "z_assets/600x600-000000-80-0-0.webp",
-    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.webp",
-    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.webp",
-    "1. Module/Akt 3/10_11 - Weg und Bürde zum Finale.md",
-    "1. Die Spieler/Trauma & Narben Log.md",
-    "1. Module/Akt 3/08_09 - Wettlauf um die Komponente.md",
-    "z_assets/~200x1200bf-60-2299071460.tmp",
-    "z_assets/1200x1200bf-60-2299071460.jpg.~tmp",
-    "z_assets/1bfce399-cb13-4469-b140-a09170420ab2.jpg.~tmp",
-    "z_assets/6ae97ad4-a740-4c5e-a79d-99cb288b2f78.jpg.~tmp",
-    "z_assets/5948deae-051d-43e3-bfc5-f8cfbe4b58d7.jpg.~tmp",
-    "excalidraw/main.excalidraw",
-    "excalidraw/structure.excalidraw",
-    "excalidraw"
+    "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf",
+    "03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md",
+    "03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg",
+    "03_Mysteries/Act_1/01 - handouts/symbol_scene.png.png",
+    "03_Mysteries/Act_1/01 - handouts/foo.pdf",
+    "03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf",
+    "03_Mysteries/Act_1/01 - handouts/blood_spilled_handout.png",
+    "03_Mysteries/Act_1/01 - handouts/blood_spilled_carved_symbol.png",
+    "03_Mysteries/Act_1/01 - handouts/Generated Image April 06, 2025 - 10_42PM.jpeg",
+    "03_Mysteries/Act_1/01 - handouts/blood_spilled_scribbly_symbol.jpeg",
+    "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md",
+    "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.tex",
+    "03_Mysteries/Act_1/01 - handouts/killers_notes_handout.tex",
+    "03_Mysteries/Act_1/01 - handouts/clay-banks-FPcEsT0Sv8A-unsplash.jpg.~tmp",
+    "03_Mysteries/Act_1/01 - handouts/clay-banks-FPcEsT0Sv8A-unsplash.jpg",
+    "03_Mysteries/Act_1/01 - handouts/tom-hills-XhplcbXMxD0-unsplash.jpg.~tmp",
+    "03_Mysteries/Act_1/01 - handouts/tom-hills-XhplcbXMxD0-unsplash.jpg",
+    "03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md",
+    "03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md",
+    "03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md",
+    "03_Mysteries/Act_1/03 - handouts/Screenshot 2025-04-08 212723.png",
+    "03_Mysteries/Act_1/03 - handouts/lifeless_deathless_handout.png",
+    "03_Mysteries/Act_1/03 - handouts/ChatGPT Image 8. Apr. 2025, 21_00_06.png.~tmp",
+    "05_Session_Logs/Session_Log_Template.md",
+    "03_Mysteries/Act_1/01 - handouts/asche_sample_report.tex",
+    "03_Mysteries/Act_1/01 - handouts/asche_sample_description_handout.md",
+    "03_Mysteries/Act_1/01 - handouts/faded_photograph_handout.md",
+    "03_Mysteries/Act_1/01 - handouts/symbol_object_handout.md",
+    "03_Mysteries/Act_1/01 - handouts/Generated Image April 06, 2025 - 10_42PM.jpeg.~tmp",
+    "03_Mysteries/Act_1/01 - handouts/Ashfall_Gazette_Issue_1.md",
+    "03_Mysteries/Act_2/06 - Das sich windende Herz.md",
+    "03_Mysteries/Act_2/05 - Der Flüsternde Sender.md",
+    "03_Mysteries/Act_2/04 - Die Withering Zone.md",
+    "03_Mysteries/Act_1/Clue_Flow_Act1_Description.md",
+    "03_Mysteries/Act_1/Untitled.canvas",
+    "02_Investigators/Trauma_&_Narben_Log.md",
+    "02_Investigators/Spielercharaktere Übersicht.md",
+    "01_Setting/Mythos_Elements/Transformierte Kreaturen & Opfer.md",
+    "00_Campaign_Info/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md",
+    "99_Assets/Templates/Mystery_Template.md",
+    "03_Mysteries/Act_3/Clue_Flow_Act3_Description.md",
+    "03_Mysteries/Act_2/Clue_Flow_Act2_Description.md",
+    "00_Campaign_Info/Kampagnen-Handouts.md",
+    "04_Mechanics/Houserules & Spielmechaniken.md",
+    "01_Setting/Factions/Asche-Chor Zelle (Früh).md",
+    "01_Setting/Key_NPCs/Sheriff Brody.md"
   ]
 }

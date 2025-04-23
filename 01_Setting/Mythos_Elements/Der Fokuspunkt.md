@@ -13,7 +13,7 @@ tags: #Location #KeyElement #RitualSite #Nexus #PowerSpot
     *   *Beispiel:* Eine Kreuzung starker Ley-Linien, ein Ort mit ungewöhnlichen magnetischen oder geologischen Eigenschaften (seltene Mineralien, Höhlensystem mit Resonanz).
     *   *Hinweise:* Messbare energetische Anomalien ([[Ziel 2 - Manifestation Verstehen]]), alte Karten, Folklore über "Orte der Kraft".
 2.  **Ort mit dünner Realität / Dimensionsriss:**
-    *   *Beispiel:* Ein Ort, an dem die Grenzen zwischen den Dimensionen von Natur aus schwach sind (wie in [[06 - Die Adern des Wahnsinns]] entdeckt), ein alter Meteoritenkrater, ein Ort früherer Mythos-Ereignisse.
+    *   *Beispiel:* Ein Ort, an dem die Grenzen zwischen den Dimensionen von Natur aus schwach sind (wie in [[05 - Das sich windende Herz]] entdeckt), ein alter Meteoritenkrater, ein Ort früherer Mythos-Ereignisse.
     *   *Hinweise:* Nicht-euklidische Phänomene, Zeitverzerrungen, Berichte über seltsame Erscheinungen, hohe Mythos-Aktivität.
 3.  **Uralte Ritualstätte:**
     *   *Beispiel:* Ein prähistorischer Steinkreis, die Ruinen eines Tempels einer vergessenen Zivilisation, ein Ort, der bereits für ähnliche (oder gegenteilige!) Rituale genutzt wurde.
@@ -36,4 +36,4 @@ tags: #Location #KeyElement #RitualSite #Nexus #PowerSpot
 *   Der Ort selbst kann gefährlich sein (instabiles Gelände, Wetterphänomene, psychische Echos).
 *   Während des Rituals ([[12 - Träger der Asche]]) wird der Ort extrem instabil und gefährlich.
 
-**Verknüpfungen:** [[Das Abschirmungsritual]], [[Die Komponente]], [[Wissen]], [[Ziel 2 - Manifestation Verstehen]], [[Checkpoint: Muster erkannt / Fokuspunkt lokalisiert]], [[10_11 - Weg und Bürde zum Finale]], [[12 - Träger der Asche]]
+**Verknüpfungen:** [[Das Abschirmungsritual]], [[Die Komponente]], [[Wissen]], [[Ziel 2 - Manifestation Verstehen]], [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]], [[10 - Passage]], [[11 - Burden]], [[12 - Träger der Asche]]

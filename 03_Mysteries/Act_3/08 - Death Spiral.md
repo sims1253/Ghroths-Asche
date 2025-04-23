@@ -6,6 +6,54 @@ aliases: [Death Spiral, Überlebenskampf]
 
 # Investigation: Death Spiral
 
+> [!info]- Lyrics: Death Spiral
+> Sick at heart, tear them apart
+> Let them endure the pain
+> Discard all that remains
+> Delve deep
+> Fully explore our design
+> Carefully crafted our own self-torture
+>
+> Forget unity, it's you against me
+> We will turn on each other
+> The strongest survive
+> I'll take you all with me (With me)
+> You will all be consumed
+> Life force sucked out
+>
+> You will know the truth
+> Before you die (Before you die)
+> Your body denied the rituals of burial
+>
+> We were chosen to witness
+> Rejoice
+>
+> We were chosen to witness
+> Rejoice, to be present at this hour
+> Let them endure the pain (Endure the pain)
+> We were chosen to witness
+> Rejoice, this is exactly what we are
+> Our death spiral
+> It's you against me
+> Our death spiral
+> It's you against me
+> Our death spiral
+> It's you against me
+>
+> You will know the truth
+> Before you die
+> Your body denied the rituals of burial
+>
+> I'll take you all with me
+> You will all be consumed
+> I'll take you all with me
+> Life force sucked out
+> I'll take you all with me
+> You will all be consumed
+> I'll take you all with me
+> Life force sucked out
+> Our death spiral
+
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 
@@ -39,12 +87,12 @@ aliases: [Death Spiral, Überlebenskampf]
 *Wichtige Orte, die die Ermittler besuchen könnten. Verlinke zu Hauptnotizen der Orte und füge untersuchungsspezifische Details hinzu.*
 
 *   **[[Ruinen der Stadt/Region]]**:
-    *   **Atmosphäre & Beschreibung:** Gefährlich, instabil, geplündert. Versteckte Vorräte, aber auch Gefahren (Einsturz, Asche-Zonen, Banden).
-    *   **Schlüsselinformationen/Hinweise:** Versteckte Ressourcen (Nahrung, Medizin, Treibstoff, Teile für Ausrüstung), Informationen (Notizen, letzte Funksprüche), Spuren von anderen Fraktionen.
+    *   **Atmosphäre & Beschreibung:** Gefährlich, instabil, geplündert. Versteckte Vorräte, aber auch Gefahren (Einsturz, Asche-Zonen, Banden). An Orten von Kämpfen, auf improvisierten Gräbern oder als Warnung könnte das **Symbol der Todesspirale** (**Symbol: Todesspirale** - siehe [[Ritual-Symbole Leitfaden]]) eingeritzt sein, als Zeichen für den Preis des Überlebens oder erbrachte Opfer.
+    *   **Schlüsselinformationen/Hinweise:** Versteckte Ressourcen (Nahrung, Medizin, Treibstoff, Teile für Ausrüstung), Informationen (Notizen, letzte Funksprüche), Spuren von anderen Fraktionen, Präsenz des Symbols.
     *   **Mögliche Begegnungen/Gefahren:** Umweltgefahren, Fallen, Banden, Kultisten, [[Transformierte Kreaturen & Opfer]].
 *   **[[Provisorische Siedlungen]]**:
-    *   **Atmosphäre & Beschreibung:** Unterschiedlich – von verzweifelt-kooperativ bis paranoid-feindselig. Überfüllt, Ressourcenmangel.
-    *   **Schlüsselinformationen/Hinweise:** Gerüchte, Tauschhandel (Informationen gegen Ressourcen), potenzielle (unzuverlässige) Verbündete, Hinweise auf Banden/Kult-Aktivitäten.
+    *   **Atmosphäre & Beschreibung:** Unterschiedlich – von verzweifelt-kooperativ bis paranoid-feindselig. Überfüllt, Ressourcenmangel. Das **Symbol der Todesspirale** (**Symbol: Todesspirale**) könnte hier als düsteres Omen oder als Zeichen einer Gruppe auftauchen, die bereit ist, alles für ihr Überleben zu opfern.
+    *   **Schlüsselinformationen/Hinweise:** Gerüchte, Tauschhandel (Informationen gegen Ressourcen), potenzielle (unzuverlässige) Verbündete, Hinweise auf Banden/Kult-Aktivitäten, Bedeutung des Symbols im lokalen Kontext.
     *   **Mögliche Begegnungen/Gefahren:** Misstrauen, Gewalt, Krankheiten, Kult-Infiltration, Überfälle durch Banden.
 *   **[[Versteckte Basen des Asche-Chores]]**:
     *   **Atmosphäre & Beschreibung:** Oft gut verteidigt, unheimlich. Könnten Ressourcen horten.
@@ -102,6 +150,11 @@ aliases: [Death Spiral, Überlebenskampf]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Glück, Library Use, Okkultismus, Interview.
     *   **Enthüllte Information:** Kleine Puzzleteile für A09, A10, A11 können hier auftauchen.
     *   **Mögliche SAN-Kosten:** Variabel.
+*   **Hinweis 5:** Das Symbol der Todesspirale
+    *   **Ort/Quelle:** [[Ruinen der Stadt/Region]] (an Orten des Konflikts/Opfers), [[Provisorische Siedlungen]] (als Zeichen/Warnung), evtl. in Kult-Propaganda oder Widerstands-Warnungen.
+    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus, Streetwise/Straßenkenntnis, Psychologie.
+    *   **Enthüllte Information:** Das **Symbol der Todesspirale** (**Symbol: Todesspirale**) repräsentiert den gesellschaftlichen Abwärtstrend, den brutalen Überlebenskampf und vor allem das Thema Opfer – sowohl das Opfer, das die Situation fordert, als auch das spezifische, große Opfer, das für das [[Das Abschirmungsritual]] notwendig sein könnte.
+    *   **Mögliche SAN-Kosten:** 0/1 SAN für die Erkenntnis der Verbindung zwischen Symbol und dem notwendigen (oder bereits gebrachten) Opfer.
 *
 *   **Clue Flowchart:** Weniger relevant, Fokus auf Überleben und Ressourcenmanagement.
 *

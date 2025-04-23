@@ -6,6 +6,48 @@ aliases: [Passage, Der Weg]
 
 # Investigation: Passage
 
+> [!info]- Lyrics: Passage
+> Cut out the tongue
+> Communicate with divinity
+> Eyes roll back
+> Witness eternity (Witness eternity)
+> Covered faces speaking in tongues
+> Silent voices speaking in tongues
+> Silent voices, prostrate bodies, heads hung
+> A passage between has been created
+>
+> A passage between has been created
+>
+> Sanding in silence
+> Awaiting its presence
+> A passage between
+> Has been created
+> Clawing at walls of flesh
+> Urgе to pass through
+> It's all connected
+> This plane and thе other (And the other)
+>
+> It's all connected
+>
+> Silent voices
+> Uttering words beyond language
+> Knowing what only whispers convey
+> Standing in silence
+> Awaiting its presence
+> Blood earns their keep
+> Cut out the tongue
+> Communicate with divinity
+> Our eyes roll back (Roll back)
+> Witness eternity (Eternity)
+> Eternity
+>
+> Witnessing eternity
+>
+> Cut out the tongue
+> Communicate with divinity
+> Eyes roll back (Roll back)
+> Witness eternity
+
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 
@@ -39,8 +81,8 @@ aliases: [Passage, Der Weg]
 *Wichtige Orte, die die Ermittler besuchen könnten. Verlinke zu Hauptnotizen der Orte und füge untersuchungsspezifische Details hinzu.*
 
 *   **[[Der Weg zum Fokuspunkt]]**:
-    *   **Atmosphäre & Beschreibung:** Eine Abfolge gefährlicher und surrealer Umgebungen: [[Verseuchte Ruinen]], [[Asche-Wüsten]], [[Realitätsrisse]], psychisch aufgeladene Zonen, evtl. sogar [[Die Zwischendimension]] / [[Traumebene der Asche]]. Die genaue Route hängt von Spielerentscheidungen und früheren Hinweisen ab.
-    *   **Schlüsselinformationen/Hinweise:** Navigation, Überlebenstechniken, Spuren anderer (Kult, Widerstand, Opfer), Verständnis für die veränderte Welt.
+    *   **Atmosphäre & Beschreibung:** Eine Abfolge gefährlicher und surrealer Umgebungen: [[Verseuchte Ruinen]], [[Asche-Wüsten]], [[Realitätsrisse]], psychisch aufgeladene Zonen, evtl. sogar [[Die Zwischendimension]] / [[Traumebene der Asche]]. Die genaue Route hängt von Spielerentscheidungen und früheren Hinweisen ab. Selten könnten Markierungen des **Symbols des Übergangs** (**Symbol: Übergang** - siehe [[Ritual-Symbole Leitfaden]]) auftauchen, die auf sicherere Pfade oder temporäre Schutzzonen hindeuten (vielleicht vom Widerstand hinterlassen?).
+    *   **Schlüsselinformationen/Hinweise:** Navigation, Überlebenstechniken, Spuren anderer (Kult, Widerstand, Opfer), Verständnis für die veränderte Welt, mögliche Bedeutung des Symbols für die Reise.
     *   **Mögliche Begegnungen/Gefahren:** Umweltgefahren, Mangel, [[Wächter der Passage]], Kult-Verfolger, psychische Angriffe, surreale Ereignisse.
 *   **(Optional) [[Zwischenstopps]]**:
     *   **Atmosphäre & Beschreibung:** Seltene Orte relativer Sicherheit oder spezifischer Gefahr (z.B. eine halbwegs intakte Siedlung, eine Kultisten-Falle, ein Ort mit Ressourcen).
@@ -52,7 +94,7 @@ aliases: [Passage, Der Weg]
 
 *   **[[Wächter der Passage]]**:
     *   **Rolle in der Untersuchung:** Hindernisse auf dem Weg zum Fokuspunkt. Können Kreaturen, Phänomene oder psychische Barrieren sein.
-    *   **Schlüsselwissen/Geheimnisse:** Verkörpern oft den "Preis der Passage" – ihre Überwindung erfordert Opfer oder spezielle Taktiken.
+    *   **Schlüsselwissen/Geheimnisse:** Verkörpern oft den "Preis der Passage" – ihre Überwindung erfordert Opfer oder spezielle Taktiken. Einige Wächter könnten durch das **Symbol des Übergangs** (**Symbol: Übergang**) besänftigt, umgangen oder geschwächt werden, wenn die Spieler dessen Bedeutung verstehen.
     *   **Auftreten & Ziele:** Angepasst an die Route und den Uhrenstand. Ziel ist es, Unwürdige aufzuhalten.
     *   **Mögliche Auswirkungen auf geistige Stabilität:** Konfrontation mit bizarren/mächtigen Wächtern (1/1d6+ SAN).
 *   **Echos/Geister von Opfern/Ritualisten**:
@@ -84,6 +126,11 @@ aliases: [Passage, Der Weg]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Empathie, Psychologie, Willenskraft.
     *   **Enthüllte Information:** Erkenntnis, dass die Reise Opfer erfordert (Ressourcen, Erinnerungen, Moral, SAN/HP). -> [[Trauma & Narben Log]].
     *   **Mögliche SAN-Kosten:** Variabel, je nach Opfer (1/1d4+ SAN).
+*   **Hinweis 4:** Das Symbol des Übergangs
+    *   **Ort/Quelle:** Seltene Markierungen auf [[Der Weg zum Fokuspunkt]], evtl. in Widerstands-Aufzeichnungen (A11?) oder als Schlüssel zur Überwindung eines [[Wächter der Passage]].
+    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus, Navigation.
+    *   **Enthüllte Information:** Das **Symbol des Übergangs** (**Symbol: Übergang**) repräsentiert **Ghroths Aspekt des Durchbruchs der Realitäten** – die gefährlichen Risse und Verbindungen zwischen den Ebenen ("A passage between has been created"). Es markiert Zonen erhöhter Instabilität oder potenzieller Warptore. (Die konternde Bedeutung – die Nutzung des Symbols für einen kontrollierten Übergang oder Abschirmung im Ritual – wird erst später klar).
+    *   **Mögliche SAN-Kosten:** 0/1 SAN für die Erkenntnis der Verbindung zwischen Symbol und Realitätsbrüchen.
 *
 *   **Clue Flowchart:** Weniger relevant, Fokus auf Navigation und Überwindung von Hindernissen.
 *

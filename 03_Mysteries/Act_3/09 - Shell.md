@@ -6,6 +6,52 @@ aliases: [Shell, Die Hülle, Die Komponente]
 
 # Investigation: Shell
 
+> [!info]- Lyrics: Shell
+> You're a shell
+> Inside of you, nothingness (Nothingness)
+> You can't tell
+> This insatiable hunger
+> You can't quell
+>
+> Always yearning (Always yearning)
+> A constant need to fulfill (To fulfill)
+> Hollow and empty
+> A spirit, famished
+> But an unappeasable appetite (Appetite)
+> Always yearning
+> Hollow and empty
+>
+> Atop your pile, sitting
+> Pedestal of rapacity
+> Remnants of your devouring
+> Monument of depravity (Depravity)
+> Always yearning
+> Hollow and empty
+>
+> Leech, unable to exist (To exist)
+> Independently off the life upon which you feed
+>
+> You're a shell
+> Inside of you, nothingness
+> You can't tell
+> This insatiable hunger
+> You can't quell
+> You're a shell
+> Inside of you, nothingness (Nothingness)
+> You can't tell
+> This insatiable hunger
+> You can't quell
+> Behold the consumed, consuming
+> A slow death (A slow death)
+> Through starvation (Starvation)
+> You're a shell
+>
+> You're a shell
+> Inside of you, nothingness (Nothingness)
+> You can't tell
+> This insatiable hunger (Hunger)
+> You can't quell
+
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 
@@ -42,8 +88,8 @@ aliases: [Shell, Die Hülle, Die Komponente]
     *   **Schlüsselinformationen/Hinweise:** Spuren des Kults oder anderer Sucher.
     *   **Mögliche Begegnungen/Gefahren:** Wie in A08/A10.
 *   **[[Ort der Komponente]]** (Uralte Ruine, Labor, Massaker-Ort, etc.):
-    *   **Atmosphäre & Beschreibung:** Unheimlich, aufgeladen, Gefühl von Leere oder Gier. Spezifische Gefahren je nach Ort (instabil, verflucht, bewacht). Stark thematisch mit "Shell" verbunden.
-    *   **Schlüsselinformationen/Hinweise:** [[Die Komponente]] selbst. Hinweise auf ihre Natur, Funktion und den Preis/Wächter. Spuren früherer Versuche, sie zu bergen.
+    *   **Atmosphäre & Beschreibung:** Unheimlich, aufgeladen, Gefühl von Leere oder Gier. Spezifische Gefahren je nach Ort (instabil, verflucht, bewacht). Stark thematisch mit "Shell" verbunden. Das **Symbol der Hülle** (**Symbol: Hülle** - siehe [[Ritual-Symbole Leitfaden]]) ist hier prominent, vielleicht auf der Komponente selbst, auf ihrem Behälter oder als Schutzsiegel am Ort.
+    *   **Schlüsselinformationen/Hinweise:** [[Die Komponente]] selbst. Hinweise auf ihre Natur, Funktion und den Preis/Wächter. Spuren früherer Versuche, sie zu bergen. Die Bedeutung des Symbols im Kontext der Komponente.
     *   **Mögliche Begegnungen/Gefahren:** [[Die Shell Entität]], Kultisten, Fallen, psychische Angriffe, moralische Prüfungen.
 *   **(Optional) [[Versteck des Wächters]]**:
     *   **Atmosphäre & Beschreibung:** Ort, an dem sich [[Die Shell Entität]] aufhält oder manifestiert.
@@ -55,7 +101,7 @@ aliases: [Shell, Die Hülle, Die Komponente]
 
 *   **[[Die Shell Entität]]**:
     *   **Rolle in der Untersuchung:** Hauptantagonist/Hindernis bei der Bergung der Komponente. Verkörpert das "Shell"-Thema.
-    *   **Schlüsselwissen/Geheimnisse:** Kennt die Natur der Komponente und den Preis. Ist vielleicht selbst Teil des Preises.
+    *   **Schlüsselwissen/Geheimnisse:** Kennt die Natur der Komponente und den Preis. Ist vielleicht selbst Teil des Preises. Könnte das **Symbol der Hülle** (**Symbol: Hülle**) als Teil seiner Form oder als Fokus seiner Macht tragen.
     *   **Auftreten & Ziele:** Kann physisch, psychisch oder konzeptuell sein. Ziel ist es, die Komponente zu schützen oder den Preis einzufordern. Kann gierig, leer, verführerisch oder monströs sein.
     *   **Mögliche Auswirkungen auf geistige Stabilität:** Konfrontation mit Leere/Gier, moralische Zwickmühle (1d6/1d10 SAN).
 *   **[[Der Asche-Chor]] Kultisten**:
@@ -92,6 +138,11 @@ aliases: [Shell, Die Hülle, Die Komponente]
     *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Interview, Library Use.
     *   **Enthüllte Information:** Warum der Kult die Komponente will und was er damit vorhat. -> Taktisches Wissen.
     *   **Mögliche SAN-Kosten:** 0/1 SAN.
+*   **Hinweis 5:** Das Symbol der Hülle
+    *   **Ort/Quelle:** [[Ort der Komponente]] (auf der Komponente/Behälter/Siegel), getragen/genutzt von [[Die Shell Entität]], evtl. in Widerstands-Aufzeichnungen über die Komponente.
+    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus, Archäologie.
+    *   **Enthüllte Information:** Das **Symbol der Hülle** (**Symbol: Hülle**) ist direkt mit [[Die Komponente]] verbunden. Es repräsentiert **Ghroths Aspekt der Leere und Gier** ("You're a shell", "insatiable hunger"), die oft mit der Komponente oder ihrem Wächter einhergeht. Es symbolisiert die Gefahr, von dieser Leere verzehrt zu werden oder einen unstillbaren Preis zahlen zu müssen. (Die konternde Bedeutung – die Komponente als notwendiges, kontrolliertes Gefäß/Schutz für das Ritual – wird erst später klar).
+    *   **Mögliche SAN-Kosten:** 0/1 SAN für die Erkenntnis der Verbindung zwischen Symbol, Komponente und dem Konzept der Leere/Gier.
 *
 *   **Clue Flowchart:** Relevant für die Schritte zur Komponente und das Verständnis ihres Preises.
 *

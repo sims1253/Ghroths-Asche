@@ -22,7 +22,7 @@ Dies ist eine Sammelbezeichnung für verschiedene **bereits existierende Mythos-
     *   **Dimensionsschlurfer (Shambler):** Angezogen von Ritualen oder Realitätsbrüchen.
     *   **Byakhee:** Können als Boten oder Reittiere für Kultisten dienen oder durch Risse kommen.
     *   **Formlose Auswüchse (Spawn of Formless):** Manifestieren sich in dunklen, feuchten Orten.
-    *   **Hunde von Tindalos (Hounds of Tindalos):** Jagen jene, die durch die Zeit oder Winkel reisen (relevant für [[06 - Die Adern des Wahnsinns]] oder [[10_11 - Weg und Bürde zum Finale]]).
+    *   **Hunde von Tindalos (Hounds of Tindalos):** Jagen jene, die durch die Zeit oder Winkel reisen (relevant für [[05 - Das sich windende Herz]] oder [[10 - Passage]]).
 *   **Katastrophe & Späte Phase (Mächtig & Offen):**
     *   **Sternengezücht von Cthulhu (Star Spawn):** Gigantisch, zerstörerisch, erscheinen während der Katastrophe.
     *   **Fliegende Polypen:** Unsichtbar, windbasiert, extrem gefährlich und fremdartig.
