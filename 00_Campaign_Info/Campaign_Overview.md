@@ -1,115 +1,123 @@
 # Ghroths Asche Kampagnenübersicht
 
-> Eine Call of Cthulhu 7e Kampagne, inspiriert vom Album [**Ashen**](https://humanityslastbreathofficial.bandcamp.com/album/ashen) von Humanity's Last Breath. Die Kampagne folgt dem langsamen, unaufhaltsamen Einsickern einer kosmischen Dissonanz - der "Asche" - in die Realität, ausgelöst durch die Annäherung von [[Ghroth]]. Es ist eine Geschichte über Verfall, psychologischen Horror und den verzweifelten Versuch, dem Unvermeidlichen etwas entgegenzusetzen, wobei **Spieleraktionen und das unaufhaltsame Ticken kosmischer Uhren** den Ausgang maßgeblich prägen.
+> Eine Call of Cthulhu 7e Kampagne, inspiriert vom Album **Ashen** und der Single **Anthracite** von Humanity's Last Breath. Diese Kampagne erforscht **"Die Asche"** – keine primär externe Seuche, sondern die schreckliche Manifestation eines latenten, dunklen Potenzials in der menschlichen Psyche selbst: Abgründe aus Verzweiflung, Wut, Apathie, dem Drang zur Selbstzerstörung und einem verstörenden Streben nach Transzendenz jenseits der Grenzen des Fleisches. Dieses Potenzial wird möglicherweise durch die ferne, kosmische Dissonanz von [[Ghroth]]s Passage katalysiert oder verstärkt, doch der Kern des Horrors und die Quelle der Veränderung liegt **im Inneren**. Es ist eine Geschichte über den schmalen Grat zwischen menschlichem Leid und monströser Transformation, das Zerbröckeln der Realität unter psychischem Druck und die Konfrontation mit Fraktionen, die gegensätzliche, extreme Wege im Umgang mit dieser inneren Apokalypse verfolgen. Die Spieler müssen nicht nur eine feindselige Welt navigieren, sondern auch ihre eigene Anfälligkeit und die dunklen Abgründe der menschlichen Natur erkennen.
 
-**Status:** Kampagnen-Vorbereitung
-**Aktuelles Datum im Spiel:** 
-**Nächste Session:** 
+**Status:** Kampagnenkonzeption (Neuaufbau)
+**Zielsystem:** Call of Cthulhu 7e (mit Modifikationen)
+**Intensität:** Hoch (Vergleichbar mit intensiven Delta Green Szenarien), psychologisch fordernd. **Safety Tools sind integraler Bestandteil.**
 
 ---
 
 ## Kernkonzept & Atmosphäre
 
-*   **Ton:** Düster, erdrückend, dissonant. Schwerpunkt auf kosmischem Horror, Body Horror, psychologischem Verfall und einer Atmosphäre der Hoffnungslosigkeit, die durch Momente bedeutsamen Widerstands und die Entscheidungen der Charaktere durchbrochen wird. **Die tickenden Uhren erzeugen zusätzliche Spannung und Dringlichkeit.** Wiederkehrende, verstörende **Symbole** (inspiriert von HLB) repräsentieren die verschiedenen Aspekte von Ghroths Einfluss.
-*   **Inspiration:** [**Humanity's Last Breath - Ashen**](https://humanityslastbreathofficial.bandcamp.com/album/ashen) (Album & Symbolik)
-*   **Pitch (Non-Spoiler):** [[Kampagnen-Pitch (Spielerversion)]]
-*   **Das große Ganze (Keeper-Wissen):** [[Das große Ganze - Ghroths Passage und der verzweifelte Schild]]
+*   **Ton:** Gegründeter psychologischer Horror, existenzieller Schrecken, Body Horror (als Manifestation psychischer Zustände), moralische Ambiguität. Eine Atmosphäre ständigen Drucks, der Paranoia, des Misstrauens (auch sich selbst gegenüber) und der Zerbrechlichkeit von Identität und Zivilisation. Inspiriert von der Schwere von HLB und der verstörenden Nähe von Regisseuren wie von Trier.
+*   **Inspiration:** [**Humanity's Last Breath - Ashen & Anthracite**](...) (Themen, Atmosphäre, Symbolik)
+*   **Pitch (Non-Spoiler - Revidiert):** [[Campaign_Pitch (Revision 2)]] (Fokus: Untersuchung bizarrer Ausbrüche von Gewalt, Apathie und körperlicher Veränderung, die scheinbar von innen kommen. Entdeckung von Fraktionen mit radikalen Philosophien über die Zukunft der Menschheit. Treffen von Entscheidungen, die das Schicksal – und die Definition – der Menschheit prägen.)
+*   **Das große Ganze (Keeper-Wissen - Revidiert):** [[Das große Ganze - Die Innere Apokalypse (Revision 2)]] (Detailliert Asche als inneres Potenzial, Ghroth als Katalysator, neue Fraktionsziele, Rolle der Symbole, Natur des Finales.)
 
 ---
 
 ## Leitende Prinzipien (GM Philosophie)
 
-*   [[Der Bogen ist ein Leitfaden, kein Käfig]] - Flexibilität bei Spielerwegen.
-*   [[Atmosphäre über Plot-Treue]] - Das Gefühl von "Ashen" transportieren.
-*   [[Hoffnung ist zerbrechlich, nicht inexistent]] - Raum für kleine Siege schaffen.
-*   [[Charaktere im Zentrum]] - Backstories, Bonds, Input und Trauma aktiv nutzen.
-*   [[Drei-Clue-Regel für kritische Informationen]] - Robuste Informationsfindung ermöglichen.
-*   **[[Uhren als Motor für Eskalation & Konsequenz]]** - Dynamische Entwicklung der Bedrohung.
-*   **[[Spieler-Input aktiv einholen (PbtA-Stil)]]** - Zwischen Sessions gezielt Fragen stellen, um Details zu Orten, NPCs oder Gerüchten basierend auf Spieleraktionen/-interessen zu konkretisieren und ihre Ideen zu integrieren (z.B. "Ihr habt gehört, dass der alte Leuchtturm unheimlich ist. Was genau erzählen sich die Leute darüber?").
+*   [[Der Bogen ist ein Leitfaden, kein Käfig]]: Die Spieler *durchleben* die 12 thematischen Abenteuer, aber ihre Aktionen, Entscheidungen und ihr Erfolg/Scheitern beeinflussen maßgeblich *wie* diese Abenteuer verlaufen, welche Konsequenzen entstehen und wie die Welt durch die [[Uhrensystem (Revision 2)|Uhren]] reagiert.
+*   [[Atmosphäre über Plot-Treue]]: Das Gefühl von *Ashen*'s Druck und *Anthracite*'s kalter Transzendenz transportieren. Priorität auf psychologischem Horror und existenzieller Angst.
+*   [[Horror im Realismus verankern]]: Psychologische Zustände (SAN-Verlust, Wahnsinn), menschliche Reaktionen (Panik, Gewalt, Apathie) und körperliche Veränderungen (Transformationen) glaubhaft, nachvollziehbar (wenn auch extrem) und verstörend darstellen.
+*   [[Charaktere im Zentrum]]: Ihre Backstories, Traumata ([[Trauma & Narben Log]]), Beziehungen ([[Charakter-Bande]]) und ihre *eigene* Anfälligkeit für die Asche sind entscheidend. Ihre Entscheidungen *formen* den Kampagnenverlauf innerhalb der Struktur.
+*   [[Drei-Clue-Regel für kritische Informationen]]: Stellt sicher, dass Spieler notwendige Informationen zum Verständnis der Asche, der Fraktionen und der Symbole erhalten, auch wenn sie einzelne Spuren verpassen.
+*   **[[Uhren als Motor für Eskalation & Konsequenz (Revidiert)]]**: Uhren verfolgen die *Manifestation* der Asche und die *Aktivitäten* der Fraktionen. Sie lösen keine Abenteuer aus oder überspringen sie, sondern **modifizieren massiv den Kontext, die Schwierigkeit und die Ereignisse** innerhalb der *vorgegebenen* 12 Abenteuer und der Übergänge.
+*   **[[Spieler-Input aktiv einholen (PbtA-Stil)]]**: Zwischen Sessions gezielt Fragen stellen, um ihre Wahrnehmung der Asche, ihre Theorien und Ängste in die Welt zu integrieren.
+*   **[[Sicherheit & Intensität]]**: Hohe Intensität wird angestrebt, aber **Safety Tools** (z.B. Lines/Veils vorab, X-Card/Script Change währenddessen) sind **obligatorisch** und werden aktiv genutzt. **Phase 1 beinhaltet eine explizite Einführung und Übung der verwendeten Safety Tools.**
 
 ---
 
-## Kampagnenstruktur & Abenteuer
+## Kampagnenstruktur & Abenteuer (Revision 2)
 
-Die Kampagne nutzt **Uhren**, um den Fortschritt von Bedrohungen und die Konsequenzen von Spieleraktionen dynamisch zu gestalten.
+Die Kampagne durchläuft 12 thematisch vorgegebene Abenteuer, deren Reihenfolge in Phasen gruppiert ist. Die Uhren modifizieren den Zustand der Welt und die spezifischen Herausforderungen innerhalb dieser Abenteuer.
 
-**Phase 1: Linearer Intro (Abenteuer 1-3)**
-*Fokus: Das *Was*. Einführung der [[Die Asche]], erster Kultkontakt. **Die Uhren werden am Ende dieser Phase aktiviert.**
-*   [[01 - Der Asche-Zorn von Black Creek]]
-*   [[02 - Das Gewicht, das verweilt]]
-*   [[03 - Der Schattengefaltete Chor]] --> Startet [[Das Uhrensystem]]
+**Phase 1: Symptome & Konfrontation (Abenteuer 1-3)**
+*Fokus: Das *Was*. Konfrontation mit den verstörenden Symptomen der inneren Asche (Gewalt, Apathie, Transformation). Spieler lernen die Welt und die grundlegende Bedrohung kennen. **Explizite Einführung und Übung der Safety Tools in einem dieser Abenteuer.** Das Uhrensystem wird am Ende vorbereitet/aktiviert.*
+*   [[01 - Der Asche-Zorn von Black Creek]] (Thema: Gewalt als Ventil, **Symbol: Blutvergießen**) - *Enthält Szene zum Üben von Safety Tools.*
+*   [[02 - Das Gewicht, das verweilt]] (Thema: Psychische Last, Apathie, Realitätszweifel, **Symbol: Nachhallen**)
+*   [[03 - Der Schattengefaltete Chor]] (Thema: Transformation als Flucht/Verlust, erste organisierte "Chor"-Gedanken, **Symbol: Leblos/Unsterblich**) --> **Aktiviert [[Das Uhrensystem (Revision 2)]]** basierend auf Spielergebnissen.
 
-**Phase 2: Offene Investigation (Kern-Szenarien)**
-*Fokus: Das *Wie*. Nach Aktivierung der [[Uhrensystem|Uhren]] können Spieler Hinweisen nachgehen, die zu verschiedenen Kern-Szenarien führen. Die Reihenfolge ist flexibel. **Aktionen und Zeit beeinflussen die Uhren, und die Uhren beeinflussen die Szenarien.** Ziel ist das Sammeln von Hinweisen auf [[Ghroth]] (Quelle), [[Der Fokuspunkt]] (Manifestation), [[Das Abschirmungsritual]] (Lösung) und den [[Der Asche-Chor]] (Kult). **Ein zentrales Element ist das Finden und Verstehen der 11 [[Ritual-Symbole Leitfaden|Ritual-Symbole]], die verschiedene Aspekte von Ghroths Einfluss repräsentieren und für das finale Ritual entschlüsselt werden müssen.** Zwischen den Szenarien kehren die Spieler zu ihrem "Hub" zurück (narrativer Zustand/sicherer Ort) um zu planen und sich zu erholen.*
-*   **Kern-Szenario 1:** [[04 - Die Withering Zone]] (Fokus: Manifestation Verstehen - Verfall & Lösung Finden - Widerstand, Schutz) - Enthält Symbol: Welken
-*   **Kern-Szenario 2:** [[05 - Der Flüsternde Sender]] (Fokus: Quelle Verstehen - Signal, Ghroth-Daten) - Enthält Symbol: Einflößen
-*   **Kern-Szenario 3:** [[06 - Das sich windende Herz]] (Fokus: Manifestation Verstehen - Fokuspunkt-Ort, Raumverzerrung) - Enthält Symbol: Labyrinth
-*   **Kern-Szenario 3:** [[06 - Die Withering Zone]] (Fokus: Manifestation Verstehen - Verfall & Lösung Finden - Widerstand, Schutz)
-*   *(Hinweise auf den Kult (Ziel 4) und weitere Aspekte der Lösung (Ziel 3) sind in diese Szenarien integriert oder können durch separate Aktionen/Recherchen verfolgt werden).*
+**Phase 2: Mechanismen & Fraktionen (Abenteuer 4-6)**
+*Fokus: Das *Wie*. Die Spieler untersuchen die Mechanismen der Asche tiefer und treffen auf die sich formierenden Hauptfraktionen. Die Reihenfolge A04-A06 ist **wahrscheinlich flexibel**, basierend auf den Leads aus Phase 1. Die **Uhren ticken** basierend auf Zeit/Spieleraktionen und **modifizieren stark** die Umstände und Schwierigkeiten in diesen Abenteuern (z.B. hohe Chor-Uhr = A05 wird von Kultisten überrannt; hohe Zerfall-Uhr = A04 ist extrem lebensfeindlich).*
+*   [[04 - Die Withering Zone]] (Thema: Lebenskraftentzug, Umwelt als Spiegel der Seele, Widerstand dagegen, **Symbol: Welken**)
+*   [[05 - Der Flüsternde Sender]] (Thema: Memetischer Einfluss, Verbreitung von Ideologien/Verzweiflung, **Symbol: Einflößen**)
+*   [[06 - Das sich windende Herz]] (Thema: Psychische Labyrinthe, Realitätswahrnehmung, innere Fokuspunkte, **Symbol: Labyrinth**)
+*   *Fraktionsentwicklung:* Während dieser Phase kristallisieren sich [[Der Chor der Leere]] (strebt *Anthracite*-Ascension an) und [[Die Bewahrer des Fleisches]] (versuchen Asche gewaltsam zu unterdrücken/kontrollieren) als Hauptakteure heraus. Ihre Methoden und Stärke hängen vom Uhrenstand ab.
 
-**Wendepunkt: Die Katastrophe (Abenteuer 7)**
-*Fokus: Eskalation. **Ausgelöst durch die [[Asche Uhr]].** Beendet Phase 2 radikal.*
-*   [[07 - Der unumkehrbare Himmel]] (Katastrophe)
+**Wendepunkt: Gesellschaftlicher Bruch (Abenteuer 7)**
+*Fokus: Eskalation & Kollaps. **Obligatorischer narrativer Wendepunkt nach A06.** Die *Art und Weise* des Zusammenbruchs (Massenpsychose, gewaltsame Fraktionskonflikte, offene Transformationen) wird massiv vom **finalen Stand der Uhren nach Phase 2** bestimmt.*
+*   [[07 - Der unumkehrbare Himmel]] (Thema: Gesellschaftlicher Kollaps, Konfrontation mit der kollektiven Dunkelheit, **Symbol: Katastrophe**)
 
-**(Narrativer Meilenstein nach dem Wendepunkt):** [[Checkpoint - Muster erkannt & Fokuspunkt lokalisiert]]
-*   *Nach der Katastrophe zwingt die Situation die Überlebenden (evtl. mit [[Dr. Aris Thorne]]), ihr gesammeltes Wissen zu synthetisieren. Hier wird der [[Der Fokuspunkt]] klar identifiziert und die Notwendigkeit des [[Das Abschirmungsritual]]s und der [[Die Komponente]] erkannt.*
+**(Narrativer Meilenstein nach dem Wendepunkt):** [[Checkpoint - Die Wahl des Pfades]]
+*   *Im Chaos müssen die Spieler eine **fundamentale Entscheidung** treffen, basierend auf ihrem bisherigen Verständnis der Asche und der Fraktionen: Welchen Umgang mit dem inneren Potenzial streben sie an? Unterdrückung (Weg der Bewahrer)? Geleitete Transformation (eigener Weg)? Akzeptanz der Leere (Weg des Chors - unwahrscheinlich für SCs?)? Ihr gewählter Pfad bestimmt das *Ziel* von Phase 3.*
 
-**Phase 3: Verzweifelte Vorbereitungen (Kern-Szenarien)**
-*Fokus: Das *Warum* & *Was nun*. Mit klarem Ziel ([[Der Fokuspunkt]]) und Wissen über das Ritual/die Komponente müssen die Spieler die notwendigen Schritte unternehmen, um das Finale vorzubereiten. Die Reihenfolge der Abenteuer 08-11 kann, je nach Leads und Prioritäten, flexibel sein. **Startbedingungen und Schwierigkeit stark beeinflusst durch Uhrenstand nach A7.** Erfolg/Misserfolg in jedem Abenteuer beeinflusst die Ausgangslage für das Finale.*
-*   **Abenteuer 08:** [[08 - Death Spiral]] (Fokus: Gesellschaftlicher Zerfall, Ressourcenknappheit, Überleben in der neuen Welt)
-*   **Abenteuer 09:** [[09 - Shell]] (Fokus: Suche nach [[Die Komponente]], Konfrontation mit Wächter/Preis)
-*   **Abenteuer 10:** [[10 - Passage]] (Fokus: Sicherung des Wegs/Transports zum [[Der Fokuspunkt]])
-*   **Abenteuer 11:** [[11 - Burden]] (Fokus: Finale Vorbereitungen, Vervollständigung Ritualwissen, psychologische Last)
+**Phase 3: Die Suche nach der Methode (Abenteuer 8-11)**
+*Fokus: Das *Mittel zum Zweck*. Die Spieler müssen die notwendigen Werkzeuge, Orte oder Rituale finden, um ihren gewählten Pfad umzusetzen. Die Abenteuer A08-A11 finden in der veränderten, post-katastrophalen Welt statt. Ihre **Inhalte und Herausforderungen werden angepasst**, um die Suche nach der Methode des gewählten Pfades widerzuspiegeln. Die Uhren (evtl. neue/angepasste für Phase 3) beeinflussen weiterhin den Kontext.*
+*   [[08 - Death Spiral]] (Thema: Überleben im sozialen Zerfall, ethische Kosten *des gewählten Pfades*, **Symbol: Todesspirale**)
+*   [[09 - Shell]] (Thema: Suche nach [[Die Komponente (Revidiert)]] - Werkzeug/Wissen/Ort zur *Manipulation* der Asche gemäß dem gewählten Pfad, Konfrontation mit Leere/Preis der Kontrolle, **Symbol: Hülle**)
+*   [[10 - Passage]] (Thema: Reise zum [[Der Fokuspunkt (Revidiert)]] - Ort zur *Implementierung* der Methode, Navigation durch Zonen, die den gewählten Pfad symbolisieren, **Symbol: Übergang**)
+*   [[11 - Burden]] (Thema: Konfrontation mit der vollen Last/Konsequenz des gewählten Pfades, finale mentale Prüfung, **Symbol: Burden** - thematisch)
 
-**Phase 4: Finale Konsequenzen (Finale)**
-*Fokus: Das *Handeln*. Durchführung des [[Das Abschirmungsritual]]s am [[Der Fokuspunkt]]. **Schwierigkeit und Optionen stark beeinflusst durch Erfolg/Misserfolg in Phase 3 (A08-A11) und den finalen Uhrenstand.**
-*   [[12 - Träger der Asche]] (Ritual & Finale).
-
-**(Optional):**
-*   [[Intro - Anthracite (Teaser)]]?
-*   [[Epilog - Anthracite (Konsequenzen)]]?
----
-
-## Das Uhrensystem
-
-*Diese Uhren laufen parallel und beeinflussen sich gegenseitig sowie die Ereignisse.*
-*   [[Asche Uhr]] (Weltuntergangsuhr - Löst A7 aus, beeinflusst Intensität)
-*   [[Kult Aktivität Uhr]] (Stärke & Organisation des [[Der Asche-Chor]])
-*   [[Widerstand-Hoffnung Uhr]] (Verfügbarkeit von Hilfe & Wissen durch [[Der sterbende Widerstandskult]])
-*   [[Öffentliche Panik Uhr]] (Erschwert soziale Interaktion, Reisen, Behörden)
+**Phase 4: Definition der Menschlichkeit (Abenteuer 12)**
+*Fokus: Das *Handeln* & Konsequenzen. Die Spieler versuchen, ihren gewählten Umgang mit der Asche am Fokuspunkt umzusetzen. Finale Konfrontation mit der gegnerischen Fraktion und den unvorhersehbaren Folgen ihrer Entscheidung.*
+*   [[12 - Träger der Asche]] (Thema: Umsetzung der Methode, Konfrontation mit ultimativem Preis/Erfolg/Scheitern, Definition dessen, was Menschlichkeit nun bedeutet, **Symbol: Träger** - die Last der Entscheidung).
+*   **(Optional nach A12):** [[Epilog - Anthracite]] (Kurze Szene(n), die die neue Realität basierend auf dem Kampagnenende zeigen).
 
 ---
 
-## Schlüsselelemente & Akteure
+## Das Uhrensystem (Revision 2)
 
-*   *Wie zuvor, aber die Dynamik der Fraktionen ([[Der Asche-Chor]], [[Der sterbende Widerstandskult]]) wird nun auch durch die Uhren beeinflusst.*
-*   [[Ghroth]], [[Die Asche]], [[Erwachte Schrecken]], [[Transformierte Kreaturen & Opfer]]
-*   [[Dr. Aris Thorne]], [[Das Abschirmungsritual]], [[Die Komponente]], [[Der Fokuspunkt]], [[Defektes Mythos-Wesen]]?
-*   **[[Ritual-Symbole Leitfaden|Die 11 Ritual-Symbole]]:** Repräsentieren Aspekte von Ghroths Einfluss und sind Schlüssel zum Verständnis und zur Durchführung des Abschirmungsrituals.
+*Diese Uhren laufen parallel und beeinflussen den Kontext und die Schwierigkeit der Abenteuer.*
+*   **[[Asche-Manifestations-Uhr]]**: Intensität & Verbreitung der Asche-Symptome (Gewalt, Apathie, Transformationen).
+*   **[[Chor-Einfluss-Uhr]]**: Macht, Organisation und Erfolg des [[Der Chor der Leere]].
+*   **[[Bewahrer-Verzweiflungs-Uhr]]**: Effektivität *und* Brutalität des Widerstands ([[Die Bewahrer des Fleisches]]).
+*   **[[Gesellschaftlicher-Zerfall-Uhr]]**: Zusammenbruch von Vertrauen, Infrastruktur, sozialen Normen.
+
+---
+
+## Schlüsselelemente & Akteure (Revision 2)
+
+*   [[Ghroth]]: Ferner Katalysator / Hintergrundrauschen.
+*   [[Die Asche]]: Latentes menschliches Potenzial (Dunkelheit/Transzendenz).
+*   [[Der Chor der Leere]] (Neuer Name?): Strebt die *Anthracite*-"Ascension" an.
+*   [[Die Bewahrer des Fleisches]] (Neuer Name?): Versucht Asche gewaltsam zu unterdrücken/kontrollieren. Moralisch ambivalent.
+*   [[Dr. Aris Thorne]]: Experte für die *interne* Natur der Asche.
+*   [[Die Komponente (Revidiert)]]: Werkzeug/Wissen/Ort zur Manipulation der Asche/Psyche.
+*   [[Der Fokuspunkt (Revidiert)]]: Ort zur Implementierung der gewählten Methode.
+*   [[Die 11 Ritual-Symbole]]: Schlüssel zum Verständnis der Facetten der Asche als menschliches Potenzial.
 
 ---
 
 ## Spielercharaktere & Entwicklung
 
 *   [[Spielercharaktere Übersicht]]
-*   [[Charakter-Bande]]
-*   [[Trauma & Narben Log]]
+*   [[Charakter-Bande]]: Wichtig für psychologischen Halt.
+*   [[Trauma & Narben Log]]: Verfolgt psychologische Auswirkungen.
+*   **[[Persönliche Anfälligkeit & Resonanz]]**: Jeder Charakter reagiert individuell auf die Asche.
 
 ---
 
 ## Kampagnen-Management
 
-*   [[Session Log]]
-*   **[[Die Ashfall Gazette (Newspaper Handouts)]]:** Regelmäßige Zeitungsausgaben als Handouts für Spieler. Können aktuelle Ereignisse widerspiegeln, Gerüchte streuen, subtile Hinweise auf laufende oder zukünftige Untersuchungen enthalten oder als Red Herrings dienen. (Inspiriert von Blade Runner RPG).
-*   [[Kampagnen-Handouts]] (Andere spezifische Handouts)
-*   [[Houserules & Spielmechaniken]] (Uhrenregeln hier definieren!)
+*   [[Session Log Template (Revidiert)]] (Mit neuen Uhren)
+*   [[Die Ashfall Gazette (Newspaper Handouts)]] (Fokus auf psychologische/soziale Phänomene)
+*   [[Kampagnen-Handouts]]
+*   [[Houserules & Spielmechaniken (Revidiert)]] (Uhren, SAN-Anpassungen, Safety Tools)
 *   [[Welt-Details & Spieler-Input]]
 *   [[NPC-Register]], [[Orts-Register]]
 *   [[Soundtrack & Inspiration]]
+*   **[[Safety Tools Leitfaden]]**: Klare Definition der verwendeten Tools und wie/wann sie eingesetzt werden.
 
 ---
 
 **Keeper Notizen & To-Dos:**
-*   **Uhrenstand regelmäßig aktualisieren!**
-*   Auswirkungen von Uhrenständen auf nächste Sessions planen.
+*   Alle Abenteuer-Notizen (A01-A12) neu entwerfen, um die "Innere Apokalypse"-Narrative, die neuen Fraktionsziele/Namen und die revidierte Natur von Asche/Komponente/Fokuspunkt zu reflektieren.
+*   Die 12 Abenteuer müssen so gestaltet sein, dass sie die Kernthemen der Songs aufgreifen, aber flexibel genug sind, um durch die Uhren und Spielerentscheidungen modifiziert zu werden (Node-Based Design *innerhalb* der Abenteuer).
+*   Mechaniken für die Asche-Anfälligkeit der Charaktere entwickeln.
+*   Checkpoint-Szene (nach A07) detailliert ausarbeiten.
+*   Finale (A12) als komplexen Prozess mit variablem Ausgang gestalten, der die Spielerwahl widerspiegelt.
+*   Konkrete Szene für die Safety-Tool-Übung in A01-A03 einplanen.
 *   [Weitere aktuelle Notizen]

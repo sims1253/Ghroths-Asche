@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21e431cc6bace8ba",
+        "id": "5e041a7a02ca711d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8ac5ee47ffc14e",
+            "id": "e784c0137a467f50",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,50 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Die Asche",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World/Die Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Die Asche\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":42},\"to\":{\"line\":35,\"ch\":42}},\"scroll\":13.266782407407407}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 2/Checkpoint - Muster erkannt & Fokuspunkt lokalisiert.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ghroths Asche Kampagnenübersicht",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ghroths Asche Kampagnenübersicht.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ghroths Asche Kampagnenübersicht\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":110,\"ch\":0},\"to\":{\"line\":110,\"ch\":0}},\"scroll\":45.38235294117647}"
-                },
-                {
-                  "title": "12 - Träger der Asche",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Module/Akt 3/12 - Träger der Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"12 - Träger der Asche\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Campaign_Info/Das große Ganze - Herz der Asche.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Das große Ganze - Herz der Asche"
             }
           },
           {
-            "id": "1295bf1151538865",
+            "id": "f77a5075f4785e73",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,244 +41,47 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Campaign_Info/Campaign_Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Campaign_Overview"
+            }
+          },
+          {
+            "id": "16ae7f7b7248ce09",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
+                  "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "killers_notes_handout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "museums-victoria-rcES3Cqw6z8-unsplash",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg\"},\"icon\":\"lucide-image\",\"title\":\"museums-victoria-rcES3Cqw6z8-unsplash\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "symbol_scene.png",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/symbol_scene.png.png\"},\"icon\":\"lucide-image\",\"title\":\"symbol_scene.png\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "museums-victoria-rcES3Cqw6z8-unsplash",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg\"},\"icon\":\"lucide-image\",\"title\":\"museums-victoria-rcES3Cqw6z8-unsplash\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":23},\"to\":{\"line\":13,\"ch\":23}},\"scroll\":53.064670138888886}"
-                },
-                {
-                  "title": "asche_sample_report",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"asche_sample_report\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "03 - Der Schattengefaltete Chor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "02 - Das Gewicht, das verweilt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "03 - Der Schattengefaltete Chor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "02 - Das Gewicht, das verweilt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Screenshot 2025-04-08 212723",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/Screenshot 2025-04-08 212723.png\"},\"icon\":\"lucide-image\",\"title\":\"Screenshot 2025-04-08 212723\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "lifeless_deathless_handout",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/lifeless_deathless_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"lifeless_deathless_handout\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "ChatGPT Image 8. Apr. 2025, 21_25_14",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/ChatGPT Image 8. Apr. 2025, 21_25_14.png\"},\"icon\":\"lucide-image\",\"title\":\"ChatGPT Image 8. Apr. 2025, 21_25_14\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "ChatGPT Image 8. Apr. 2025, 21_00_06",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - handouts/ChatGPT Image 8. Apr. 2025, 21_00_06.png\"},\"icon\":\"lucide-image\",\"title\":\"ChatGPT Image 8. Apr. 2025, 21_00_06\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "linger_handout",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - handouts/linger_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"linger_handout\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "killers_notes_handout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Generated Image April 06, 2025 - 10_42PM",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Generated Image April 06, 2025 - 10_42PM.jpeg\"},\"icon\":\"lucide-image\",\"title\":\"Generated Image April 06, 2025 - 10_42PM\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "blood_spilled_handout",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/blood_spilled_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"blood_spilled_handout\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "asche_sample_report",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"asche_sample_report\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "blood_spilled_handout",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/blood_spilled_handout.png\"},\"icon\":\"lucide-image\",\"title\":\"blood_spilled_handout\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "killers_notes_handout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":18.356770833333332}"
-                },
-                {
-                  "title": "killers_notes_handout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "symbol_scene.png",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/symbol_scene.png.png\"},\"icon\":\"lucide-image\",\"title\":\"symbol_scene.png\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "killers_notes_handout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "asche_sample_report",
-                  "icon": "lucide-file-text",
-                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/asche_sample_report.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"asche_sample_report\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Session_Log_Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05_Session_Logs/Session_Log_Template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session_Log_Template\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Pine_County_Chronicle_Issue_1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pine_County_Chronicle_Issue_1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "killers_notes_handout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"killers_notes_handout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "01 - Der Asche-Zorn von Black Creek",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "Clue_Flow_Act1_Description",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/Clue_Flow_Act1_Description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Clue_Flow_Act1_Description\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md",
+                "file": "03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Das Gewicht, das verweilt"
+              "title": "01 - Der Asche-Zorn von Black Creek"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -518,8 +295,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1295bf1151538865",
+  "active": "16ae7f7b7248ce09",
   "lastOpenFiles": [
+    "00_Campaign_Info/Campaign_Overview.md",
+    "00_Campaign_Info/Das große Ganze - Herz der Asche.md",
+    "03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md",
     "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf",
     "03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md",
     "03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg",
@@ -538,7 +318,6 @@
     "03_Mysteries/Act_1/01 - handouts/tom-hills-XhplcbXMxD0-unsplash.jpg.~tmp",
     "03_Mysteries/Act_1/01 - handouts/tom-hills-XhplcbXMxD0-unsplash.jpg",
     "03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md",
-    "03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md",
     "03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md",
     "03_Mysteries/Act_1/03 - handouts/Screenshot 2025-04-08 212723.png",
     "03_Mysteries/Act_1/03 - handouts/lifeless_deathless_handout.png",
@@ -564,7 +343,6 @@
     "03_Mysteries/Act_2/Clue_Flow_Act2_Description.md",
     "00_Campaign_Info/Kampagnen-Handouts.md",
     "04_Mechanics/Houserules & Spielmechaniken.md",
-    "01_Setting/Factions/Asche-Chor Zelle (Früh).md",
-    "01_Setting/Key_NPCs/Sheriff Brody.md"
+    "01_Setting/Factions/Asche-Chor Zelle (Früh).md"
   ]
 }

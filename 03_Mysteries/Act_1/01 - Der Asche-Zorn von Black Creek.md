@@ -1,18 +1,8 @@
----
-tags:
-  - coc-mystery
-  - investigation
-  - Adventure
-  - Phase1
-  - BlackCreek
-  - Intro
-  - SeedPhase2
-aliases:
-  - Asche-Zorn
-  - Black Creek Morde
----
+# Investigation 01 (Neu): Der Innere Brand von Black Creek
 
-# Investigation: Der Asche-Zorn von Black Creek
+tags: #coc-mystery #investigation #Adventure #Phase1 #BlackCreek #Intro #InternalApocalypse #SafetyToolPractice #SymbolBlutvergießen
+aliases: [Innerer Brand, Black Creek Gewalt]
+# Original Song/Thema: Blood Spilled (Ausbruch unterdrückter Gewalt/Schmerz, Suche nach Katharsis/Verständnis durch extremes Handeln)
 
 > [!info]- Lyrics: Blood Spilled
 > I just need to see some blood spilled
@@ -59,165 +49,138 @@ aliases:
 ## 1. Der Hook
 *Wie werden die Ermittler hineingezogen? Welches Ereignis löst die Untersuchung aus?*
 
-*   **Auslösendes Ereignis/Entdeckung:** Eine Serie extrem brutaler Morde und/oder Fälle von Verschwinden erschüttert die isolierte Gemeinde [[Black Creek]]. Berichte sprechen von ungewöhnlicher Grausamkeit und seltsamen Umständen, die über normale Verbrechen hinauszugehen scheinen.
-*   **Verbindung der Ermittler:** Ermittler werden aufgrund ihres Berufs (Detektive, Journalisten), persönlicher Beziehungen (Angehörige von Opfern/Verdächtigen) hinzugezogen oder vielleicht wegen der seltsamen Natur der Ereignisse angeheuert. *(Optional: Fügen Sie eine spezifischere Verbindung für einen SC hinzu, z.B. ein entfernter Verwandter in der Stadt, ein alter Fall, der sie hierher führte).*
-*   **Unmittelbares Ziel/Frage:** Untersuche die Morde/Verschwinden, identifiziere den/die Täter und verstehe die bizarren Umstände.
+*   **Auslösendes Ereignis/Entdeckung:** Eine Serie eskalierender, unerklärlich brutaler Vorfälle erschüttert das isolierte Holzfällerstädtchen [[Black Creek]]. Höhepunkt: Der angesehene, aber gestresste Vorarbeiter [[Samuel Harmon]] tötet seine Familie und sich selbst. Am Tatort: Grauer Staub ([[Die Asche]]) und ein bizarres Symbol.
+*   **Verbindung der Ermittler:** Externe Spezialisten (FBI, Psychologen, Forensiker) oder persönliche Bitte (Verwandter, Kontakt beim Sheriff) wegen extremer Brutalität/Überforderung der lokalen Polizei.
+*   **Unmittelbares Ziel/Frage:** Motive hinter Harmons Tat klären. Zusammenhang mit früheren Vorfällen? Bedeutung der Funde am Tatort? Droht weitere Gewalt?
 
-## 2. Hintergrund & Die Wahrheit
+## 2. Hintergrund & Die Wahrheit (Herz der Asche)
 *Nur für die Augen des Spielleiters. Welcher kosmische Schrecken, Kultplan oder schreckliches Geheimnis liegt unter der Oberfläche?*
 
-*   **Der Kern des Schreckens:** [[Ghroth]]s Annäherung erzeugt ein subtiles psychisches Echo ([[Die Asche]]), das latente negative Emotionen (Verzweiflung, Aggression) bei anfälligen Individuen in der wirtschaftlich angeschlagenen Gemeinde [[Black Creek]] verstärkt.
-*   **Der/Die Antagonist(en):** [[Täter Black Creek]] - Ein oder mehrere Bewohner, die bereits unter persönlichem Leid oder Groll litten, durch den psychischen Einfluss über den Rand getrieben. Ihre Gewalt wird von einem übersteigerten, fast übernatürlichen Gefühl des Leidens und dem Wunsch nach Rache/Vergeltung angetrieben ("Sollen leiden wie wir"). Sie sind Täter und Opfer des Einflusses zugleich.
-*   **Zeitlinie der Ereignisse (Vor der Untersuchung):** Zunehmende wirtschaftliche Not in [[Black Creek]] -> Subtile Zunahme lokaler Spannungen/Verzweiflung -> Einfluss von [[Die Asche]] beginnt -> Anfällige(s) Individuum/Individuen rasten aus -> Erster Mord/Verschwinden -> Gewaltmuster entsteht -> Ermittler werden gerufen.
-*   **Die schreckliche Wahrheit:** Die entsetzliche Gewalt ist nicht nur menschliche Bosheit, sondern menschliches Leid, das von einer nahenden, gleichgültigen kosmischen Entität als Waffe benutzt und verstärkt wird. Der seltsame Staub ([[Die Asche]]) ist ein physischer Beweis für dieses Eindringen.
+*   **Der Kern des Schreckens:** [[Die Asche]] (inneres menschliches Potenzial) wird durch Stress in Black Creek katalysiert (evtl. durch [[Ghroth]]). Verstärkt latente negative Emotionen. [[Samuel Harmon]] war der Erste, der zerbrach; sein Gewaltausbruch war fehlgeleiteter Versuch, inneren Druck freizusetzen. Das [[Ritual-Symbole Leitfaden#Symbol: Blutvergießen|Symbol des Blutvergießens]] ist Ausdruck dieses Bedürfnisses.
+*   **Der/Die Antagonist(en):** Die **Atmosphäre des Drucks** in Black Creek, genährt durch die Asche. **Angst/Misstrauen** der [[Stadtbewohner Black Creek]]. [[Sheriff Brody]], der eigene Symptome unterdrückt. Die Gefahr weiterer Ausbrüche.
+*   **Zeitlinie der Ereignisse:** Wirtschaftlicher Niedergang -> Stress steigt -> [[Die Asche]] wirkt -> Zunahme kleinerer Gewalttaten -> Harmon bricht zusammen -> Morde/Selbstmord -> Ermittler gerufen.
+*   **Die schreckliche Wahrheit:** Horror kommt von innen. Die Asche ist ein Symptom der menschlichen Fähigkeit zu Leid/Gewalt, entfesselt durch (kosmischen?) Einfluss. Jeder könnte der Nächste sein.
 
-## 3. Countdown / Eskalation
-*Wie verschlechtert sich die Situation, wenn die Ermittler zögern oder scheitern? Was sind die entscheidenden Wendepunkte? Wie beeinflussen die globalen Uhren dies, und wie wirkt sich dies auf die Uhren aus?*
+## 3. Countdown / Eskalation (Prä-Uhrensystem)
+*Wie verschlechtert sich die Situation, wenn die Ermittler zögern oder scheitern?*
 
-*   **Phase 1 (Ausgangszustand):** Brutale Morde sind geschehen. Gemeinschaft ist verängstigt, gibt aber vielleicht alltäglichen Ursachen die Schuld. Sheriff ist überfordert.
-*   **Phase 2 (Eskalation):** Weitere Morde geschehen, möglicherweise dreister. [[Die Asche]] wird an Tatorten auffälliger. Panik in der Gemeinschaft wächst, bildet möglicherweise einen Lynchmob. [[Sheriff Brody]] behindert vielleicht aktiv die Ermittlungen (um Inkompetenz oder seltsame Funde zu vertuschen).
-*   **Phase 3 (Punkt ohne Wiederkehr):** Der/die Mörder könnten beginnen, die Ermittler direkt zu jagen. Die Gemeinschaft könnte völlig feindselig werden. Beweise könnten zerstört werden.
-*   **Phase 4 (Das Ende):** Mörder entkommen oder vollenden ihre Serie, die Stadt bleibt traumatisiert und das Kerngeheimnis ungelöst. Ermittler könnten vertrieben oder getötet werden.
-*   **Relevante Globale Uhren:** **Uhren sind noch NICHT aktiv.** Diese Untersuchung legt den Grundstein für ihre spätere Aktivierung.
+*   **Phase 1 (Start):** Schock, Angst, subtile Spannungen. Ursache unklar.
+*   **Phase 2 (Eskalation):** Weitere kleinere Ausbrüche (Gewalt, Psychosen). Paranoia wächst. Brody wird obstruktiver. Spieler spüren Druck (leichte Mali auf soziale Interaktion?).
+*   **Phase 3 (Kritisch):** Weiterer schwerer Gewaltausbruch. Gefahr von Lynchjustiz. Spieler als Sündenböcke?
+*   **Phase 4 (Scheitern):** Gewaltspirale unaufhaltbar, Stadt im Chaos/abgeriegelt. Spieler scheitern am Verständnis, fliehen oder werden Opfer.
 
-## 4. Schlüsselorte
-*Wichtige Orte, die die Ermittler besuchen könnten. Verlinke zu Hauptnotizen der Orte und füge untersuchungsspezifische Details hinzu.*
+## 4. Schlüsselorte (Nodes)
+*Wichtige Orte, die die Ermittler besuchen könnten. Jeder Ort listet Schlüsselinformationen/Clues und potenzielle Ereignisse.*
 
-*   **[[Black Creek]]**:
-    *   **Atmosphäre & Beschreibung:** Isoliertes Holzfäller-/Bergbaustädtchen. Spürbarer wirtschaftlicher Niedergang (vernagelte Läden, verrostete Ausrüstung). Bedrückende Atmosphäre (ungewöhnliche Stille, gedämpfte Farben, vielleicht ein seltsamer metallischer Geruch in der Luft?). Tiefes Misstrauen gegenüber Fremden. Gerüchte über "schlechte Zeiten", "etwas in der Luft", seltsame leise Brumm-/Dröhngeräusche nachts. Das Wild verhält sich seltsam (zu zahm oder aggressiv?).
-    *   **Schlüsselinformationen/Hinweise:** Allgemeine Stimmung in der Gemeinde, Gerüchte, potenzielle Zeugen (aber wahrscheinlich unzuverlässig/ängstlich).
-    *   **Mögliche Begegnungen/Gefahren:** Feindselige Einheimische, Fehlinformationen, Umweltgefahren (Wetter, Abgelegenheit), unheimliches Tierverhalten.
-*   **[[Tatorte Black Creek]]** (Spezifische Orte wie Hütten, Mineneingänge, Waldlichtungen):
-    *   **Atmosphäre & Beschreibung:** Orte extremer Gewalt. Brutal verstümmelte Leichen, überraschend wenig Blut, stattdessen feiner, grauer [[Die Asche]]-Staub. Seltsame geometrische Kratzer/Muster, darunter wiederholt ein spezifisches, verstörendes Symbol (**Symbol: Blut Vergosssen** - siehe [[Ritual-Symbole Leitfaden]]). Luft fühlt sich kalt, "leer", bedrückend an.
-    *   **Schlüsselinformationen/Hinweise:** Art der Gewalt, Anwesenheit und Eigenschaften von [[Die Asche]], das wiederkehrende Symbol und andere Muster. (Spot Hidden/Spurensuche, Forensik, Okkultismus).
-    *   **Mögliche Begegnungen/Gefahren:** Verbleibende psychische Rückstände (SAN-Verlust), Entdeckung durch Mörder/Einheimische, Umweltgefahren.
-*   **[[Versteck Täter Black Creek]]** (Verlassene Hütte, alter Stollen, etc.):
-    *   **Atmosphäre & Beschreibung:** Spiegelt Wut und Verzweiflung des Mörders wider. Möglicherweise verwahrlost, gefüllt mit obsessiven Gegenständen. Wände könnten mit Kritzeleien bedeckt sein.
-    *   **Schlüsselinformationen/Hinweise:** Beweise, die den Mörder mit Opfern verbinden, persönliche Gegenstände, die Motive zeigen (Verlust, Verrat), **entscheidend:** unbewusste Kritzeleien/Manifeste, die "Druck", "Gesang", seltsame **geometrische Muster** und obsessive Wiederholungen des **Symbols des Blutvergießens** (**Symbol: Blutvergießen**) zeigen (-> Hinweis auf Bedeutung: Gewalt/Opfer/Auslöser & Ziel 2), falsche/obsessive **astronomische Symbole** (-> Ziel 1). (Investigate/Untersuchen, Psychoanalyse, Okkultismus).
-    *   **Mögliche Begegnungen/Gefahren:** Sprengfallen, Rückkehr des Mörders, Entdeckung durch Einheimische.
-*   **[[Sheriff-Posten Black Creek]]**:
-    *   **Atmosphäre & Beschreibung:** Kleines, unterbesetztes Büro. [[Sheriff Brody]] ist überfordert, möglicherweise inkompetent oder behindernd.
-    *   **Schlüsselinformationen/Hinweise:** Offizielle Berichte (wahrscheinlich unvollständig/verharmlosen Seltsames), (Un-)Kooperationsbereitschaft des Sheriffs, mögliche Erwähnung seltsamer Funkstörungen (-> Ziel 1). (Charm/Überzeugen, Intimidate/Einschüchtern, Persuade/Überreden).
-    *   **Mögliche Begegnungen/Gefahren:** Umgang mit unkooperativer/misstrauischer Autorität.
-*   **(Optional) [[Lokales Archiv/Zeitungsbüro Black Creek]]**:
-    *   **Atmosphäre & Beschreibung:** Staubiges Archiv lokaler Geschichte.
-    *   **Schlüsselinformationen/Hinweise:** Alte Zeitungen/Aufzeichnungen über vergangene Wirtschaftskrisen, möglicherweise ähnliche ungeklärte Vorfälle, lokale Legenden über "sichere Orte" oder Zyklen der Not (-> Ziel 3). (Library Use/Bibliotheksnutzung, History/Geschichte).
-    *   **Mögliche Begegnungen/Gefahren:** Zeitaufwändige Recherche, wenig hilfreicher Archivar.
+*   **[[Black Creek]] (Stadtgebiet)**
+    *   **Atmosphäre:** Siehe A01 Original, aber *betone* die spürbare psychische Spannung. Gespräche angespannt, Blicke feindselig/leer, latente Aggression/tiefe Verzweiflung. Gefühl, dass etwas "in der Luft liegt".
+    *   **Schlüsselinfos/Clues:**
+        *   **(Hinweis 5: Brodelnde Gewalt):** Gerüchte über Harmons Zustand, frühere Vorfälle, allgemeines Klima der Verzweiflung/Spannung (Social Skills, Psychologie).
+        *   **(Hinweis 6: Apathie-Berichte - Seed):** Vage Berichte über Leute, die "leer" wirken (Social Skills).
+        *   **(Hinweis 7: Wald-Gerüchte - Seed):** Geschichten über seltsames Tierverhalten oder Leute, die im Wald "verloren" gingen (Social Skills).
+    *   **Ereignisse/Gefahren:** Misstrauische/aggressive Bewohner, plötzliche Streitigkeiten, unheimliche Stille, Gefühl des Beobachtetwerdens.
+
+*   **[[Harmons Haus (Tatort)]]**
+    *   **Atmosphäre:** Ort der Tragödie. Brutal, persönlich, verzweifelt. Feiner, grauer Staub ([[Die Asche]]) - kalt, metallischer Geruch. Gefühl von Schmerz/Wut. [[Ritual-Symbole Leitfaden#Symbol: Blutvergießen|Symbol des Blutvergießens]] prominent.
+    *   **SAFETY TOOL CHECKPOINT:** *Vor Beschreibung innehalten: "Wir betreten jetzt einen Tatort extremer Gewalt. Die Beschreibung wird explizit sein. Kurzer Check unserer Safety Tools [Namen nennen]. Bitte signalisiert sofort, wenn es zu viel wird."* (Funktion kurz erklären).
+    *   **Schlüsselinfos/Clues:**
+        *   **(Hinweis 1: Extreme Gewalt):** Art der Gewalt passt nicht zu typischen Mustern (Forensik `Schwer`, Medizin `Normal`).
+        *   **(Hinweis 2: Die Asche):** Ungewöhnlicher Staub. Kalt, metallisch riechend. Probe kann gesichert werden (Beweissicherung `Normal`). Spätere Analyse (Chemie/Physik) nötig.
+        *   **(Hinweis 3: Symbol des Blutvergießens):** Wiederkehrendes Symbol. Verbindung zur Gewalt/zum Druck (Okkultismus `Schwer` oder Psychologie `Normal` für Deutung).
+    *   **Ereignisse/Gefahren:** Starke psychische Belastung (SAN-Probe `1/1W4`). Potenzielle Kontamination?
+
+*   **[[Samuel Harmons Arbeitsplatz/Versteck]]** (Schuppen, Büro etc.)
+    *   **Atmosphäre:** Spuren wachsenden Drucks. Verwahrlosung, zerstörte Gegenstände, obsessive Ordnung/Unordnung.
+    *   **Schlüsselinfos/Clues:**
+        *   **(Hinweis 3: Symbol des Blutvergießens):** Obsessive Kritzeleien des Symbols (Spot Hidden `Normal`).
+        *   **(Hinweis 4: Harmons Notizen/Manifest):** Tagebuch/Notizen über "inneren Druck", "Lied", Wunsch nach Verständnis durch Schmerz (Investigate `Normal`, Library Use `Leicht`). *Zentraler Hinweis auf interne Natur!*
+        *   (Optional) Hinweise auf andere gestresste Personen (Briefe, Notizen).
+    *   **Ereignisse/Gefahren:** Entdeckung durch Kollegen/Sheriff (Charm/Stealth). Falle (Spot Hidden `Schwer`?).
+
+*   **[[Sheriff-Büro Black Creek]]**
+    *   **Atmosphäre:** Chaotisch, überfordert. [[Sheriff Brody]] extrem angespannt, reizbar oder apathisch.
+    *   **Schlüsselinfos/Clues:**
+        *   Offizielle Berichte (oberflächlich, Library Use `Leicht`).
+        *   Brody kennt Harmons Vorgeschichte (Interview-Fertigkeiten `Normal` oder schwerer, je nach Brodys Zustand).
+        *   **Brody's Geheimnis:** Verbirgt eigene Symptome. Leugnet/unterdrückt Hinweise auf Asche/Symbol (Psychologie `Schwer` oder Intuition `Schwer` zum Erkennen).
+        *   (Optional) Funkstörungsberichte (Electrical Repair?).
+    *   **Ereignisse/Gefahren:** Behinderung der Ermittlung. Plötzlicher Wutausbruch/Zusammenbruch Brodys? (Psychologie `Normal` zum Deeskalieren?).
+
+*   **[[Gemischtwarenladen/Bar "Der letzte Span"]]**
+    *   **Atmosphäre:** Einziger Treffpunkt. Gedrückt, angespannt, plötzliche Ausbrüche möglich.
+    *   **Schlüsselinfos/Clues:**
+        *   **(Hinweis 5: Brodelnde Gewalt):** Gerüchte über Harmons Zustand, Streitereien, wirtschaftliche Not (Streetwise `Normal`, Charm `Normal`).
+        *   **(Hinweis 6: Apathie-Berichte - Seed):** Gerüchte über "leere" Leute (Streetwise `Normal`).
+        *   **(Hinweis 7: Wald-Gerüchte - Seed):** Geschichten über seltsame Orte/Vorfälle im Wald (Streetwise `Normal`).
+        *   Identifikation anderer gestresster Personen (Psychologie `Normal`).
+    *   **Ereignisse/Gefahren:** Kneipenschlägerei (nicht zwingend gegen SCs). Feindselige Reaktionen. Unzuverlässige Infos.
 
 ## 5. Schlüssel-NSCs & Entitäten
-*Wichtige Charaktere oder Kreaturen, mit denen Ermittler interagieren könnten. Verlinke zu Hauptnotizen.*
+*Wichtige Charaktere oder Kreaturen.*
 
-*   **[[Sheriff Brody]]**:
-    *   **Rolle in der Untersuchung:** Primäre lokale Autorität, potenzielles Hindernis.
-    *   **Schlüsselwissen/Geheimnisse:** Kennt die Opfer/Gemeinschaft. Spielt seltsame Elemente herunter (Funkstörungen = "Wetter", Asche = "Staub von der Mine"). *Mögliches Geheimnis:* Vertuscht nicht nur Inkompetenz, sondern vielleicht einen persönlichen Vorfall (z.B. hat er selbst kurzzeitig seltsame Gedanken/Aggressionen verspürt und fürchtet, es könnte ihn betreffen oder er könnte als verrückt gelten; oder er schützt einen Verwandten, der sich seltsam verhält).
-    *   **Auftreten & Ziele:** Gestresst, defensiv, will einfache Antworten/Sündenbock, will den (bereits schlechten) Ruf der Stadt schützen UND/ODER seine eigene (gefühlte) Anfälligkeit verbergen.
-    *   **Mögliche Auswirkungen auf geistige Stabilität:** Zeuge seines Zusammenbruchs/seiner Verleugnung/seiner Paranoia werden.
-*   **[[Täter Black Creek]]** (Ein oder mehrere Bewohner):
-    *   **Rolle in der Untersuchung:** Antagonist(en).
-    *   **Schlüsselwissen/Geheimnisse:** Angetrieben von verstärktem Kummer/Wut. Falls gefangen/vernehmbar, sprechen sie vielleicht von unerträglichem Druck, "Gesang", Träumen von Sternen, dem Gefühl, dass der Ort selbst "falsch" ist. Ihr Versteck enthält Schlüsselhinweise (Muster, Symbole).
-    *   **Auftreten & Ziele:** Unberechenbar, extrem gewalttätig, möglicherweise distanziert oder in einem Fugue-Zustand zwischen den Morden. Ziel ist es, um sich zu schlagen, andere leiden zu lassen.
-    *   **Mögliche Auswirkungen auf geistige Stabilität:** Zeuge ihrer Gewalt werden, ihre verstärkte Motivation verstehen, Konfrontation.
-*   **[[Stadtbewohner Black Creek]]**:
-    *   **Rolle in der Untersuchung:** Zeugen, Quelle von Gerüchten, potenzielle Hindernisse/Bedrohungen (Lynchmob).
-    *   **Schlüsselwissen/Geheimnisse:** Angst, Misstrauen gegenüber Außenstehenden. Einige teilen vielleicht widerwillig Gerüchte über seltsame Geräusche, schlimme Träume, Orte im Wald, die man meiden sollte.
-    *   **Auftreten & Ziele:** Verängstigt, misstrauisch, klatschsüchtig, potenziell feindselig. Wollen, dass das Problem verschwindet, behindern vielleicht die Ermittlung.
-    *   **Mögliche Auswirkungen auf geistige Stabilität:** Zeuge von Mob-Mentalität werden, allgegenwärtige Angst/Verzweiflung.
+*   **[[Sheriff Brody]] (Revidiert):**
+    *   **Rolle:** Überforderte Autorität, pot. Hindernis/Opfer.
+    *   **Wissen/Geheimnis:** Kennt Stadt, leugnet Seltsames. Spürt selbst Asche-Druck (Reizbarkeit, Impulse), hat Angst.
+    *   **Ziele:** Ruhe erzwingen, Ermittler loswerden, Fassade wahren.
+*   **[[Samuel Harmon]] (Verstorben):**
+    *   **Rolle:** Erstes sichtbares Opfer/Täter. Seine Motive/Zustand sind zentral.
+    *   **Wissen/Geheimnis:** In seinen Notizen (Hinweis 4).
+*   **[[Stadtbewohner Black Creek]] (Kollektiv/Einzelne):**
+    *   **Rolle:** Atmosphäre, Gerüchte, pot. nächste Opfer/Täter.
+    *   **Wissen/Geheimnis:** Angst, Not, Spannungen. Einige haben vage Ahnungen/Symptome.
+    *   **Ziele:** Überleben, Schuldige finden.
+*   **(Optional) [[Harmons Kollege/Freund]]**:
+    *   **Rolle:** Zeuge für Harmons Veränderung.
+    *   **Wissen/Geheimnis:** Details zu Harmons Zustand. Hat er Ähnliches bemerkt?
+    *   **Ziele:** Verängstigt, will vielleicht reden oder schweigen.
 
 ## 6. Hinweise & Untersuchungsfluss
-*Die Spur der Beweise. Wie hängen Hinweise zusammen? Welche Fertigkeiten werden benötigt? Verlinke zum Clue Flowchart.*
+*Die Spur der Beweise. (Schwierigkeiten sind Vorschläge: Leicht/Normal/Schwer)*
 
-*   **Hinweis 1:** [[Die Asche]] Staub
-    *   **Ort/Quelle:** [[Tatorte Black Creek]]
-    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Evidence Collection/Beweissicherung, Chemie/Naturwissenschaft für Analyse.
-    *   **Enthüllte Information:** Physischer Beweis für etwas Unnatürliches. Analyse ergibt unbekannte Elemente & **anomale Energiesignaturen** (-> Spur zu Ziel 2). Recherche zu Signaturen könnte zu [[Dr. Aris Thorne]] führen (-> Spur zu Kontakt Thorne).
-    *   **Mögliche SAN-Kosten:** 0/1 SAN für das unnatürliche Gefühl/Implikation.
-*   **Hinweis 2:** Das Symbol des Blutvergießens & Muster
-    *   **Ort/Quelle:** [[Tatorte Black Creek]] (Kratzer), [[Versteck Täter Black Creek]] (Kritzeleien).
-    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Okkultismus, Archäologie/Kunstgeschichte (um unnatürliche/nicht-standardisierte Muster zu erkennen).
-    *   **Enthüllte Information:** Das wiederkehrende **Symbol des Blutvergießens** (**Symbol: Blutvergießen**) scheint untrennbar mit der extremen Gewalt verbunden zu sein. Es repräsentiert **Ghroths Aspekt der Gewalt als Katalysator** – wie Leid und Blutvergießen seinen Einfluss verstärken und als Kanal dienen. Die begleitenden Muster könnten auf nicht-zufälligen Einfluss oder Verbindung zu Orten der Macht hindeuten (-> Spur zu Ziel 2). (Die positive/konternde Bedeutung für das Ritual wird erst später klar).
-    *   **Mögliche SAN-Kosten:** 0/1 SAN für ihr beunruhigendes Aussehen und die Verbindung zur Gewalt.
-*   **Hinweis 3:** Obsessive/falsche astronomische Symbole
-    *   **Ort/Quelle:** [[Versteck Täter Black Creek]] (Kritzeleien).
-    *   **Fertigkeit(en) zum Finden/Verstehen:** Spot Hidden/Spurensuche, Astronomie, Okkultismus.
-    *   **Enthüllte Information:** Hinweise auf eine externe, möglicherweise kosmische Quelle, die den Mörder beeinflusst (-> Spur zu Ziel 1).
-    *   **Mögliche SAN-Kosten:** 0/1 SAN.
-*   **Hinweis 4:** Berichte über seltsame Geräusche / Störungen
-    *   **Ort/Quelle:** [[Täter Black Creek]] (falls befragt), [[Stadtbewohner Black Creek]], [[Sheriff Brody]]?
-    *   **Fertigkeit(en) zum Finden/Verstehen:** Interview-Fertigkeiten (Charm/Überzeugen, Intimidate/Einschüchtern, Fast Talk/Überreden), potenziell Electrical Repair/Elektrotechnik oder Physik für technische Probleme.
-    *   **Enthüllte Information:** Deutet auf ein externes Signal, eine Frequenz oder einen durchdringenden Einfluss hin, der Sinne/Technologie beeinflusst (-> Spur zu Ziel 1).
-    *   **Mögliche SAN-Kosten:** 0
-*   **Hinweis 5:** (Optional) Lokale Legenden / Historische Zyklen
-    *   **Ort/Quelle:** [[Lokales Archiv/Zeitungsbüro Black Creek]].
-    *   **Fertigkeit(en) zum Finden/Verstehen:** Library Use/Bibliotheksnutzung, History/Geschichte.
-    *   **Enthüllte Information:** Hinweise auf wiederkehrende Natur seltsamer Ereignisse, potenzielle historische Gegenmaßnahmen oder sichere Orte (-> Spur zu Ziel 3).
-    *   **Mögliche SAN-Kosten:** 0
+*   **Hinweis 1:** Extreme, persönliche Gewalt (Tatort) -> [Forensik `Schwer`, Medizin `Normal`] -> Erkenntnis: Ungewöhnlicher psych. Zustand.
+*   **Hinweis 2:** [[Die Asche]] (Tatort) -> [Spot Hidden `Normal`, Beweissicherung `Normal`] -> Physisches Rätsel. (Analyse später: Chemie/Physik). -> *Seed für Thorne/Phase 2*.
+*   **Hinweis 3:** [[Ritual-Symbole Leitfaden#Symbol: Blutvergießen|Symbol des Blutvergießens]] (Tatort, Versteck) -> [Spot Hidden `Normal`, Okkultismus `Schwer` / Psychologie `Normal`] -> Erkenntnis: Symbol = Ausdruck des Drucks/Gewalt. *Kernsymbol des Abenteuers.*
+*   **Hinweis 4:** Harmons Notizen/Manifest (Versteck) -> [Investigate `Normal`, Library Use `Leicht`, Psychologie `Normal`] -> Erkenntnis: Druck ist *intern*. "Lied". Wunsch nach Verständnis durch Schmerz. *Zentraler Hinweis: Interne Natur!*
+*   **Hinweis 5:** Brodelnde Gewalt/Verzweiflung (Stadt, Bar) -> [Social Skills `Normal`, Psychologie `Normal`] -> Erkenntnis: Harmon kein Einzelfall. Problem ist weit verbreitet.
+*   **Hinweis 6:** Berichte über Apathie (Bar) -> [Social Skills `Normal`] -> *Seed für A02*.
+*   **Hinweis 7:** Wald-Gerüchte (Bar) -> [Social Skills `Normal`] -> *Seed für A03*.
 *
-*   **Clue Flowchart:** [[Clue_Flow_Act1.canvas]] (Muss vom Keeper erstellt werden)
-*
-*   **Zeitungs-Handout ([[Die Ashfall Gazette]]) Hinweise:**
-    *   *Relevante Artikel/Schlagzeilen für diese Untersuchung:* "Brutale Morde schockieren Black Creek", "Sheriff Brody verspricht Maßnahmen inmitten der Angst", "Holzpreise im Keller: Black Creek kämpft ums Überleben".
-    *   *Subtile Hinweise oder Vorahnungen darin versteckt:* Nebensatz in einem Artikel über Funkamateure, die über "seltsames Rauschen auf allen Bändern" klagen; Kleinanzeige: "Suche dringend: Alte Karten oder Aufzeichnungen über die 'Stillen Orte' in den Wäldern um Black Creek. Diskrete Bezahlung. Chiffre 1138."; Leserbrief, der über "zunehmende Reizbarkeit und schlechte Träume" klagt; Kurzmeldung über Jäger, die von ungewöhnlich aggressivem oder apathischem Wild berichten.
-    *   *Falsche Fährten oder irreführende Informationen:* Artikel konzentriert sich auf einen möglichen (mundanen) Serienmörder von außerhalb; Sheriff zitiert, der "streunende Bären" oder "Tollwut" für möglich hält.
+*   **Clue Flowchart:** (Visualisierung der Verbindungen, muss erstellt werden)
+*   **Zeitungs-Handout (`[[Die Ashfall Gazette Ausgabe 1]]`):** Siehe LaTeX-Entwurf. Liefert Kontext, Gerüchte, Foreshadowing.
 
 ## 7. Mögliche Begegnungen & Schlüsselszenen
 *Schlüsselszenen mit Action, Spannung, Horror oder bedeutenden Enthüllungen.*
 
-*   **Begegnung 1:** Tatortuntersuchung
-    *   **Ort:** [[Tatorte Black Creek]]
-    *   **Beteiligte:** Ermittler, [[Die Asche]], beunruhigende Muster.
-    *   **Auslöser:** Ankunft am Tatort.
-    *   **Beschreibung & Herausforderungen:** Grausige Entdeckung, Beweissicherung (Asche, Muster), Umgang mit schrecklichen Bildern (SAN-Proben), potenzielle Umweltgefahren.
-    *   **Mögliche Ergebnisse & SAN-Kosten:** Schlüsselhinweise gesammelt (Asche, Muster), 1/1W4 SAN-Verlust durch Gore/Atmosphäre.
-*   **Begegnung 2:** Konfrontation mit dem Sheriff
-    *   **Ort:** [[Sheriff-Posten Black Creek]]
-    *   **Beteiligte:** Ermittler, [[Sheriff Brody]].
-    *   **Auslöser:** Suche nach offiziellen Informationen/Kooperation.
-    *   **Beschreibung & Herausforderungen:** Soziale Begegnung, Versuch, Informationen von einem gestressten/blockierenden Beamten zu erhalten. Potenzial für Charm/Intimidate/Persuade-Proben. Etwas über Funkstörungen erfahren?
-    *   **Mögliche Ergebnisse & SAN-Kosten:** Begrenzte Kooperation erreicht, Behinderung durch Sheriff bestätigt, von Störungen erfahren. 0 SAN.
-*   **Begegnung 3:** Spannung im Ort
-    *   **Ort:** [[Black Creek]] (z.B. Gemischtwarenladen, Bar)
-    *   **Beteiligte:** Ermittler, [[Stadtbewohner Black Creek]].
-    *   **Auslöser:** Ermittler versuchen öffentlich Informationen zu sammeln.
-    *   **Beschreibung & Herausforderungen:** Navigieren durch Angst und Misstrauen, Gerüchte sammeln, potenzielle Feindseligkeit, die zu einem Mob eskaliert. Soziale Fertigkeiten benötigt.
-    *   **Mögliche Ergebnisse & SAN-Kosten:** Gerüchte erfahren (Geräusche, Träume, schlechte Orte), potenziell Feindseligkeit provoziert. 0/1 SAN durch bedrückende Atmosphäre/Angst.
-*   **Begegnung 4:** Das Versteck des Mörders
-    *   **Ort:** [[Versteck Täter Black Creek]]
-    *   **Beteiligte:** Ermittler, potenzielle Fallen, entscheidende Hinweise (Kritzeleien, Manifest).
-    *   **Auslöser:** Spuren zum Versteck des Mörders folgen.
-    *   **Beschreibung & Herausforderungen:** Durchsuchen des verstörenden Ortes, Fallen vermeiden, die entscheidenden schriftlichen Hinweise finden (Muster, Symbole, Manifest). (Investigate/Untersuchen, Spot Hidden/Spurensuche, Dodge/Ausweichen oder Athletics/Athletik für Fallen).
-    *   **Mögliche Ergebnisse & SAN-Kosten:** Finden kritischer Hinweise, die zu Phase-2-Zielen führen, möglicherweise Identifizierung des Mörders. 1/1W3 SAN durch verstörenden Inhalt.
-*   **Begegnung 5:** Konfrontation mit dem Mörder
-    *   **Ort:** Variabel - könnte im Versteck sein, während eines weiteren Mordes oder bei der Jagd auf Ermittler.
-    *   **Beteiligte:** Ermittler, [[Täter Black Creek]].
-    *   **Auslöser:** Mörder aufspüren oder in einen Hinterhalt geraten.
-    *   **Beschreibung & Herausforderungen:** Kampf, Verfolgung oder angespannte soziale Begegnung (falls möglich). Mörder ist gefährlich und potenziell resistent gegen Schmerz/Angst aufgrund des Einflusses. Könnte über den "Druck" oder "Gesang" schimpfen.
-    *   **Mögliche Ergebnisse & SAN-Kosten:** Mörder gestoppt/entkommt, Ermittler verletzt, potenzielle direkte Hinweise aus den Worten des Mörders. 1/1W6 SAN für die Konfrontation mit verstärkter Gewalt/Wahnsinn.
+*   **Begegnung 1:** Ankunft & Gespräch mit Brody (Sheriff-Büro) - Soziale Herausforderung, erste Eindrücke.
+*   **Begegnung 2:** Tatortuntersuchung (Harmons Haus) - **Safety Tool Checkpoint**, Horror, Hinweise 1, 2, 3 finden. [SAN 1/1W4+]
+*   **Begegnung 3:** Gerüchteküche (Bar) - Soziale Interaktion, Atmosphäre, Hinweise 5, 6, 7. Potenzial für plötzliche Gewalt (nicht zwingend gegen SCs). [SAN 0/1]
+*   **Begegnung 4:** Fund in Harmons Versteck - Investigation, Spannung (Entdeckung?), zentraler Hinweis 4. [SAN 1/1W3]
+*   **Begegnung 5 (Potential):** Eskalation in der Stadt - Beobachtung/Intervention bei weiterem Ausbruch. Bestätigt Verbreitung. [SAN 0/1d4+]
 
 ## 8. Showdown & Auflösung
-*Der Höhepunkt. Wie könnte die Untersuchung enden? Wie wirkt sich dies auf die größere Kampagne und die Uhren aus?*
+*Der Höhepunkt.*
 
-*   **Die Konfrontation:** Beinhaltet wahrscheinlich das Aufspüren und Stoppen des [[Täter Black Creek]], möglicherweise in seinem Versteck oder an einem anderen wichtigen Ort.
+*   **Die Konfrontation:** Die **Erkenntnis** der internen Natur der Bedrohung, genährt durch die Asche. Höhepunkt ist das Zusammensetzen der Puzzleteile (Gewalt + Asche + Symbol + Manifest). Evtl. Konfrontation mit Brody oder Zeuge einer weiteren Eskalation.
 *   **Mögliche Erfolgs-Ergebnisse:**
-    *   Mörder gestoppt (gefangen oder getötet). Weitere unmittelbare Morde verhindert.
-    *   Ermittler sammeln Schlüsselhinweise: [[Die Asche]]-Probe, Wissen über geometrische/astronomische Muster, Berichte über Geräusche/Störungen, potenzieller historischer Kontext, vielleicht frühes Kultsymbol.
-    *   *Belohnungen:* Dank der Gemeinschaft (vielleicht?), entscheidende Spuren für Phase 2.
-    *   *Bleibende Konsequenzen:* Trauma durch Gewalt, potenzielle Verletzungen, bleibende Fragen nach der *Quelle* des Wahnsinns.
-    *   *Auswirkung auf Globale Uhren:* Keine direkt, da Uhren noch nicht aktiv sind. Bereitet die Bühne für ihre Aktivierung.
+    *   Spieler verstehen: Gewalt kommt von innen, verstärkt durch Asche/Druck. Symbol = Ausdruck. Harmon ist Symptom.
+    *   Schlüsselhinweise (Asche-Probe, Symbol, Notizen, Gerüchte) gesichert für Phase 2.
+    *   Evtl. weitere Eskalation verhindert.
+    *   *Belohnungen:* Fundamentales Verständnis, klare Leads.
+    *   *Konsequenzen:* Trauma, Wissen um interne Gefahr.
 *   **Mögliche Fehlschlags-Ergebnisse:**
-    *   Mörder entkommen, kehren möglicherweise später zurück oder beeinflussen andere.
-    *   Ermittler sammeln nicht genügend Hinweise, was den Start von Phase 2 erschwert.
-    *   Ermittler werden getötet, vertrieben oder erleiden erheblichen SAN-Verlust/Trauma.
-    *   *Konsequenzen:* Black Creek bleibt terrorisiert, die Natur von [[Die Asche]] wird weniger verstanden.
-    *   *Auswirkung auf Globale Uhren:* Keine direkt.
-*   **Wichtige Stabilitätspunkte:** Zeuge extremer Gewalt (1/1W4+), Konfrontation mit Mörder (1/1W6), Verständnis des verstärkten Motivs (0/1W3), Entdeckung des verstörenden Verstecks (1/1W3).
+    *   Falsche Interpretation (Serienmord, Fluch).
+    *   Wichtige Hinweise verpasst.
+    *   Opfer der Gewalt / Flucht ohne Verständnis.
+    *   *Konsequenzen:* Start von Phase 2 erschwert.
+*   **Wichtige Stabilitätspunkte:** Tatort [1/1W4+], Harmons Manifest [1/1W3], Miterleben weiterer Gewalt [0/1d4+], Erkenntnis der internen Natur [1/1W3].
 
 ---
 
 ## Notizen nach der Untersuchung & Spielerfragen
 
-*   *Wichtige Erkenntnisse oder Konsequenzen daraus, wie diese Untersuchung verlaufen ist:* (z.B. Wurde die Asche analysiert? Wurde der Mörder gefasst? Wie war die Interaktion mit Sheriff/Stadtbewohnern?)
-*   *Offene Enden oder unerwartet entstandene neue Spuren:* (z.B. Hat ein bestimmtes Gerücht ihr Interesse mehr geweckt als andere?)
-*   *Mögliche PbtA-Stil Fragen an Spieler (basierend auf ihren Aktionen/Interessen dieser Sitzung):*
-    *   *"Die Kratzmuster am Tatort wirkten fast... absichtsvoll. Wenn sie eine Botschaft wären, an wen oder was wäre sie gerichtet?"*
-    *   *"Ihr habt die Verzweiflung in den Augen vieler Stadtbewohner gesehen. Gab es eine Person, deren Verzweiflung *anders* wirkte, fast... unnatürlich?"*
-    *   *"Sheriff Brody hat offensichtlich gelogen, als er sagte, die Funkstörungen seien 'nur das Wetter'. Was glaubt ihr, *warum* lügt er wirklich?"*
+*   *Wichtige Erkenntnisse/Konsequenzen:* (Wurde interne Natur verstanden? Hinweise gesichert? Zustand der Spieler?)
+*   *Offene Enden:* (Andere gefährdete Bewohner? Brodys Zustand?)
+*   *PbtA-Stil Fragen für nächste Session:*
+    *   *"Harmons Notizen sprachen von einem 'inneren Druck'. Habt ihr selbst etwas Ähnliches in Black Creek gespürt, und wenn ja, wie hat es sich angefühlt?"*
+    *   *"Das Symbol war untrennbar mit der Gewalt verbunden. Welche tiefere Bedeutung oder Absicht vermutet ihr dahinter, jenseits der reinen Brutalität?"*
+    *   *"Die ganze Stadt schien am Rande zu stehen. Wenn dieser 'Druck' ansteckend ist oder sich ausbreitet, was ist eure größte Befürchtung für die Zukunft?"*
