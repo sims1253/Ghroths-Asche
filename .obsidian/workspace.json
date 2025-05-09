@@ -66,18 +66,126 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "abenteuer_checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99_Assets/Templates/abenteuer_checklist.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"abenteuer_checklist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Ashbridge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Ashbridge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Ashbridge\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "new_adventure_tempalte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99_Assets/Templates/new_adventure_tempalte.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"new_adventure_tempalte\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":150.16775126536515}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":75.0250850340136}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":27},\"to\":{\"line\":8,\"ch\":27}},\"scroll\":348.88104838709677}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":0},\"to\":{\"line\":52,\"ch\":0}},\"scroll\":3.548476454293629}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":100.0703125}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":77.8775}"
+                },
+                {
+                  "title": "03 - Der Schattengefaltete Chor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03 - Der Schattengefaltete Chor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":287},\"to\":{\"line\":49,\"ch\":287}}}"
+                },
+                {
+                  "title": "02 - Das Gewicht, das verweilt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02 - Das Gewicht, das verweilt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":286},\"to\":{\"line\":54,\"ch\":286}}}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":0},\"to\":{\"line\":54,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Das große Ganze - Herz der Asche",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Campaign_Info/Das große Ganze - Herz der Asche.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Das große Ganze - Herz der Asche\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25}"
+                },
+                {
+                  "title": "Campaign_Overview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Campaign_Info/Campaign_Overview.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign_Overview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":47},\"to\":{\"line\":41,\"ch\":47}},\"scroll\":26}"
+                },
+                {
+                  "title": "01 - Der Asche-Zorn von Black Creek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01 - Der Asche-Zorn von Black Creek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":10},\"to\":{\"line\":99,\"ch\":10}},\"scroll\":228.7015931372549}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md",
+                "file": "99_Assets/Templates/abenteuer_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Der Asche-Zorn von Black Creek"
+              "title": "abenteuer_template"
             }
           }
         ],
@@ -297,9 +405,38 @@
   },
   "active": "16ae7f7b7248ce09",
   "lastOpenFiles": [
-    "00_Campaign_Info/Campaign_Overview.md",
-    "00_Campaign_Info/Das große Ganze - Herz der Asche.md",
+    "99_Assets/Templates/abenteuer_checklist.md",
+    "03_Mysteries/Act_1/01 - Der Asche-Zorn von Ashbridge.md",
+    "99_Assets/Templates/kampagne_orga.md",
+    "99_Assets/Templates/sitzung_log.md",
+    "99_Assets/Templates/kampagne_design_checklist.md",
+    "99_Assets/Templates/abenteuer_template.md",
+    "99_Assets/Templates/new_adventure_tempalte.md",
+    "99_Assets/Templates/old/Mystery_Template.md",
+    "99_Assets/Templates/old/gm_presentation_guide.md",
+    "99_Assets/Templates/old/campaign_orga_guideline.md",
+    "99_Assets/Templates/old/campaign_checklist.md",
+    "99_Assets/Templates/old/adventure_checklist.md",
+    "99_Assets/Templates/old/session_summary_template.md",
+    "99_Assets/Templates/old/new_adventure_tempalte.md",
+    "99_Assets/Templates/old",
+    "99_Assets/Templates/Neuer Ordner",
+    "03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md",
     "03_Mysteries/Act_1/02 - Das Gewicht, das verweilt.md",
+    "03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md",
+    "00_Campaign_Info/Das große Ganze - Herz der Asche.md",
+    "03_Mysteries/Act_1/02 - handouts/text_handouts.tex",
+    "00_Campaign_Info/Campaign_Overview.md",
+    "03_Mysteries/Act_1/01 - handouts/office.webp",
+    "99_Assets/Images/office.webp",
+    "99_Assets/Images/assets_task_01jt9gnkgvfwx9dhb18vs3h8qg_1746223732_img_1.webp",
+    "03_Mysteries/Act_1/01 - handouts/asche_sample_report.txt",
+    "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.txt",
+    "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1",
+    "99_Assets/Templates/adventure_checklist.md",
+    "99_Assets/Templates/campaign_checklist.md",
+    "99_Assets/Templates/gm_presentation_guide.md",
+    "99_Assets/Templates/campaign_orga_guideline.md",
     "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.pdf",
     "03_Mysteries/Act_1/01 - handouts/killers_notes_handout.md",
     "03_Mysteries/Act_1/01 - handouts/museums-victoria-rcES3Cqw6z8-unsplash.jpg",
@@ -312,37 +449,8 @@
     "03_Mysteries/Act_1/01 - handouts/blood_spilled_scribbly_symbol.jpeg",
     "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.md",
     "03_Mysteries/Act_1/01 - handouts/Pine_County_Chronicle_Issue_1.tex",
-    "03_Mysteries/Act_1/01 - handouts/killers_notes_handout.tex",
-    "03_Mysteries/Act_1/01 - handouts/clay-banks-FPcEsT0Sv8A-unsplash.jpg.~tmp",
     "03_Mysteries/Act_1/01 - handouts/clay-banks-FPcEsT0Sv8A-unsplash.jpg",
-    "03_Mysteries/Act_1/01 - handouts/tom-hills-XhplcbXMxD0-unsplash.jpg.~tmp",
-    "03_Mysteries/Act_1/01 - handouts/tom-hills-XhplcbXMxD0-unsplash.jpg",
-    "03_Mysteries/Act_1/03 - Der Schattengefaltete Chor.md",
-    "03_Mysteries/Act_1/01 - Der Asche-Zorn von Black Creek.md",
-    "03_Mysteries/Act_1/03 - handouts/Screenshot 2025-04-08 212723.png",
-    "03_Mysteries/Act_1/03 - handouts/lifeless_deathless_handout.png",
-    "03_Mysteries/Act_1/03 - handouts/ChatGPT Image 8. Apr. 2025, 21_00_06.png.~tmp",
     "05_Session_Logs/Session_Log_Template.md",
-    "03_Mysteries/Act_1/01 - handouts/asche_sample_report.tex",
-    "03_Mysteries/Act_1/01 - handouts/asche_sample_description_handout.md",
-    "03_Mysteries/Act_1/01 - handouts/faded_photograph_handout.md",
-    "03_Mysteries/Act_1/01 - handouts/symbol_object_handout.md",
-    "03_Mysteries/Act_1/01 - handouts/Generated Image April 06, 2025 - 10_42PM.jpeg.~tmp",
-    "03_Mysteries/Act_1/01 - handouts/Ashfall_Gazette_Issue_1.md",
-    "03_Mysteries/Act_2/06 - Das sich windende Herz.md",
-    "03_Mysteries/Act_2/05 - Der Flüsternde Sender.md",
-    "03_Mysteries/Act_2/04 - Die Withering Zone.md",
-    "03_Mysteries/Act_1/Clue_Flow_Act1_Description.md",
-    "03_Mysteries/Act_1/Untitled.canvas",
-    "02_Investigators/Trauma_&_Narben_Log.md",
-    "02_Investigators/Spielercharaktere Übersicht.md",
-    "01_Setting/Mythos_Elements/Transformierte Kreaturen & Opfer.md",
-    "00_Campaign_Info/Das große Ganze - Ghroths Passage und der verzweifelte Schild.md",
-    "99_Assets/Templates/Mystery_Template.md",
-    "03_Mysteries/Act_3/Clue_Flow_Act3_Description.md",
-    "03_Mysteries/Act_2/Clue_Flow_Act2_Description.md",
-    "00_Campaign_Info/Kampagnen-Handouts.md",
-    "04_Mechanics/Houserules & Spielmechaniken.md",
-    "01_Setting/Factions/Asche-Chor Zelle (Früh).md"
+    "03_Mysteries/Act_1/Untitled.canvas"
   ]
 }
