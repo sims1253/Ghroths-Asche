@@ -1,0 +1,73 @@
+\documentclass[10pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage[scaled=0.90]{helvet} % Eine serifenlose Schrift
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{array}
+\usepackage{amsmath} % Für \fbox
+
+\linespread{1.1} % Zeilenabstand für Lesbarkeit
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em} % Kleiner Abstand zwischen Absätzen
+
+\begin{document}
+
+\pagestyle{empty} % Keine Seitenzahlen
+
+\begin{center}
+    {\large PINE COUNTY SHERIFF'S DEPARTMENT} \\
+    \vspace{0.2cm}
+    \rule{\linewidth}{0.4pt} \\
+    \vspace{0.1cm}
+    \textbf{BEWEISMITTELBERICHT - VORLÄUFIGE FELDASSERVATION} \\ % Titel
+    \vspace{0.1cm}
+    \rule{\linewidth}{0.4pt}
+\end{center}
+\vspace{0.5cm}
+
+% Verwendung von tabular für saubere Ausrichtung der Kopfdaten
+\begin{tabular}{@{} >{\bfseries}p{4cm} @{} p{\dimexpr\linewidth-4cm}} % Spaltenbreiten anpassen
+    Fall-Nr.: & PCC-BC-2025-001 \\ % Beispielhafte Nummer
+    Datum d. Berichts: & [Datum, z.B. 25. Oktober 19XX] \\ % Muss zum Zeitungsdatum passen
+    Asservat-Nr.: & BC-A01-ASH \\
+    Bearbeiter: & Deputy C. Miller (Zeichen: CM) \\ % Beispiel
+    Funddatum: & [Datum der Tat, z.B. 24. Oktober 19XX] \\
+\end{tabular}
+\vspace{0.5cm}
+
+\textbf{Fundort(e):} \\
+Hauptsächlich Tatort Anwesen Harmon, Black Creek. Geringere Spuren auch an Kleidung des Verstorbenen (S. Harmon).
+\vspace{0.4cm}
+
+\textbf{Beschreibung des Asservats (BC-A01-ASH):} \\
+Feines, pulverförmiges Material, Farbe: mattgrau. Konsistenz: trocken, leicht, haftet ungewöhnlich stark an Oberflächen. Auffallende Konzentration in Nähe der Leichen. Mehrere Proben gesichert.
+\vspace{0.4cm}
+
+\textbf{Erste Einschätzung / Feldbeobachtungen:} \\ % Korrekte Überschrift
+\begin{itemize} \itemsep0pt % Kein zusätzlicher Abstand zwischen Listenelementen
+    \item[-] \textbf{Herkunft Unbekannt:} Keine offensichtliche Quelle am Tatort (kein Brand, keine Industrie).
+    \item[-] \textbf{Haptik/Temperatur:} Fühlt sich bei Berührung (durch Schutzhandschuh) subjektiv \textit{kalt} an, kälter als Umgebungstemperatur. Nicht messbar mit Standardthermometer.
+    \item[-] \textbf{Chemische Feldtests:} Standard-Feldkit (Drogen, Brandbeschl., etc.) \textbf{negativ}. Zusammensetzung vor Ort nicht bestimmbar.
+    \item[-] \textbf{EMF-Messungen:} Handgerät (Specter-3) zeigte im Nahbereich (<0.5m) \textit{kurze, erratische Ausschläge} (Niederfrequenz). Nicht reproduzierbar, keine bekannte Störquelle. \textit{Gerätefunktion oder reales Phänomen?}
+    \item[-] \textbf{Mikroskopie (Feld):} (40x) Extrem feine Partikel, teils kristallin wirkend. Keine erkennbare biologische Struktur. \textit{Keine Identifikation möglich.} % <<< KORRIGIERTE ZEILE
+\end{itemize}
+\vspace{0.4cm}
+
+\textbf{Veranlasste Maßnahmen:} \\
+Proben gesichert und versiegelt. Transport an staatl. Kriminallabor (Capital City) zur Analyse (GC/MS, REM etc.) vorbereitet. \textbf{Hinweis:} Info aus Capital City: Labor z.Zt. stark überlastet (Personalmangel, hoher Fallrückstau). \textbf{Analyseergebnisse werden voraussichtlich erst in Wochen/Monaten erwartet.} Priorisierung angefragt, Erfolg ungewiss.
+\vspace{0.4cm}
+
+\textbf{Vermerk / Weisung Sheriff Brody (persönlich diktiert, CM):} \\
+\fbox{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{% Box um den Text
+\textbf{STRENG VERTRAULICH:} Sheriff Brody über ungewöhnliche Feldbeobachtungen informiert. Weisung: Aufgrund der unklaren Natur der Substanz und der Verzögerung im Labor ist diese bis auf Weiteres \textbf{intern als "unidentifizierte Tatort-Kontamination"} zu behandeln. \textbf{Keinerlei Informationen an die Presse oder Unbefugte!} Fokus auf konventionelle Spuren. Brody übernimmt weitere Kommunikation bzgl. Labor. - D. Brody (via Funk) / CM (Vermerk)
+}}
+\vspace{1cm} % Abstand für Unterschrift
+
+% Unterschriftszeile
+\noindent\rule{8cm}{0.4pt} \\ % Linie für Unterschrift
+\textit{Unterschrift d. Bearbeiters (Deputy C. Miller)}
+
+\end{document}

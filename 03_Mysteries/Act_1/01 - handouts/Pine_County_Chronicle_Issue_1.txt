@@ -1,0 +1,117 @@
+\documentclass[10pt, a4paper]{article}
+
+% --- Grundlegende Pakete ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{newtxtext}       % Serifenschrift (Times-ähnlich)
+\usepackage[scaled=0.90]{helvet} % Sans-serif für Kontrast (optional)
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{times}  % Erzwingt Times New Roman oder Ähnliches
+\usepackage{fancyhdr} % Für Kopfzeile
+\usepackage{lipsum} % Nur für Fülltext, falls benötigt
+
+% --- Seitenlayout ---
+\geometry{
+    a4paper,
+    left=15mm,
+    right=15mm,
+    top=15mm,
+    bottom=15mm,
+    headheight=15pt,
+    includehead
+}
+\setlength{\columnsep}{0.8cm}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0pt}
+
+% --- Kopfzeile ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\chead{\small ASHBRIDGE CHRONICLE \quad | \quad Nachrichten für Ashbridge und Umgebung \quad | \quad Ausgabe vom [Datum, z.B. 28. Oktober 202X]} % DATUM ANPASSEN
+
+% --- Hilfsmakro für Abstand ---
+\newcommand{\articlesep}{\vspace{0.6em}}
+
+% --- Dokument Beginn ---
+\begin{document}
+\frenchspacing
+
+% --- Zeitungstitel ---
+\begin{center}
+    \fontsize{36}{42}\selectfont \textbf{ASHBRIDGE CHRONICLE} \\
+    \large Nachrichten aus dem Herzen der alten Industrie \\
+    \normalsize Ausgabe Nr. 112 \quad | \quad [Wochentag], [Datum, z.B. 28. Oktober 202X] \quad | \quad Preis: 50 Cent % DATUM ANPASSEN
+\end{center}
+\vspace{0.5em}
+\rule{\linewidth}{1pt}
+\vspace{1em}
+
+% --- Mehrspaltiger Bereich ---
+\begin{multicols}{3}
+
+% --- Hauptartikel ---
+\large \textbf{BLUTTAT IM ZIEGELWERK: ZWEI TOTE} \normalsize \\
+\small \textit{Von unserer Redaktion} \normalsize \\
+
+\textbf{ASHBRIDGE -} Die seit langem schwelende Krise in Ashbridge hat einen neuen, tragischen Tiefpunkt erreicht. Am späten Dienstagabend wurden im Verwaltungsgebäude des stillgelegten Heimsfeld-Ziegelwerks die Leichen des ehemaligen Vorarbeiters Arthur Finch (58) und des kürzlich entlassenen Arbeiters Thomas Kane (42) gefunden.
+
+Die Polizei, unter Leitung von Chief Inspector Harris, geht nach ersten Ermittlungen von einem erweiterten Suizid aus. Es wird vermutet, dass Kane, der seit seiner Entlassung vor drei Monaten unter erheblichem psychischem Druck stand, zunächst Finch in dessen ehemaligem Büro angriff und tötete, bevor er sich selbst das Leben nahm. Die genaue Todesursache Kanes wurde noch nicht bekannt gegeben.
+
+\begin{center}
+    % Platzhalter für Bild
+    \fbox{\parbox{0.9\linewidth}{\centering \vspace{2cm} \textit{Bildplatzhalter: Polizeiabsperrung vor dem alten Ziegelwerkstor} \vspace{2cm}}}
+    \captionof*{figure}{\small Das verlassene Heimsfeld-Ziegelwerk, Schauplatz der Tragödie.}
+\end{center}
+
+Chief Harris zeigte sich erschüttert: "Dies ist eine schreckliche Tragödie, die zeigt, wie sehr der wirtschaftliche Druck auf den Menschen hier lastet." Er appellierte an die Bevölkerung, Ruhe zu bewahren und den Ermittlern ihre Arbeit zu ermöglichen. Gerüchte über besondere Umstände am Tatort wies Harris entschieden zurück: "Wir bitten darum, die Privatsphäre der Familien zu respektieren und keine unbegründeten Spekulationen zu verbreiten. Dies war eine Verzweiflungstat."
+
+Ehemalige Kollegen beschrieben Kane als still und in sich gekehrt, aber in letzter Zeit zunehmend gereizt und paranoid. Finch galt als streng, aber fair. Der Vorfall hat die angespannte Stimmung in der Stadt weiter angeheizt.
+
+\hrulefill % Trennlinie
+
+% --- Weitere Artikel ---
+
+\articlesep
+\large \textbf{"Task Force" unterstützt lokale Polizei} \normalsize \\
+Wie Chief Harris bestätigte, wird die lokale Polizei bei den Ermittlungen im Ziegelwerk von einer überregionalen "Task Force für Gewaltverbrechen" unterstützt. Details zur Einheit wurden nicht genannt. Kritiker fragen, warum bei einem scheinbar klaren Fall externe Hilfe nötig ist.
+
+\articlesep
+\large \textbf{Ziegelwerk-Gelände: Zukunft weiter ungewiss} \normalsize \\
+Der Vorfall wirft erneut ein Schlaglicht auf das Schicksal des Heimsfeld-Geländes. Pläne für eine Sanierung liegen auf Eis, das Areal verfällt zusehends und wird immer wieder zum Schauplatz von Vandalismus.
+
+\articlesep
+\large \textbf{Funkstörungen halten an} \normalsize \\
+Lokale Funkamateure melden weiterhin mysteriöse Störungen auf mehreren Frequenzen, oft begleitet von einem tiefen "Rauschen". Eine technische Ursache konnte bisher nicht gefunden werden.
+
+\articlesep
+\large \textbf{Nachtrag: Vermisster Wanderer} \normalsize \\
+Die Suche nach dem seit letzter Woche vermissten Wanderer in den Wäldern westlich von Ashbridge bleibt erfolglos. Die Polizei bittet weiterhin um Hinweise.
+
+% --- Kleinanzeigen / Vermischtes ---
+\hrulefill % Trennlinie
+
+\small
+\textbf{Kleinanzeigen:} Biete Hilfe bei Stressbewältigung \& Sinnfindung. Vertrauliche Gespräche. Tel. [Nummer wirkt leicht geändert/ungültig]. --- Suche dringend Mitbewohner für kleines Appartment, Miete günstig. Chiffre VERZWEIFELT. --- \textbf{Suche Berichte über unerklärliche 'kalte Feuer' oder plötzliche Persönlichkeitsveränderungen. Diskrete Untersuchung garantiert. Antwort an Postfach 734, Chiffre 'Nemesis Star'.} --- Kaufe Schrottmetall, gute Preise. Tel. [Nummer]. \\
+\textbf{Polizeibericht:} Erneut Einbruch in Lagerhalle am alten Hafen. Täter entwendeten offenbar nur alte Aktenordner. \\
+\textbf{Termine:} Bürgerversammlung zur Wirtschaftslage, nächsten Dienstag, Rathaus. \\
+\normalsize
+
+\hrulefill % Trennlinie
+
+% --- Meinung / Leserbriefe ---
+\large \textbf{Leserbrief} \normalsize \\
+``Was ist nur aus Ashbridge geworden? Erst die Entlassungen, jetzt diese schreckliche Tat. Man traut sich kaum noch auf die Straße. Die Polizei sagt, es war Stress, aber es fühlt sich... anders an. Dunkler.'' - \textit{Besorgte Anwohnerin} \\
+
+% --- Wetter ---
+\articlesep
+\large \textbf{Wetter} \normalsize \\
+Anhaltend trüb und regnerisch. Temperaturen unter dem Durchschnitt für die Jahreszeit. Nachts Frostgefahr in den Außenbezirken. Keine Besserung erwartet. \\
+
+\end{multicols} % Ende des mehrspaltigen Bereichs
+
+\end{document}
